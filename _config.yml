@@ -110,7 +110,7 @@ collections:
     permalink: /:path/
 
 # Google Analytics
-google_analytics                          : G-QSVZCPBZSB                                 # Enter your Google Analytics 4 Measurement ID
+google_analytics                          : G-QJK3ED0N0G                                 # Enter your Google Analytics 4 Measurement ID
 
 # Markdown rendering
 markdown: kramdown
