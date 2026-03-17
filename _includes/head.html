@@ -6,13 +6,86 @@
 
 	<title class="pageTitle">{{ site.page_title }}</title>
 	<meta name="description" content="{{ site.app_description }}">
+	<meta name="keywords" content="learn Spanish, shadowing technique, speak Spanish, Spanish pronunciation, Spanish practice app, language learning iOS, fluency in Spanish, production freeze Spanish">
 
+	<link rel="canonical" href="https://shadowingkit.github.io">
 	<link rel="shortcut icon" href="{{ site.app_icon | relative_url }}">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="ShadowingKit – Learn to Speak Spanish, Not Just Understand It">
+	<meta property="og:description" content="The proven shadowing technique, 100+ native-speaker episodes, and AI content creation. Break through production freeze and sound natural in Spanish.">
+	<meta property="og:image" content="{{ '/assets/og-image.png' | absolute_url }}">
+	<meta property="og:url" content="https://shadowingkit.github.io">
+	<meta property="og:type" content="website">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="ShadowingKit – Speak Spanish Naturally">
+	<meta name="twitter:description" content="100+ native-speaker episodes + AI transcription. The shadowing technique for A2–B2 Spanish learners.">
+	<meta name="twitter:image" content="{{ '/assets/og-image.png' | absolute_url }}">
+
+	<!-- JSON-LD: SoftwareApplication -->
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "SoftwareApplication",
+	  "name": "ShadowingKit - Spanish Practice",
+	  "operatingSystem": "iOS",
+	  "applicationCategory": "EducationApplication",
+	  "offers": {
+	    "@type": "Offer",
+	    "price": "0",
+	    "priceCurrency": "USD",
+	    "description": "Free with premium subscription ($14.99/month or $99.99/year)"
+	  },
+	  "description": "Spanish pronunciation practice app using the shadowing technique. 100+ native-speaker episodes with synchronized text highlighting.",
+	  "url": "https://shadowingkit.github.io",
+	  "downloadUrl": "https://apps.apple.com/app/id6476920610"
+	}
+	</script>
+
+	<!-- JSON-LD: FAQPage -->
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "FAQPage",
+	  "mainEntity": [
+	    {
+	      "@type": "Question",
+	      "name": "What is the shadowing technique for language learning?",
+	      "acceptedAnswer": {
+	        "@type": "Answer",
+	        "text": "Shadowing is a technique where you speak simultaneously with a native speaker, mimicking their rhythm, intonation, and pronunciation in real time. Originally developed for conference interpreter training, it builds speech automaticity — the ability to produce language without conscious translation."
+	      }
+	    },
+	    {
+	      "@type": "Question",
+	      "name": "How long until I see results from shadowing?",
+	      "acceptedAnswer": {
+	        "@type": "Answer",
+	        "text": "Research shows noticeable pronunciation gains within 4–6 weeks of consistent 10–15 minute daily sessions. Comprehension improvements appear even earlier, typically within 2–3 weeks."
+	      }
+	    },
+	    {
+	      "@type": "Question",
+	      "name": "Is ShadowingKit good for beginners?",
+	      "acceptedAnswer": {
+	        "@type": "Answer",
+	        "text": "Yes. The app includes a dedicated A2 entry path called 'Spanish in Two Minutes' — 50+ short, slow-paced episodes designed to prevent cognitive overload for upper beginners. You need basic vocabulary, but you don't need to be intermediate to start."
+	      }
+	    }
+	  ]
+	}
+	</script>
 
 	<!-- Smart App Banner -->
 	{% if site.enable_smart_app_banner %}
 		<meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}">
 	{% endif %}
+
+	<!-- Preconnect hints -->
+	<link rel="preconnect" href="https://use.fontawesome.com">
+	<link rel="preconnect" href="https://www.googletagmanager.com">
 
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">

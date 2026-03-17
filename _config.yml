@@ -1,4 +1,4 @@
-page_title                                : ShadowingKit                               # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : ShadowingKit – Learn to Speak Spanish, Not Just Understand It  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6476920610                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : ShadowingKit                              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Unlock your Spanish with the Shadowing technique.
+app_description                           : The only Spanish learning app built around the shadowing technique. 100+ curated native-speaker episodes + AI-powered content creation. Break through production freeze and speak naturally, not mechanically.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,17 +35,17 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Audio Recordings
-    description                           : Immerse yourself in high-quality audio recordings featuring native English speakers.
-    fontawesome_icon_name                 : headphones
-    
-  - title                                 : Text Scripts
-    description                           : Follow along effortlessly with synchronized text display, enhancing comprehension and pronunciation.
-    fontawesome_icon_name                 : font
+  - title                                 : Speak, Don't Just Understand
+    description                           : Break through "production freeze", the moment you understand Spanish perfectly but can't get a single word out. Shadowing trains your speech reflexes, not just your vocabulary.
+    fontawesome_icon_name                 : comments
 
-  - title                                 : Shadowing method
-    description                           : Elevate your speaking skills using the proven Shadowing technique.
-    fontawesome_icon_name                 : volume-up
+  - title                                 : 100+ Native Speaker Episodes
+    description                           : A curated library of Spanish audio recorded by a native speaker, Latin American history, cultural icons, modern phenomena. Structured by proficiency from A2 beginner to B2 intermediate.
+    fontawesome_icon_name                 : headphones
+
+  - title                                 : Practice with Any Spanish Content
+    description                           : Import audio from TikTok, Instagram, or any video file. The app auto-transcribes it and turns it into the same synchronized shadowing experience as the curated library.
+    fontawesome_icon_name                 : upload
 
 
 # Theme Settings
@@ -111,6 +111,9 @@ collections:
 
 # Google Analytics
 google_analytics                          : G-QJK3ED0N0G                                 # Enter your Google Analytics 4 Measurement ID
+
+plugins:
+  - jekyll-sitemap
 
 # Markdown rendering
 markdown: kramdown

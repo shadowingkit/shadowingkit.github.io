@@ -1,0 +1,421 @@
+// ==============================
+// Hero additions
+// ==============================
+
+.heroHeadline {
+    font-size: 2.8rem;
+    line-height: 1.2;
+}
+
+.heroPricing {
+    color: rgba($app-description-color, 0.75);
+    font-size: 1.4rem;
+    margin-top: 12px;
+}
+
+// ==============================
+// Shared section scaffolding
+// ==============================
+
+.sectionProblem,
+.sectionSolution,
+.sectionHowItWorks,
+.sectionContentLibrary,
+.sectionScience,
+.sectionFaq,
+.sectionFinalCta {
+    grid-column: 1 / -1;
+    width: 100%;
+    padding: 80px 15px;
+    box-sizing: border-box;
+}
+
+.sectionInner {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.sectionInner > h2 {
+    font-size: 2.4rem;
+    color: $feature-title-color;
+    margin-bottom: 24px;
+    line-height: 1.2;
+}
+
+.sectionBody {
+    color: $feature-text-color;
+    line-height: 1.7;
+    font-size: 1.7rem;
+}
+
+.sectionBody p {
+    margin-bottom: 16px;
+}
+
+.sectionSubheading {
+    color: $feature-text-color;
+    font-size: 1.8rem;
+    line-height: 1.6;
+    margin-bottom: 48px;
+}
+
+// ==============================
+// Problem section
+// ==============================
+
+.sectionProblem {
+    background-color: #f9f9f9;
+}
+
+.problemColumns {
+    display: flex;
+    gap: 40px;
+    margin-top: 48px;
+    flex-wrap: wrap;
+}
+
+.problemColumn {
+    flex: 1;
+    min-width: 260px;
+    background: #fff;
+    border-radius: 12px;
+    padding: 28px 28px 32px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+.problemColumn h3 {
+    font-size: 1.7rem;
+    color: $feature-title-color;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.problemColumn ul {
+    color: $feature-text-color;
+    line-height: 1.7;
+    padding-left: 20px;
+}
+
+.problemColumn ul li {
+    margin-bottom: 8px;
+}
+
+.levelBadge {
+    display: inline-block;
+    background-color: $feature-icons-background-color;
+    color: $feature-icons-foreground-color;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    white-space: nowrap;
+}
+
+// ==============================
+// Solution section
+// ==============================
+
+.solutionFormula {
+    background: $feature-icons-background-color;
+    border-left: 4px solid $feature-icons-foreground-color;
+    border-radius: 8px;
+    padding: 20px 24px;
+    font-size: 1.7rem;
+    font-weight: 600;
+    color: $feature-title-color;
+    margin: 40px 0 48px;
+}
+
+.mechanismCards {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+.mechanismCard {
+    flex: 1;
+    min-width: 220px;
+    background: #fff;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+.mechanismCard h3 {
+    color: $feature-icons-foreground-color;
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+}
+
+.mechanismCard p {
+    color: $feature-text-color;
+    line-height: 1.6;
+    font-size: 1.5rem;
+}
+
+// ==============================
+// How it works section
+// ==============================
+
+.sectionHowItWorks {
+    background-color: #f9f9f9;
+}
+
+.stepsContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 16px;
+}
+
+.step {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+}
+
+.stepNumber {
+    flex-shrink: 0;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color: $feature-icons-foreground-color;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stepContent h3 {
+    color: $feature-title-color;
+    font-size: 1.8rem;
+    margin-bottom: 8px;
+}
+
+.stepContent p {
+    color: $feature-text-color;
+    line-height: 1.6;
+    font-size: 1.5rem;
+}
+
+// ==============================
+// Content Library section
+// ==============================
+
+.libraryCards {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-top: 16px;
+}
+
+.libraryCard {
+    flex: 1;
+    min-width: 240px;
+    background: #fff;
+    border-radius: 12px;
+    padding: 28px 24px 32px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.libraryBadge {
+    display: inline-block;
+    background-color: $feature-icons-background-color;
+    color: $feature-icons-foreground-color;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    align-self: flex-start;
+}
+
+.libraryCard h3 {
+    color: $feature-title-color;
+    font-size: 1.8rem;
+}
+
+.libraryCard p {
+    color: $feature-text-color;
+    line-height: 1.6;
+    font-size: 1.5rem;
+}
+
+// ==============================
+// Science section
+// ==============================
+
+.sectionScience {
+    background-color: #f9f9f9;
+}
+
+.studyCards {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-top: 16px;
+}
+
+.studyCard {
+    flex: 1;
+    min-width: 220px;
+    background: #fff;
+    border-radius: 12px;
+    padding: 28px 24px 32px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+.studyStat {
+    font-size: 2rem;
+    font-weight: 700;
+    color: $feature-icons-foreground-color;
+    margin-bottom: 8px;
+}
+
+.studySource {
+    font-size: 1.2rem;
+    color: $feature-text-color;
+    font-style: italic;
+    margin-bottom: 14px;
+}
+
+.studyCard p {
+    color: $feature-text-color;
+    line-height: 1.6;
+    font-size: 1.5rem;
+}
+
+// ==============================
+// FAQ section
+// ==============================
+
+.faqCategory {
+    font-size: 1.8rem;
+    color: $feature-title-color;
+    margin: 40px 0 16px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid $feature-icons-background-color;
+}
+
+.faqItem {
+    border-bottom: 1px solid $feature-icons-background-color;
+    padding: 0;
+}
+
+.faqItem summary {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: $feature-title-color;
+    padding: 16px 0;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.faqItem summary::-webkit-details-marker {
+    display: none;
+}
+
+.faqItem summary::after {
+    content: '+';
+    font-size: 2rem;
+    color: $feature-icons-foreground-color;
+    line-height: 1;
+    flex-shrink: 0;
+    margin-left: 16px;
+}
+
+.faqItem[open] summary::after {
+    content: '−';
+}
+
+.faqItem p {
+    color: $feature-text-color;
+    line-height: 1.7;
+    font-size: 1.5rem;
+    padding-bottom: 20px;
+}
+
+// ==============================
+// Final CTA section
+// ==============================
+
+.sectionFinalCta {
+    background-color: $feature-icons-foreground-color;
+    text-align: center;
+}
+
+.sectionFinalCta .sectionInner > h2 {
+    color: #fff;
+    font-size: 2.6rem;
+}
+
+.sectionFinalCta p {
+    color: rgba(#fff, 0.85);
+    font-size: 1.7rem;
+    line-height: 1.7;
+    max-width: 640px;
+    margin: 0 auto 36px;
+}
+
+.finalCtaButton {
+    display: inline-block;
+    background-color: #fff;
+    color: $feature-icons-foreground-color;
+    font-size: 1.8rem;
+    font-weight: 700;
+    padding: 16px 36px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: opacity 0.15s ease;
+}
+
+.finalCtaButton:hover {
+    opacity: 0.9;
+    text-decoration: none;
+}
+
+.finalCtaPricing {
+    font-size: 1.4rem;
+    color: rgba(#fff, 0.65) !important;
+    margin-top: 16px !important;
+    margin-bottom: 0 !important;
+}
+
+// ==============================
+// Responsive adjustments
+// ==============================
+
+@media only screen and (max-width: 768px) {
+
+    .sectionProblem,
+    .sectionSolution,
+    .sectionHowItWorks,
+    .sectionContentLibrary,
+    .sectionScience,
+    .sectionFaq,
+    .sectionFinalCta {
+        padding: 56px 15px;
+    }
+
+    .sectionInner > h2 {
+        font-size: 2rem;
+    }
+
+    .heroHeadline {
+        font-size: 2.2rem;
+    }
+
+    .sectionFinalCta .sectionInner > h2 {
+        font-size: 2rem;
+    }
+}

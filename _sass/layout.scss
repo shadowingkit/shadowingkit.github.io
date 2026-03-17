@@ -41,11 +41,23 @@
 	grid-template-columns: repeat(12, 1fr);
 	grid-template-rows: 115px 876px auto auto;
 	grid-column-gap: 30px;
-	grid-template-areas: 
+	grid-template-areas:
 		"h h h h h h h h h h h h"
 		"p p p p p i i i i i i i"
 		"c c c c c c c c c c c c"
 		"f f f f f f f f f f f f";
+}
+
+// Allow full-bleed sections to break out of the max-width container
+.sectionProblem,
+.sectionSolution,
+.sectionHowItWorks,
+.sectionContentLibrary,
+.sectionScience,
+.sectionFaq,
+.sectionFinalCta {
+	margin-left: -15px;
+	margin-right: -15px;
 }
 
 .subPageContainer {
