@@ -2,6 +2,7 @@
 layout: page
 title: Terms and Conditions
 include_in_header: false
+include_in_footer: true
 ---
 
 # Terms and Conditions

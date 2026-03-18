@@ -3,6 +3,8 @@ layout: page
 title: "What Is the Shadowing Technique? A Complete Guide for Language Learners"
 description: "Learn what the shadowing technique is, why it works, the neuroscience behind it, and how to use it to speak Spanish fluently."
 permalink: /what-is-shadowing/
+include_in_footer: false
+include_in_learn_more: true
 ---
 
 # What Is the Shadowing Technique?

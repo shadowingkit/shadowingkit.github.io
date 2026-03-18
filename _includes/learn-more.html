@@ -1,0 +1,18 @@
+<section class="sectionLearnMore">
+    <div class="sectionInner">
+        <h2>Learn More About Speaking Spanish</h2>
+        <div class="learnMoreCards">
+            {% for page in site.pages %}
+                {% if page.include_in_learn_more == true %}
+                    <a class="learnMoreCard" href="{{ page.url | relative_url }}" target="_self">
+                        <h3>{{ page.title }}</h3>
+                        {% if page.description %}
+                            <p>{{ page.description }}</p>
+                        {% endif %}
+                        <span class="learnMoreArrow">Read article →</span>
+                    </a>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>

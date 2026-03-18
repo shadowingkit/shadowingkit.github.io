@@ -3,6 +3,8 @@ layout: page
 title: "5 Reasons You're Still Not Speaking Spanish Fluently"
 description: "Most Spanish learners plateau at B1 and never break through. Here are the five real reasons, and what actually fixes them."
 permalink: /why-not-speaking-spanish/
+include_in_footer: false
+include_in_learn_more: true
 ---
 
 # 5 Reasons You're Still Not Speaking Spanish Fluently

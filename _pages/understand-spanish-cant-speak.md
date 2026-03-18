@@ -3,6 +3,8 @@ layout: page
 title: "Why You Understand Spanish But Can't Speak It (And How to Fix It)"
 description: "If you understand Spanish perfectly but freeze when trying to speak, you have a production freeze, not a vocabulary problem. Here's what causes it and how to overcome it."
 permalink: /understand-spanish-cant-speak/
+include_in_footer: false
+include_in_learn_more: true
 ---
 
 # Why You Understand Spanish But Can't Speak It

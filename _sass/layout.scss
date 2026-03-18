@@ -39,22 +39,35 @@
 	padding-left: 15px;
 	padding-right: 15px;
 	grid-template-columns: repeat(12, 1fr);
-	grid-template-rows: 115px 876px auto auto;
+	grid-template-rows: 115px 876px;
 	grid-column-gap: 30px;
 	grid-template-areas:
 		"h h h h h h h h h h h h"
-		"p p p p p i i i i i i i"
-		"c c c c c c c c c c c c"
-		"f f f f f f f f f f f f";
+		"p p p p p i i i i i i i";
 }
 
-// Allow full-bleed sections to break out of the max-width container
+// Span full grid width for all content below the hero
+.features,
 .sectionProblem,
 .sectionSolution,
 .sectionHowItWorks,
 .sectionContentLibrary,
 .sectionScience,
 .sectionFaq,
+.sectionLearnMore,
+.sectionFinalCta,
+footer {
+	grid-column: 1 / -1;
+}
+
+// Allow full-bleed sections to break out of the max-width container padding
+.sectionProblem,
+.sectionSolution,
+.sectionHowItWorks,
+.sectionContentLibrary,
+.sectionScience,
+.sectionFaq,
+.sectionLearnMore,
 .sectionFinalCta {
 	margin-left: -15px;
 	margin-right: -15px;
@@ -68,7 +81,7 @@
 @media only screen and (max-width: 768px) {
 
 	.container {					// Set up the container for the site content
-		grid-template-rows: 80px 811px auto auto;
+		grid-template-rows: 80px 811px;
 	}
 }
 
@@ -76,14 +89,11 @@
 
 	.container {
 		grid-column-gap: 0px;
-		grid-template-columns: 1;
-		grid-template-rows: 115px auto auto auto auto;
-		grid-template-areas: 
+		grid-template-columns: repeat(12, 1fr);
+		grid-template-rows: 115px auto;
+		grid-template-areas:
 			"h h h h h h h h h h h h"
-			"i i i i i i i i i i i i"
-			"p p p p p p p p p p p p"
-			"c c c c c c c c c c c c"
-			"f f f f f f f f f f f f";
+			"i i i i i i i i i i i i";
 	}
 }
 
@@ -449,6 +459,8 @@ nav > ul li a:active {
 @media only screen and (max-width: 992px) {
 
 	.iphonePreview {
+		grid-area: auto;
+		grid-column: 1 / -1;
 		display: flex;
 		background-size: 260px auto;
 		background-position: center 0;
@@ -484,7 +496,6 @@ nav > ul li a:active {
 // Feature List
 
 .features {
-	grid-area: c;
 	display: flex;
 	flex: 0 1 auto;
 	align-content: flex-start;
@@ -492,6 +503,7 @@ nav > ul li a:active {
 	flex-grow: 1;
 	flex-wrap: wrap;
 	margin-top: 93px;
+	padding-bottom: 64px;
 }
 
 .feature {
@@ -541,6 +553,7 @@ nav > ul li a:active {
 .featureText > p {
 	color: $feature-text-color;
 	margin-top: 8px;
+	margin-bottom: 0px;
 	line-height: 1.5;
 }
 
@@ -619,7 +632,6 @@ nav > ul li a:active {
 // Footer
 
 footer {
-	grid-area: f;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -636,16 +648,22 @@ footer {
 }
 
 .footerIcons {
-	padding-bottom: 70px;
+	padding-top: 32px;
+	padding-bottom: 16px;
 	display: flex;
 	flex: 0 0 100%;
 	justify-content: center;
 }
 
+.footerText + .footerIcons {
+	padding-top: 0px;
+}
+
 .footerLinks {
 	display: flex;
 	text-align: center;
-	padding-bottom: 70px;
+	padding-top: 16px;
+	padding-bottom: 40px;
 }
 
 .footerLinks a {
@@ -688,7 +706,8 @@ footer {
 	}
 	
 	.footerIcons {
-		padding-bottom: 70px;
+		padding-top: 32px;
+		padding-bottom: 16px;
 		display: flex;
 	}
 	
