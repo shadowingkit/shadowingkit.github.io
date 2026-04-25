@@ -1,0 +1,11 @@
+# ShadowingKit
+> Spanish pronunciation practice app using the shadowing technique. 100+ native-speaker episodes with synchronized text highlighting. iOS app for A2–B2 learners.
+
+## About
+- [Landing Page](https://shadowingkit.com): App overview, features, how it works, FAQ
+- [App Store](https://apps.apple.com/app/id6476920610): Download on iOS
+
+## Learn More
+- [What Is Shadowing?](https://shadowingkit.com/what-is-shadowing/): Complete guide to the shadowing technique for language learning
+- [I Understand Spanish But Can't Speak](https://shadowingkit.com/understand-spanish-cant-speak/): Why comprehension doesn't equal speaking ability and how to fix production freeze
+- [Why You're Not Speaking Spanish](https://shadowingkit.com/why-not-speaking-spanish/): Five barriers to Spanish fluency and how to fix them

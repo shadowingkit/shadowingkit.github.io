@@ -1,0 +1,244 @@
+# ShadowingKit
+> Spanish pronunciation practice app using the shadowing technique. 100+ native-speaker episodes with synchronized text highlighting. iOS app for A2–B2 learners.
+
+## Landing Page
+
+### The Problem: Why You Understand Spanish But Can't Speak It
+
+You've watched the shows, done the streaks, maybe even taken classes. You understand most of what you hear. But the moment someone asks you a question, your mind goes blank.
+
+This is called the production freeze. It's not a vocabulary problem. It's not a grammar problem. It's a training problem.
+
+Traditional language apps teach about Spanish. They don't train your mouth and brain to work together automatically.
+
+**The Production Freeze (A2 Learners):**
+- Recognize words instantly but freeze when trying to speak
+- Experience "translation panic" — can't form sentences in the moment
+- Know the answer, but can't produce it fast enough to feel fluent
+
+**The Fluency Plateau (B1–B2 Learners):**
+- Can produce sentences but sound hesitant and mechanical
+- Speech is rule-driven, not automatic
+- Understand native speakers but can't match their rhythm and energy
+
+### The Solution: The Technique Professional Interpreters Use
+
+Shadowing was developed for conference interpreters — people who need to speak fluently in a second language while listening simultaneously. It works by bypassing analytical translation and building direct speech production reflexes.
+
+When you shadow, your brain stops processing language consciously and starts producing it automatically. The same neural pathways that make a native speaker fluent become active in you, through deliberate, structured repetition.
+
+**Shadowing + Native Audio + Daily Practice = Automatic Spanish Speech**
+
+How it works neurologically:
+
+- **Neural Plasticity:** Shadowing induces structural changes in the phonological loop, the brain's sound-processing system, building faster, more accurate sound production.
+- **Proceduralization:** Bypasses conscious grammar analysis. Language patterns become reflexes, not rules you look up.
+- **Prosodic Acquisition:** Trains rhythm, intonation, and stress — the musical layer of speech that separates natural speakers from textbook speakers.
+
+### How ShadowingKit Works
+
+**Step 1: Choose Your Content.** Select a curated episode matched to your level, or import your own Spanish content from TikTok, Instagram, or any video file.
+
+**Step 2: Listen and Analyze.** Play through the audio with the full transcript visible. Get familiar with the speaker's pace, rhythm, and pronunciation before you shadow.
+
+**Step 3: Shadow Out Loud.** Speak simultaneously with the native speaker. Follow the highlighted text to stay in sync. Sentence-by-sentence navigation lets you repeat any phrase until it feels natural.
+
+**Step 4: Progress to Blind Shadowing.** As your confidence builds, practice without the text, forcing your brain to process and produce Spanish purely by ear. This is where automaticity is forged.
+
+### Content Library
+
+**Spanish in Two Minutes (Best for A2 learners):** 50+ short episodes in simple, deliberate Spanish. News, curiosities, and stories, designed to give upper beginners their first taste of production without cognitive overload. This is your on-ramp from understanding to speaking.
+
+**Full Curated Episodes (Best for B1–B2 learners):** 50+ full-length narratives covering Latin American history (Hernán Cortés, Machu Picchu), cultural icons (Cantinflas, Juan Gabriel), and fascinating everyday phenomena. Native-speaker pace. Authentic prosody.
+
+**Your Own Content (Any level, your interests):** Import any Spanish audio from TikTok, Instagram, your video library, or by recording near a TV or radio. The app auto-transcribes it and turns it into the same synchronized shadowing experience as the curated library.
+
+### Features
+
+- **Speak, Don't Just Understand:** Break through "production freeze" — the moment you understand Spanish perfectly but can't get a single word out. Shadowing trains your speech reflexes, not just your vocabulary.
+- **100+ Native Speaker Episodes:** A curated library of Spanish audio recorded by a native speaker. Latin American history, cultural icons, modern phenomena. Structured by proficiency from A2 beginner to B2 intermediate.
+- **Practice with Any Spanish Content:** Import audio from TikTok, Instagram, or any video file. The app auto-transcribes it and turns it into the same synchronized shadowing experience as the curated library.
+
+### The Science Behind the Technique
+
+Shadowing isn't a trend. It's one of the most researched pronunciation training methods in second language acquisition.
+
+- **30–40% better listening comprehension** (Hamada, 2016, Language Teaching Research): Shadowing training significantly improved phoneme perception and word recognition, with lower-proficiency learners showing the largest gains.
+- **25% more accurate pronunciation** (Foote & McDonough, 2017, Journal of Second Language Pronunciation): Mobile-based shadowing produced significant gains in pronunciation accuracy and prosodic fluency (intonation and rhythm).
+- **82% reported less speaking anxiety** (Trần Văn Hòa, 2020): Consistent shadowing practice significantly reduced speaking anxiety and built confidence in students who previously avoided speaking opportunities.
+
+### Frequently Asked Questions
+
+**What is the shadowing technique?**
+Shadowing is a technique where you speak simultaneously with a native speaker, mimicking their rhythm, intonation, and pronunciation in real time. Originally developed for conference interpreter training, it builds speech automaticity, the ability to produce language without conscious translation.
+
+**How is it different from just listening and repeating?**
+In standard listen-and-repeat, you stop the audio, think about what you heard, then say it, which keeps the analytical brain in control. In shadowing, you speak simultaneously with the audio, forcing your brain to bypass conscious translation and produce speech as a reflex. This is what builds real fluency.
+
+**How long until I see results?**
+Research shows noticeable pronunciation gains within 4–6 weeks of consistent 10–15 minute daily sessions. Comprehension improvements appear even earlier, typically within 2–3 weeks.
+
+**How much time per day do I need?**
+10–15 minutes of focused shadowing per day is the research-backed sweet spot. Consistency matters far more than session length — daily short sessions outperform occasional long ones.
+
+**Do I need to understand the content to shadow it?**
+No, and that's part of what makes shadowing powerful. You train your phonological system even while processing meaning. That said, ShadowingKit's curated library is structured by proficiency level so you can start with content appropriate to your comprehension.
+
+**Is the app good for complete beginners?**
+Yes. The app includes a dedicated A2 entry path called "Spanish in Two Minutes" — 50+ short, slow-paced episodes designed to prevent cognitive overload for upper beginners. You need basic vocabulary, but you don't need to be intermediate to start.
+
+**What's the difference between the curated library and my own content?**
+The curated library is recorded by a native speaker at controlled pacing, structured by proficiency level, and covers topics designed to be engaging and culturally relevant. Your own content lets you shadow anything that interests you — a TikTok creator you follow, a podcast, a TV show — auto-transcribed and formatted the same way.
+
+**How does the auto-transcription work?**
+You import an audio or video file (or record audio directly in the app), and the app automatically generates a synchronized transcript using speech recognition. The result is the same highlighted-text shadowing experience as the curated content.
+
+**Is there a free trial?**
+Yes, in two ways. About 20% of the library is permanently free from the moment you sign up, no credit card required. If you decide to go premium, both plans include a 3-day free trial before you're charged.
+
+**What does the premium subscription include?**
+Full access to the entire curated library (100+ episodes), unlimited custom content imports, and all future content updates.
+
+**Does ShadowingKit work offline?**
+Curated episodes can be downloaded for offline use. Custom content you've already imported is also available offline after the initial transcription.
+
+## Articles
+
+### What Is the Shadowing Technique?
+
+Shadowing is a language learning method where you speak simultaneously with a native speaker, mimicking their rhythm, intonation, and pronunciation in real time — not after, but at the same time.
+
+Unlike traditional listen-and-repeat exercises, shadowing keeps your analytical brain offline. You're not translating, not analyzing grammar, not pausing to think. You're producing speech as a reflex, the same way fluent speakers do.
+
+#### Origin: From Conference Interpreters to Language Learners
+
+Shadowing was originally developed to train professional conference interpreters — people required to speak in a second language while listening simultaneously. The demands of simultaneous interpretation require a level of automaticity that normal language study can't build.
+
+The technique was introduced to the broader language learning community by linguist Alexander Argüelles, who popularized it as a daily practice for advanced learners and subsequently demonstrated its effectiveness at lower proficiency levels.
+
+#### How Shadowing Works Neurologically
+
+When you shadow, three key neurological processes are activated:
+
+1. **Phonological Loop Conditioning:** The phonological loop, the brain's short-term sound buffer, is trained to process and reproduce sounds faster. With consistent shadowing, your brain becomes more efficient at both hearing and producing the phonemes of your target language.
+
+2. **Proceduralization:** Normal language study builds declarative knowledge — facts about the language (grammar rules, vocabulary definitions). Shadowing builds procedural knowledge — automatic skills. The difference is the gap between knowing a rule and being able to use it without thinking.
+
+3. **Prosodic Acquisition:** Prosody is the musical layer of language: rhythm, stress, intonation, pacing. It's what makes a native speaker sound native beyond just pronunciation. Shadowing trains prosody directly, because you're matching a real speaker's natural speech patterns, not a textbook recording.
+
+#### 4 Scientific Benefits of Shadowing
+
+1. **Improved listening comprehension (30–40%):** A 2016 study by Hamada (Language Teaching Research) found that shadowing training significantly improved phoneme perception and word recognition speed, with lower-proficiency learners showing the largest gains.
+
+2. **More accurate pronunciation (25%):** Foote & McDonough (2017, Journal of Second Language Pronunciation) found that mobile-based shadowing produced significant gains in pronunciation accuracy and prosodic fluency, intonation and rhythm, compared to control groups.
+
+3. **Reduced speaking anxiety (82% of participants):** Trần Văn Hòa (2020) found that consistent shadowing practice significantly reduced speaking anxiety and built confidence in students who previously avoided speaking opportunities.
+
+4. **Faster speech production:** Shadowing compresses the time between hearing a word and producing it. Over time, the mental lag that causes hesitation shrinks, and your speech begins to flow without the pause for translation.
+
+#### How to Practice Shadowing: A 5-Step Guide
+
+Step 1: Choose appropriate audio. Start with content at or slightly above your comprehension level. For Spanish learners, short native-speaker recordings at A2–B1 level are ideal starting points.
+
+Step 2: Listen once without shadowing. Play through the audio and read the transcript. Familiarize yourself with the speaker's pace, vocabulary, and pronunciation before attempting to mirror it.
+
+Step 3: Shadow with the transcript (whisper shadowing). Play the audio and speak along quietly, keeping your eyes on the text. Don't worry about perfect pronunciation — focus on staying in sync with the speaker.
+
+Step 4: Shadow aloud, sentence by sentence. Repeat individual sentences until they feel natural. Focus on matching the speaker's rhythm and intonation, not just the individual sounds.
+
+Step 5: Shadow without the transcript (blind shadowing). Cover or hide the text and shadow purely by ear. This is the most demanding stage, and the most effective for building automaticity.
+
+#### Common Mistakes Beginners Make
+
+- Starting with content that's too fast. Authentic native-speed audio can be overwhelming early on. Start with slower, clearer recordings and build up.
+- Whispering only. Subvocalizing is useful for warm-up, but you need to produce full-volume speech to train your speech muscles properly.
+- Skipping the transcript. Reading along isn't cheating — it's essential for beginners who need to anchor the sound to meaning.
+- Shadowing too infrequently. 10–15 minutes daily beats 2 hours once a week. The neurological benefits compound through consistent repetition.
+- Stopping when it gets hard. The moment of difficulty is exactly when shadowing is working. Slow down, repeat the sentence, and push through.
+
+Read more: https://shadowingkit.com/what-is-shadowing/
+
+### Why You Understand Spanish But Can't Speak It
+
+You've put in the work. You've watched shows, done the Duolingo streaks, maybe sat through classes. You understand most of what you hear in Spanish. You read comfortably. You know the words.
+
+But the moment someone speaks to you, or asks a direct question, your mind goes blank. The words you know won't come out. You stumble, pause, apologize. The conversation moves on without you.
+
+This isn't a confidence problem. It isn't about being shy. And it definitely isn't about needing more vocabulary.
+
+It's a production freeze, and it's one of the most common and least-discussed barriers in language learning.
+
+#### What Is the Production Freeze?
+
+The production freeze is the gap between receptive competence (understanding language input) and productive competence (generating language output).
+
+Most Spanish learners develop strong receptive skills relatively quickly. Listening and reading are passive — your brain is pattern-matching against known vocabulary and grammar, with no time pressure.
+
+Speaking is entirely different. It requires:
+- Real-time lexical retrieval (finding the right word instantly)
+- Grammatical assembly (building the sentence structure on the fly)
+- Phonological execution (physically producing the sounds correctly)
+- Prosodic matching (using the right rhythm and intonation)
+
+All of this happens simultaneously, in fractions of a second, with a person waiting for your response. Traditional language study prepares you for exactly none of it.
+
+#### Why Vocabulary Apps Don't Fix This
+
+Apps that teach vocabulary, grammar rules, or translation between English and Spanish are building declarative knowledge — facts you can recall when given time to think.
+
+But speaking doesn't give you time to think.
+
+Fluency requires procedural knowledge — automatic skills that operate below the level of conscious attention. You can pass a grammar test and still freeze in conversation. The test is measuring the wrong thing.
+
+#### How Shadowing Addresses This Specifically
+
+Shadowing is the only language learning method that directly targets speech production reflexes.
+
+When you shadow a native speaker — speaking simultaneously with the audio — you're not translating. You're not analyzing grammar. You're producing Spanish in real time, matching a real speaker's rhythm and intonation, sentence by sentence.
+
+This is what forces proceduralization. Your brain can't analyze and shadow simultaneously, so it stops analyzing and starts producing. Over time, the gap between comprehension and production closes, and the production freeze weakens.
+
+#### A 2-Week Starter Plan
+
+Days 1–3 (Calibration): Choose one short episode (2–3 minutes) at A2–B1 level. Listen through once with the transcript visible. Shadow the full episode at whisper volume, keeping up as best you can.
+
+Days 4–7 (Sentence-Level Drilling): Take 3–5 sentences from the episode that felt difficult. Shadow each one 10 times until it feels automatic.
+
+Days 8–10 (Full Episode Shadowing): Shadow the full episode at speaking volume. Record yourself and compare to the original.
+
+Days 11–14 (Blind Shadowing): Shadow the same episode without looking at the transcript. Focus on producing the sound, not reading it.
+
+After 2 weeks of consistent 10–15 minute sessions, you'll notice the hesitation at the start of sentences beginning to shrink. That's the production freeze loosening.
+
+Read more: https://shadowingkit.com/understand-spanish-cant-speak/
+
+### 5 Reasons You're Still Not Speaking Spanish Fluently
+
+Most Spanish learners plateau at the B1 level — conversationally functional, but still noticeably hesitant, still mentally translating, still not sounding natural. They've put in years of study but never crossed the threshold into real fluency.
+
+If this is you, the problem almost certainly isn't effort or intelligence. It's method.
+
+**1. Word-by-Word Mental Translation.** Most learners construct Spanish sentences by thinking in English, translating each word, checking the grammar, then producing the sentence. This process takes 3–5 seconds per sentence. Native speakers produce language in real time at 120–180 words per minute without any of those intermediate steps. The fix: train your brain to think and produce in Spanish directly through shadowing.
+
+**2. Underdeveloped Speech Muscle Memory.** Speaking a language is a physical skill. The muscles of your mouth, tongue, and jaw need to form unfamiliar phoneme combinations quickly and automatically. Most Spanish learners have put in hundreds of hours of reading and listening but almost none speaking. Shadowing builds speech muscle memory through repetition of real native speech at natural speed.
+
+**3. No Prosodic Awareness (Rhythm and Intonation).** Prosody includes rhythm, intonation, and pacing. Spanish is more syllable-timed while English is stress-timed. Getting this wrong makes you sound mechanical even if your grammar is perfect. Shadowing is the only standard method that trains prosody directly.
+
+**4. Practice Modality Mismatch.** Reading improves reading. Listening improves listening. None of these directly improve speaking. If your goal is speaking, you need to spend most of your practice time actually producing spoken Spanish.
+
+**5. The Anxiety-Avoidance Loop.** Learners who feel self-conscious about their pronunciation avoid speaking opportunities. The less they practice, the worse they feel. Research shows that 82% of learners who practiced shadowing consistently reported reduced speaking anxiety, because automaticity makes anxiety manageable.
+
+#### A Daily Practice Blueprint
+
+Morning (10 min): Shadow one short episode with the text visible. Focus on staying in sync.
+Afternoon (5 min): Pick 3–5 difficult sentences. Repeat each one 10 times until automatic.
+Evening (optional, 5 min): Replay the morning episode without the transcript.
+
+This 15-minute daily routine, done consistently for 6–8 weeks, will produce measurable changes in speaking fluency.
+
+Read more: https://shadowingkit.com/why-not-speaking-spanish/
+
+## Links
+
+- Landing page: https://shadowingkit.com
+- App Store: https://apps.apple.com/app/id6476920610
