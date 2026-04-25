@@ -9,6 +9,8 @@ include_in_learn_more: true
 
 # What Is the Shadowing Technique?
 
+> **In short:** Shadowing is speaking simultaneously with a native speaker in real time. It builds speech automaticity by bypassing conscious translation. Originally developed for conference interpreters, research shows it improves pronunciation by 25%, listening comprehension by 30–40%, and reduces speaking anxiety in 82% of learners. 10–15 minutes daily for 4–6 weeks produces measurable gains.
+
 **Shadowing** is a language learning method where you speak simultaneously with a native speaker, mimicking their rhythm, intonation, and pronunciation in real time, not after, but *at the same time*.
 
 Unlike traditional listen-and-repeat exercises, shadowing keeps your analytical brain offline. You're not translating, not analyzing grammar, not pausing to think. You're producing speech as a reflex, the same way fluent speakers do.

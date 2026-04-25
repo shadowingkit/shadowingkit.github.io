@@ -9,13 +9,15 @@ include_in_learn_more: true
 
 # Why You Understand Spanish But Can't Speak It
 
+> **In short:** You have a production freeze — your brain understands Spanish input but has never trained to produce speech output automatically. Vocabulary apps build knowledge, not speaking reflexes. The fix is shadowing: speaking simultaneously with native audio to bypass translation and build direct speech production. A 2-week daily routine of 10–15 minutes can measurably reduce hesitation.
+
+If you understand Spanish but freeze when trying to speak, you're experiencing a **production freeze** — the gap between receptive competence (understanding input) and productive competence (generating output). It's not a vocabulary problem, a confidence problem, or a grammar problem. It's a training problem: your brain has never practiced producing speech automatically.
+
 You've put in the work. You've watched shows, done the Duolingo streaks, maybe sat through classes. You understand most of what you hear in Spanish. You read comfortably. You know the words.
 
 But the moment someone speaks to you, or asks a direct question, your mind goes blank. The words you *know* won't come out. You stumble, pause, apologize. The conversation moves on without you.
 
-This isn't a confidence problem. It isn't about being shy. And it definitely isn't about needing more vocabulary.
-
-It's a **production freeze**, and it's one of the most common and least-discussed barriers in language learning.
+This is one of the most common and least-discussed barriers in language learning.
 
 ---
 

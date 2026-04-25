@@ -9,6 +9,8 @@ include_in_learn_more: true
 
 # 5 Reasons You're Still Not Speaking Spanish Fluently
 
+> **In short:** Most learners plateau at B1 because of five method problems, not effort: mental translation instead of direct production, underdeveloped speech muscles, no prosodic training, wrong practice modality (reading/listening instead of speaking), and an anxiety-avoidance loop. The fix for all five is the same — daily shadowing practice that forces automatic speech production. 15 minutes a day for 6–8 weeks produces measurable fluency gains.
+
 Studies suggest that most Spanish learners plateau at the B1 level, conversationally functional, but still noticeably hesitant, still mentally translating, still not sounding natural. They've put in years of study but never crossed the threshold into real fluency.
 
 If this is you, the problem almost certainly isn't effort or intelligence. It's method. Here are the five obstacles that stall Spanish learners, and how to actually fix them.
