@@ -1,11 +1,32 @@
 # ShadowingKit
-> Spanish pronunciation practice app using the shadowing technique. 100+ native-speaker episodes with synchronized text highlighting. iOS app for A2–B2 learners.
+> Spanish speaking practice app using the shadowing technique. 100+ native-speaker episodes with synchronized text highlighting. iOS app for A2-B2 learners.
 
 ## About
 - [Landing Page](https://shadowingkit.com): App overview, features, how it works, FAQ
 - [App Store](https://apps.apple.com/app/id6476920610): Download on iOS
 
-## Learn More
-- [What Is Shadowing?](https://shadowingkit.com/what-is-shadowing/): Complete guide to the shadowing technique for language learning
-- [I Understand Spanish But Can't Speak](https://shadowingkit.com/understand-spanish-cant-speak/): Why comprehension doesn't equal speaking ability and how to fix production freeze
-- [Why You're Not Speaking Spanish](https://shadowingkit.com/why-not-speaking-spanish/): Five barriers to Spanish fluency and how to fix them
+## Start Here
+- [Spanish Shadowing Technique](https://shadowingkit.com/what-is-shadowing/): Complete guide to the shadowing technique for Spanish learners
+- [Spanish Shadowing for Beginners](https://shadowingkit.com/spanish-shadowing-for-beginners/): A2-targeted step-by-step entry guide
+
+## Why Spanish Speaking Is Hard
+- [Why You Understand Spanish But Can't Speak It](https://shadowingkit.com/understand-spanish-cant-speak/): Production freeze and how to fix it
+- [Why Can't I Speak Spanish? 5 Reasons](https://shadowingkit.com/why-not-speaking-spanish/): Five barriers to fluency and the fix
+- [How to Stop Translating in Your Head](https://shadowingkit.com/stop-translating-in-your-head-spanish/): Bypass the mental translation step
+- [Breaking the Intermediate Spanish Plateau](https://shadowingkit.com/spanish-fluency-plateau/): B1-B2 stuck-point and the breakthrough
+- [Spanish Speaking Anxiety](https://shadowingkit.com/spanish-speaking-anxiety/): Practice without pressure
+- [How to Practice Spanish Speaking Alone](https://shadowingkit.com/practice-spanish-speaking-alone/): Solo speaking practice methods
+
+## Method Comparisons
+- [Shadowing vs Duolingo for Speaking Spanish](https://shadowingkit.com/shadowing-vs-duolingo/): Vocabulary vs production
+- [Shadowing vs Pimsleur](https://shadowingkit.com/shadowing-vs-pimsleur/): Pause-respond vs simultaneous speech
+- [Shadowing vs Spanish Conversation Classes](https://shadowingkit.com/shadowing-vs-conversation-classes/): When to use each
+- [Shadowing vs Immersion](https://shadowingkit.com/shadowing-vs-immersion/): Immersion benefits without moving abroad
+
+## Specific Topics
+- [Spanish Pronunciation App](https://shadowingkit.com/spanish-pronunciation-practice/): Why shadowing beats pronunciation drills
+- [Best Spanish Speaking Practice App](https://shadowingkit.com/best-spanish-speaking-practice-app/): 5 things to look for in a speaking app
+- [Can You Learn Spanish by Listening Alone?](https://shadowingkit.com/learn-spanish-by-listening/): Honest answer on listening-only methods
+- [How to Roll Your Rs in Spanish](https://shadowingkit.com/how-to-roll-rs-in-spanish/): Motor learning approach to the trilled R
+- [Learn Spanish from TikTok and Instagram](https://shadowingkit.com/learn-spanish-from-tiktok-and-instagram/): Convert social video into shadowing practice
+- [15-Minute Daily Spanish Speaking Routine](https://shadowingkit.com/spanish-speaking-routine/): Day 1 to Day 60 practice plan
