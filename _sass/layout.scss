@@ -43,7 +43,7 @@
 	grid-column-gap: 30px;
 	grid-template-areas:
 		"h h h h h h h h h h h h"
-		"p p p p p i i i i i i i";
+		"i i i i i i i p p p p p";
 }
 
 // Span full grid width for all content below the hero
@@ -275,15 +275,19 @@ nav > ul li a:active {
 @media only screen and (max-width: 992px) {
 
 	.appInfo {
-		padding-top: 50px;
+		padding-top: 20px;
 		justify-content: center;
 	}
 
-} 
+}
 
 .appIconShadow {
 	display: flex;
 	filter: $drop-shadow;
+}
+
+.appInfo .appIconShadow {
+	display: none;
 }
 
 .appIconLarge {
@@ -299,7 +303,6 @@ nav > ul li a:active {
 	flex-direction: column;
 	align-items: start;
 	justify-content: center;
-	margin-left: 30px;
 }
 
 .appName {
@@ -322,10 +325,9 @@ nav > ul li a:active {
 	}
 
 	.appName {
-		margin-top: 30px;
 		text-align: center;
 	}
-	
+
 	.appPrice {
 		margin-top: 13px;
 		text-align: center;
