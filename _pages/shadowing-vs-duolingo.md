@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Shadowing vs Duolingo: Which Actually Gets You Speaking Spanish?"
-description: "Duolingo teaches vocabulary and grammar. Shadowing trains speaking reflexes. Here's an honest comparison for Spanish learners who want to actually speak."
+title: "Shadowing vs Duolingo for Speaking Spanish: Which Works?"
+description: "Duolingo teaches vocabulary and grammar. Shadowing trains speaking reflexes. Here's an honest comparison for Spanish learners who want to speak fluently."
 permalink: /shadowing-vs-duolingo/
 include_in_footer: false
 include_in_learn_more: true
 ---
 
-# Shadowing vs Duolingo: Which Actually Gets You Speaking Spanish?
+# Shadowing vs Duolingo for Speaking Spanish: Which Works?
 
 > **In short:** Duolingo and shadowing solve different problems. Duolingo builds vocabulary and grammar knowledge (declarative). Shadowing builds speaking reflexes and pronunciation (procedural). If your goal is to speak Spanish fluently, you need both. Most learners have too much of the first and almost none of the second.
 
@@ -75,4 +75,4 @@ If you have a 200-day Duolingo streak but still freeze in conversation, you don'
 
 ---
 
-*Related: [What Is the Shadowing Technique?](/what-is-shadowing/){:target="_self"} · [5 Reasons You're Still Not Speaking Spanish Fluently](/why-not-speaking-spanish/){:target="_self"}*
+*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Why Can't I Speak Spanish? 5 Reasons](/why-not-speaking-spanish/){:target="_self"}*

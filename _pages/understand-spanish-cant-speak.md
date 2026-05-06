@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Why You Understand Spanish But Can't Speak It (And How to Fix It)"
-description: "If you understand Spanish perfectly but freeze when trying to speak, you have a production freeze, not a vocabulary problem. Here's what causes it and how to overcome it."
+description: "If you understand Spanish but freeze when trying to speak, you have a production freeze. The cause is missing speech-reflex training. Here's how to fix it."
 permalink: /understand-spanish-cant-speak/
 include_in_footer: false
 include_in_learn_more: true
@@ -104,4 +104,4 @@ After 2 weeks of consistent 10-15 minute sessions, the hesitation at the start o
 
 ---
 
-*Related: [What Is the Shadowing Technique?](/what-is-shadowing/){:target="_self"} · [5 Reasons You're Still Not Speaking Spanish Fluently](/why-not-speaking-spanish/){:target="_self"}*
+*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Why Can't I Speak Spanish? 5 Reasons](/why-not-speaking-spanish/){:target="_self"}*

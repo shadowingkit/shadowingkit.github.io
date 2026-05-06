@@ -70,4 +70,4 @@ The plateau breaks when your speaking catches up to your comprehension. Shadowin
 
 ---
 
-*Related: [5 Reasons You're Still Not Speaking Spanish Fluently](/why-not-speaking-spanish/){:target="_self"} · [What Is the Shadowing Technique?](/what-is-shadowing/){:target="_self"}*
+*Related: [Why Can't I Speak Spanish? 5 Reasons](/why-not-speaking-spanish/){:target="_self"} · [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"}*

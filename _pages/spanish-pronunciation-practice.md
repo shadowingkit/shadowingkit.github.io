@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Spanish Pronunciation Practice: Why Shadowing Beats Drills"
-description: "Pronunciation drills teach isolated sounds. Shadowing trains how those sounds flow together in real speech. Here's why that difference matters for Spanish learners."
+title: "Spanish Pronunciation App: Why Shadowing Beats Drills"
+description: "The best Spanish pronunciation app trains real speech, not isolated sounds. Pronunciation drills teach phonemes. Shadowing trains how they flow at native speed. Here's why that difference matters."
 permalink: /spanish-pronunciation-practice/
 include_in_footer: false
 include_in_learn_more: true
 ---
 
-# Spanish Pronunciation Practice: Why Shadowing Beats Drills
+# Spanish Pronunciation App: Why Shadowing Beats Drills
 
 > **In short:** Traditional pronunciation drills focus on isolated sounds: the rolled /r/, vowel distinctions, individual word stress. Shadowing trains how those elements combine in real connected speech at native speed. Research shows shadowing improves pronunciation accuracy by 25% and prosodic fluency (rhythm and intonation) at the same time. Drills don't do that.
 
@@ -63,4 +63,4 @@ Shadow by ear only. This forces your phonological system to process and reproduc
 
 ---
 
-*Related: [What Is the Shadowing Technique?](/what-is-shadowing/){:target="_self"} · [How to Stop Translating in Your Head](/stop-translating-in-your-head-spanish/){:target="_self"}*
+*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [How to Stop Translating in Your Head](/stop-translating-in-your-head-spanish/){:target="_self"}*

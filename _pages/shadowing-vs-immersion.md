@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Shadowing vs Immersion: Can You Get Fluent Without Moving Abroad?"
-description: "Immersion is the gold standard for fluency — but most people can't move to a Spanish-speaking country. Shadowing replicates the key mechanism of immersion that builds fluency: forced real-time production."
+description: "Immersion is the gold standard for fluency. Most learners can't move to a Spanish-speaking country. Shadowing replicates the key mechanism: forced real-time production."
 permalink: /shadowing-vs-immersion/
 include_in_footer: false
 include_in_learn_more: true

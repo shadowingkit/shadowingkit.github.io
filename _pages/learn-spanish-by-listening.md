@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Learn Spanish by Listening: And Why It's Not Enough"
+title: "Can You Learn Spanish by Listening Alone?"
 description: "Listening to Spanish is essential for comprehension, but it doesn't teach you to speak. Here's why you need to add shadowing to your listening practice."
 permalink: /learn-spanish-by-listening/
 include_in_footer: false
 include_in_learn_more: true
 ---
 
-# Learn Spanish by Listening: And Why It's Not Enough
+# Can You Learn Spanish by Listening Alone?
 
 > **In short:** Listening builds comprehension. Speaking builds fluency. These are different neurological skills that use different brain pathways. You can listen to 1,000 hours of Spanish podcasts and still hesitate when speaking, because your production system was never trained. Shadowing bridges the gap. You listen and speak at the same time, training both skills at once.
 
@@ -70,4 +70,4 @@ You'll get more pronunciation, fluency, and comprehension benefit from 15 minute
 
 ---
 
-*Related: [What Is the Shadowing Technique?](/what-is-shadowing/){:target="_self"} · [Breaking Through the Intermediate Spanish Plateau](/spanish-fluency-plateau/){:target="_self"}*
+*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Breaking Through the Intermediate Spanish Plateau](/spanish-fluency-plateau/){:target="_self"}*

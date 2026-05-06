@@ -78,4 +78,4 @@ The content you practice with matters. Choose material that's:
 
 ---
 
-*Related: [Spanish Speaking Anxiety: How to Practice Without Pressure](/spanish-speaking-anxiety/){:target="_self"} · [What Is the Shadowing Technique?](/what-is-shadowing/){:target="_self"}*
+*Related: [Spanish Speaking Anxiety: How to Practice Without Pressure](/spanish-speaking-anxiety/){:target="_self"} · [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"}*

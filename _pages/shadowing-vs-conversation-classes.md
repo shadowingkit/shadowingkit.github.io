@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Shadowing vs Conversation Classes for Spanish"
+title: "Shadowing vs Spanish Conversation Classes: Which to Choose"
 description: "Conversation classes teach communication skills, but they don't efficiently build pronunciation or fluency. Here's how shadowing and classes complement each other."
 permalink: /shadowing-vs-conversation-classes/
 include_in_footer: false
 include_in_learn_more: true
 ---
 
-# Shadowing vs Conversation Classes for Spanish
+# Shadowing vs Spanish Conversation Classes: Which to Choose
 
 > **In short:** Conversation classes practice communication: managing turns, expressing ideas, improvising. Shadowing practices the mechanics of speech: pronunciation, rhythm, speed, automaticity. Classes expose your weaknesses. Shadowing fixes them. The most efficient approach uses both. If you're only doing one, shadowing gives you more pronunciation and fluency improvement per minute.
 

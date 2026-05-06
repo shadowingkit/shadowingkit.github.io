@@ -57,4 +57,4 @@ The key insight: you don't stop translating by trying not to translate. You stop
 
 ---
 
-*Related: [What Is the Shadowing Technique?](/what-is-shadowing/){:target="_self"} · [Why You Understand Spanish But Can't Speak It](/understand-spanish-cant-speak/){:target="_self"}*
+*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Why You Understand Spanish But Can't Speak It](/understand-spanish-cant-speak/){:target="_self"}*

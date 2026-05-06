@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "5 Reasons You're Still Not Speaking Spanish Fluently"
+title: "Why Can't I Speak Spanish? 5 Reasons and How to Fix It"
 description: "Most Spanish learners plateau at B1 and never break through. Here are the five real reasons, and what actually fixes them."
 permalink: /why-not-speaking-spanish/
 include_in_footer: false
 include_in_learn_more: true
 ---
 
-# 5 Reasons You're Still Not Speaking Spanish Fluently
+# Why Can't I Speak Spanish? 5 Reasons and How to Fix It
 
 > **In short:** Most learners plateau at B1 because of five method problems, not effort. Mental translation instead of direct production, underdeveloped speech muscles, no prosodic training, the wrong practice modality (reading and listening instead of speaking), and an anxiety-avoidance loop. The fix for all five is the same. Daily shadowing practice that forces automatic speech production. 15 minutes a day for 6-8 weeks produces measurable fluency gains.
 
@@ -103,4 +103,4 @@ One language, done properly. Spanish.
 
 ---
 
-*Related: [What Is the Shadowing Technique?](/what-is-shadowing/){:target="_self"} · [Why You Understand Spanish But Can't Speak It](/understand-spanish-cant-speak/){:target="_self"}*
+*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Why You Understand Spanish But Can't Speak It](/understand-spanish-cant-speak/){:target="_self"}*
