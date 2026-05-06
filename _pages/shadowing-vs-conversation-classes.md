@@ -9,9 +9,9 @@ include_in_learn_more: true
 
 # Shadowing vs Conversation Classes for Spanish
 
-> **In short:** Conversation classes practice communication — managing turns, expressing ideas, and improvising. Shadowing practices the mechanics of speech — pronunciation, rhythm, speed, and automaticity. Classes expose your weaknesses; shadowing fixes them. The most efficient approach uses both, but if you're only doing one, shadowing gives you more pronunciation and fluency improvement per minute.
+> **In short:** Conversation classes practice communication: managing turns, expressing ideas, improvising. Shadowing practices the mechanics of speech: pronunciation, rhythm, speed, automaticity. Classes expose your weaknesses. Shadowing fixes them. The most efficient approach uses both. If you're only doing one, shadowing gives you more pronunciation and fluency improvement per minute.
 
-Conversation classes are the most recommended way to practice speaking. And they're valuable — but not for the reasons most learners think, and not as a standalone method.
+Conversation classes are the most recommended way to practice speaking. They're valuable, though for different reasons than most learners think, and rarely as a standalone method.
 
 ---
 
@@ -22,31 +22,31 @@ Conversation classes are the most recommended way to practice speaking. And they
 | **Pronunciation accuracy** | Rarely corrected in flow | Directly trained every session |
 | **Prosody (rhythm, intonation)** | Not explicitly trained | Core focus |
 | **Speaking speed** | Your current (slow) pace | Native pace from day one |
-| **Vocabulary use** | Active — you choose words | Passive — you absorb the speaker's |
-| **Grammar practice** | Active — you build sentences | Implicit — patterns internalized |
-| **Social/pragmatic skills** | Strong — turn-taking, politeness | Not trained |
-| **Anxiety exposure** | High — live judgment | None — completely private |
-| **Cost** | $15–50/hour | Free with an app |
+| **Vocabulary use** | Active, you choose words | Passive, you absorb the speaker's |
+| **Grammar practice** | Active, you build sentences | Implicit, patterns internalized |
+| **Social/pragmatic skills** | Strong, turn-taking and politeness | Not trained |
+| **Anxiety exposure** | High, live judgment | None, completely private |
+| **Cost** | $15-50/hour | Free with an app |
 
 ---
 
 ## The Conversation Class Limitation
 
-In a typical conversation class, you spend most of your time doing three things: thinking about what to say, producing speech at your current (limited) speed, and managing the social interaction.
+In a typical conversation class, you spend most of your time on three things: thinking about what to say, producing speech at your current limited speed, and managing the social interaction.
 
-What you're not doing: matching native pronunciation, speaking at native speed, or repeating patterns until they become automatic. The class gives you practice *communicating*, but it doesn't efficiently upgrade the *mechanics* of your speech.
+What you're not doing: matching native pronunciation, speaking at native speed, or repeating patterns until they become automatic. The class gives you practice *communicating*. It doesn't efficiently upgrade the *mechanics* of your speech.
 
-This is why many learners take conversation classes for months and still sound hesitant. They're practicing communication at their current level, not building the reflexes to reach the next level.
+This is why many learners take conversation classes for months and still sound hesitant. They're practicing communication at their current level instead of building the reflexes to reach the next level.
 
-A tutor might correct your pronunciation occasionally, but correction is not training. You need hundreds of repetitions of correct speech patterns to build automaticity — and that's not how conversations work.
+A tutor might correct your pronunciation occasionally. Correction is not training. You need hundreds of repetitions of correct speech patterns to build automaticity, and that's not how conversations work.
 
 ---
 
 ## What Shadowing Does Better
 
-Shadowing is repetitive by design. You match a native speaker's exact pronunciation, rhythm, and pacing, sentence by sentence, dozens of times per session. This is how procedural skills are built — through structured, high-volume repetition of correct patterns.
+Shadowing is repetitive by design. You match a native speaker's exact pronunciation, rhythm, and pacing, sentence by sentence, dozens of times per session. This is how procedural skills get built: through structured, high-volume repetition of correct patterns.
 
-In 15 minutes of shadowing, you produce more correctly-patterned Spanish speech than in a 60-minute conversation class. Not because the class is bad, but because conversation has pauses, thinking time, and social overhead. Shadowing is pure production practice.
+In 15 minutes of shadowing, you produce more correctly-patterned Spanish speech than in a 60-minute conversation class. The class isn't bad. Conversation has pauses, thinking time, and social overhead. Shadowing is pure production practice.
 
 ---
 
@@ -55,11 +55,11 @@ In 15 minutes of shadowing, you produce more correctly-patterned Spanish speech 
 The most effective approach combines both:
 
 1. **Shadowing daily (15 min):** Builds pronunciation, speed, rhythm, and automaticity. This is your training.
-2. **Conversation weekly (30–60 min):** Practices communication, improvisation, and real-world application. This is your game day.
+2. **Conversation weekly (30-60 min):** Practices communication, improvisation, and real-world application. This is your game day.
 
 Shadowing upgrades the quality of speech you bring to conversation. Conversation reveals which patterns you need to shadow next. They feed each other.
 
-If you can only do one, shadowing delivers more measurable improvement per unit of time — and you can do it daily, alone, for free.
+If you can only do one, shadowing delivers more measurable improvement per unit of time. You can do it daily, alone, for free.
 
 ---
 
