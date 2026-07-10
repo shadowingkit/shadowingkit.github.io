@@ -4,24 +4,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<base target="_blank">
 
-	<title class="pageTitle">{{ site.page_title }}</title>
-	<meta name="description" content="{{ site.app_description }}">
-	<meta name="keywords" content="learn Spanish, shadowing technique, speak Spanish, Spanish pronunciation, Spanish practice app, language learning iOS, fluency in Spanish, production freeze Spanish">
+	<title>{{ page.title | default: site.page_title }}</title>
+	<meta name="description" content="{{ page.description | default: site.app_description }}">
 
-	<link rel="canonical" href="https://shadowingkit.github.io">
+	<link rel="canonical" href="{{ page.url | absolute_url }}">
 	<link rel="shortcut icon" href="{{ site.app_icon | relative_url }}">
 
 	<!-- Open Graph -->
-	<meta property="og:title" content="ShadowingKit – Learn to Speak Spanish, Not Just Understand It">
-	<meta property="og:description" content="The proven shadowing technique, 100+ native-speaker episodes, and AI content creation. Break through production freeze and sound natural in Spanish.">
+	<meta property="og:title" content="{{ page.title | default: 'ShadowingKit – Learn to Speak Spanish, Not Just Understand It' }}">
+	<meta property="og:description" content="{{ page.description | default: 'The proven shadowing technique, 100+ native-speaker episodes, and AI content creation. Break through production freeze and sound natural in Spanish.' }}">
 	<meta property="og:image" content="{{ '/assets/og-image.png' | absolute_url }}">
-	<meta property="og:url" content="https://shadowingkit.github.io">
-	<meta property="og:type" content="website">
+	<meta property="og:url" content="{{ page.url | absolute_url }}">
+	<meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="ShadowingKit – Speak Spanish Naturally">
-	<meta name="twitter:description" content="100+ native-speaker episodes + AI transcription. The shadowing technique for A2–B2 Spanish learners.">
+	<meta name="twitter:title" content="{{ page.title | default: 'ShadowingKit – Speak Spanish Naturally' }}">
+	<meta name="twitter:description" content="{{ page.description | default: '100+ native-speaker episodes + AI transcription. The shadowing technique for A2–B2 Spanish learners.' }}">
 	<meta name="twitter:image" content="{{ '/assets/og-image.png' | absolute_url }}">
 
 	<!-- JSON-LD: SoftwareApplication -->
@@ -39,12 +38,13 @@
 	    "description": "Free with premium subscription ($14.99/month or $99.99/year)"
 	  },
 	  "description": "Spanish pronunciation practice app using the shadowing technique. 100+ native-speaker episodes with synchronized text highlighting.",
-	  "url": "https://shadowingkit.github.io",
+	  "url": "{{ '/' | absolute_url }}",
 	  "downloadUrl": "https://apps.apple.com/app/id6476920610"
 	}
 	</script>
 
-	<!-- JSON-LD: FAQPage -->
+	{% if page.url == '/' %}
+	<!-- JSON-LD: FAQPage (homepage only, mirrors the visible FAQ section) -->
 	<script type="application/ld+json">
 	{
 	  "@context": "https://schema.org",
@@ -141,42 +141,7 @@
 	  ]
 	}
 	</script>
-
-	<!-- JSON-LD: HowTo -->
-	<script type="application/ld+json">
-	{
-	  "@context": "https://schema.org",
-	  "@type": "HowTo",
-	  "name": "How to Practice Spanish with the Shadowing Technique",
-	  "description": "A 4-step method to improve Spanish speaking using the shadowing technique with ShadowingKit.",
-	  "step": [
-	    {
-	      "@type": "HowToStep",
-	      "position": 1,
-	      "name": "Choose Your Content",
-	      "text": "Select a curated episode matched to your level, or import your own Spanish content from TikTok, Instagram, or any video file."
-	    },
-	    {
-	      "@type": "HowToStep",
-	      "position": 2,
-	      "name": "Listen and Analyze",
-	      "text": "Play through the audio with the full transcript visible. Get familiar with the speaker's pace, rhythm, and pronunciation before you shadow."
-	    },
-	    {
-	      "@type": "HowToStep",
-	      "position": 3,
-	      "name": "Shadow Out Loud",
-	      "text": "Speak simultaneously with the native speaker. Follow the highlighted text to stay in sync. Sentence-by-sentence navigation lets you repeat any phrase until it feels natural."
-	    },
-	    {
-	      "@type": "HowToStep",
-	      "position": 4,
-	      "name": "Progress to Blind Shadowing",
-	      "text": "As your confidence builds, practice without the text, forcing your brain to process and produce Spanish purely by ear. This is where automaticity is forged."
-	    }
-	  ]
-	}
-	</script>
+	{% endif %}
 
 	<!-- Smart App Banner -->
 	{% if site.enable_smart_app_banner %}
