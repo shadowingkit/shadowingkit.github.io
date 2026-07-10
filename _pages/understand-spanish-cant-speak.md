@@ -104,4 +104,4 @@ After 2 weeks of consistent 10-15 minute sessions, the hesitation at the start o
 
 ---
 
-*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Why Can't I Speak Spanish? 5 Reasons](/why-not-speaking-spanish/){:target="_self"}*
+*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Why Can't I Speak Spanish? 5 Reasons](/why-not-speaking-spanish/){:target="_self"} · [Can You Learn Spanish by Listening Alone?](/learn-spanish-by-listening/){:target="_self"}*

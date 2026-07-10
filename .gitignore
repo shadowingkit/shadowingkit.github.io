@@ -3,6 +3,3 @@
 _site
 Gemfile.lock
 .claude/settings.local.json
-
-docs/*
-CLAUDE.md
