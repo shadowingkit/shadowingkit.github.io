@@ -340,6 +340,18 @@ What shadowing adds that immersion lacks: structured repetition (loop any senten
 
 Read more: https://shadowingkit.com/shadowing-vs-immersion/
 
+### Duolingo Alternatives for Speaking Spanish
+
+People leave Duolingo because the streak keeps growing and the speaking never starts. Duolingo trains recognition: tap the right word, match the pair, fill the blank. Speaking is production: retrieve words, build grammar, move your mouth in real time. A Michigan State University study of Duolingo learners (Loewen et al., 2019) found gains concentrated in vocabulary and comprehension, with speaking the weakest area.
+
+A real speaking alternative must pass four filters: you speak out loud in every session, native-speed audio, feedback or a model to match, and content that fits your level. The main alternatives, by skill trained: italki and Preply for live conversation with a tutor (best once you can survive a conversation), Pimsleur for guided speak-and-respond audio (structured beginners), Babbel and Busuu for grammar and dialogues, Dreaming Spanish for listening comprehension only, ShadowingKit for pronunciation, rhythm, and speech reflexes (A2-B2 learners who understand but freeze).
+
+Match the tool to the gap. Conversations terrify you despite knowing words: book italki. Not ready to talk to a person: shadowing gives out-loud production with zero judgment and no partner. Understand almost nothing by ear: build input first, then add production. Want one structured course: Pimsleur, then authentic content.
+
+ShadowingKit is built for the person Duolingo leaves behind: streak-rich, speech-poor. 100+ native-speaker episodes with character-level synchronized text, a "Spanish in Two Minutes" A2 entry track, and natural-pace B1-B2 stories about Latin American history and culture. The same technique professional interpreters use to train.
+
+Read more: https://shadowingkit.com/duolingo-alternatives-for-speaking-spanish/
+
 ---
 
 ## Specific Topics
@@ -431,6 +443,18 @@ Week 7-8: Integration. Import your own content. Full cycle each session: whisper
 Three failure modes the routine avoids: overambition (60 minutes day one, quit week two), no measurement, content boredom.
 
 Read more: https://shadowingkit.com/spanish-speaking-routine/
+
+### Spanish Listening Practice for Intermediate Learners (B1-B2)
+
+The intermediate listening gap: learner podcasts feel too easy, native TV is still too fast. Good B1-B2 material passes four filters. Natural pace with clear articulation (the bridge register between learner audio and Netflix). An accurate transcript (checking what you missed is where the learning happens). 2-10 minutes long (short enough to repeat three times). Topics you'd choose in English (interest carries you through difficulty).
+
+The method matters more than the material. Hamada (2016) found learners who shadowed audio improved listening comprehension 30-40% more than learners who only listened, because production forces the brain to process every syllable instead of skimming for meaning. Use a three-pass method: listen blind to gauge comprehension, listen with the transcript to find missed words (usually connected-speech clusters and fillers), then shadow the audio out loud, matching the speaker's rhythm and intonation. Pass three turns listening practice into speaking practice.
+
+Level check: understanding 100% on the first pass means too easy. Catching less than half with the transcript means too hard. The target is material where pass one is uncomfortable and pass three is achievable.
+
+ShadowingKit is built around this workflow: 100+ native-speaker episodes at natural pace on Latin American history and culture, each with a hand-checked transcript highlighted character by character. Tap any word to jump the audio there. Import audio from TikTok, Instagram, or any file for auto-transcription into the same format.
+
+Read more: https://shadowingkit.com/spanish-listening-practice-intermediate/
 
 ---
 

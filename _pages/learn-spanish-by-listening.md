@@ -70,4 +70,4 @@ You'll get more pronunciation, fluency, and comprehension benefit from 15 minute
 
 ---
 
-*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Breaking Through the Intermediate Spanish Plateau](/spanish-fluency-plateau/){:target="_self"}*
+*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Breaking Through the Intermediate Spanish Plateau](/spanish-fluency-plateau/){:target="_self"} · [Spanish Listening Practice for Intermediate Learners](/spanish-listening-practice-intermediate/){:target="_self"}*

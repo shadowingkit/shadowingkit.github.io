@@ -75,4 +75,4 @@ If you have a 200-day Duolingo streak but still freeze in conversation, you don'
 
 ---
 
-*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Why Can't I Speak Spanish? 5 Reasons](/why-not-speaking-spanish/){:target="_self"}*
+*Related: [Spanish Shadowing Technique](/what-is-shadowing/){:target="_self"} · [Why Can't I Speak Spanish? 5 Reasons](/why-not-speaking-spanish/){:target="_self"} · [Duolingo Alternatives for Speaking Spanish](/duolingo-alternatives-for-speaking-spanish/){:target="_self"}*
