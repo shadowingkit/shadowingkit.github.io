@@ -1,47 +1,34 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+{% assign screen_videos = site.static_files | where_exp: "f", "f.path contains 'assets/videos/'" %}
+{% assign screen_images = site.static_files | where_exp: "f", "f.path contains 'assets/screenshot/'" %}
 
-{% for file in site.static_files %}
-    {% if file.path contains 'assets/screenshot/' %}
-        <script>
-            $(function() {
-                $(".iphoneScreen").attr('src', '{{ site.github.baseurl }}{{ file.path }}');
-                $(".iphoneScreen").removeClass("hidden");
-                console.log("{{ file.path }}");
-            });
-        </script>
-    {% elsif file.path contains 'assets/videos/' %}
-        {% unless file.path contains 'assets/videos/Place-video-files-here.txt' %}
-            <script>
-                $(function() {
-                    $(".iphoneScreen").addClass("hidden");
-                    console.log("remove screenshot");
-                });
-            </script>
-        {% endunless %}
-        {% if file.extname == ".mov" or file.extname == ".mp4" %}
-            <script>
-                $(function() {
-                    $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/mp4">');
-                    console.log("{{ file.path }}");
-                });
-            </script>
-        {% elsif file.extname == ".ogg" %}
-            <script>
-                $(function() {
-                    $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/ogg">');
-                    console.log("{{ file.path }}");
-                });
-            </script>
-        {% elsif file.extname == ".webm" %}
-        <script>
-            $(function() {
-                $(".videoContainer").removeClass("hidden");
-                $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/webm">');
-                console.log("{{ file.path }}");
-            });
-        </script>
-        {% endif %}
+{% assign screen_video = nil %}
+{% for file in screen_videos %}
+    {% if file.extname == '.mp4' or file.extname == '.mov' or file.extname == '.ogg' or file.extname == '.webm' %}
+        {% assign screen_video = file %}
+        {% break %}
     {% endif %}
 {% endfor %}
+
+{% assign screen_image = nil %}
+{% for file in screen_images %}
+    {% if file.extname == '.png' or file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.webp' %}
+        {% assign screen_image = file %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+
+{% if screen_video %}
+    <div class="videoContainer">
+        <video class="screenvideo" autoplay muted playsinline controls>
+            {% if screen_video.extname == '.ogg' %}
+                <source src="{{ screen_video.path | relative_url }}" type="video/ogg">
+            {% elsif screen_video.extname == '.webm' %}
+                <source src="{{ screen_video.path | relative_url }}" type="video/webm">
+            {% else %}
+                <source src="{{ screen_video.path | relative_url }}" type="video/mp4">
+            {% endif %}
+        </video>
+    </div>
+{% elsif screen_image %}
+    <img class="iphoneScreen" src="{{ screen_image.path | relative_url }}" alt="ShadowingKit app showing synchronized Spanish transcript" width="860" height="1861">
+{% endif %}

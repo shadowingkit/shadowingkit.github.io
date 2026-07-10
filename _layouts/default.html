@@ -16,13 +16,6 @@
                             </clipPath>
                         </svg>
 
-                        <div class="videoContainer hidden">
-                            <video class="screenvideo" autoplay="autoplay" controls="controls">
-                            </video>
-                        </div>  
-                        
-                        <img class="iphoneScreen hidden" src="" alt="">
-
                         {% include screencontent.html %}
 
                     </div>
@@ -53,6 +46,10 @@
                                 <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png" alt="Get it on Google Play"></a>
                             {% endif %}
                             <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/appstore.png" alt="Download on the App Store"></a>
+                            <div class="qrDownload">
+                                <img class="qrCode" src="{{ '/assets/qr-appstore.svg' | relative_url }}" alt="QR code for ShadowingKit on the App Store" width="112" height="112">
+                                <span class="qrCaption">On your computer?<br>Scan with your iPhone camera.</span>
+                            </div>
                         </div>
                     </div>
                     {% include features.html %}
@@ -65,7 +62,6 @@
                     {% include learn-more.html %}
                     {% include final-cta.html %}
                     {% include footer.html %}
-                    {% include appstoreimages.html %}
                 </div>
             </div>
         </div>
