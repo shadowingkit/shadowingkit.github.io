@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shadowingkit.com/sitemap.xml

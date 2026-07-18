@@ -1,0 +1,8 @@
+// Sass entry point. Theme vars first (they are consumed by the partials), then the
+// partials in the same order the Jekyll main.scss used.
+@import
+    "theme",
+    "base",
+    "layout",
+    "sections",
+    "github-markdown";

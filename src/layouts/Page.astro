@@ -1,0 +1,36 @@
+---
+// Port of _layouts/page.html — content pages (SEO + legal).
+import BaseHead from './BaseHead.astro';
+import Header from '../components/Header.astro';
+import { app } from '../config';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<BaseHead title={title} description={description} />
+</head>
+<body class="subPageBody">
+	<div class="headerBackground subPageHeaderBackground">
+		<div class="container subPageContainer">
+			<Header />
+			<article class="page markdown-body">
+				<slot />
+				<div class="pageCta">
+					<img class="pageCtaIcon" src={app.icon} alt="ShadowingKit app icon" width="64" height="64" />
+					<div class="pageCtaText">
+						<strong>ShadowingKit</strong>
+						<span>Spanish speaking practice with the shadowing technique. First episodes free.</span>
+					</div>
+					<a class="appStoreLink" href={app.appStoreLink}><img class="pageCtaBadge" src="/assets/appstore.png" alt="Download on the App Store" /></a>
+				</div>
+			</article>
+		</div>
+	</div>
+</body>
+</html>

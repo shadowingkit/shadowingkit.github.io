@@ -1,0 +1,22 @@
+---
+// Port of _includes/learn-more.html — cards for every page flagged include_in_learn_more,
+// ordered alphabetically by id to match Jekyll's site.pages order.
+import { pagesWithFlag, pageUrl } from '../lib/pages';
+const cards = await pagesWithFlag('include_in_learn_more');
+---
+<section class="sectionLearnMore">
+    <div class="sectionInner">
+        <h2>Learn More About Speaking Spanish</h2>
+        <div class="learnMoreCards">
+            {cards.map((page) => (
+                <a class="learnMoreCard" href={pageUrl(page)} target="_self">
+                    <h3>{page.data.title}</h3>
+                    {page.data.description && (
+                        <p>{page.data.description}</p>
+                    )}
+                    <span class="learnMoreArrow">Read article →</span>
+                </a>
+            ))}
+        </div>
+    </div>
+</section>
