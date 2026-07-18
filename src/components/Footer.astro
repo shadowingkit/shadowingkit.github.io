@@ -1,0 +1,77 @@
+---
+// Port of _includes/footer.html. Social icons render only for configured accounts
+// (today: email only). Footer links = pages flagged include_in_footer, alphabetical.
+import { social, app } from '../config';
+import { pagesWithFlag, pageUrl } from '../lib/pages';
+const footerLinks = await pagesWithFlag('include_in_footer');
+---
+<footer>
+	{social.yourName && (
+		<p class="footerText">Made by {social.yourLink ? (<a href={social.yourLink}>{social.yourName}</a>) : social.yourName}{social.yourCity && ` in ${social.yourCity}`}</p>
+	)}
+	<div class="footerIcons">
+
+		{social.facebookUsername && (
+			<a href={`https://facebook.com/${social.facebookUsername}`}>
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-facebook fa-stack-1x"></i>
+				</span>
+			</a>
+		)}
+
+		{social.twitterUsername && (
+			<a href={`https://twitter.com/${social.twitterUsername}`}>
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-twitter fa-stack-1x"></i>
+				</span>
+			</a>
+		)}
+
+		{social.instagramUsername && (
+			<a href={`https://instagram.com/${social.instagramUsername}`}>
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-instagram fa-stack-1x"></i>
+				</span>
+			</a>
+		)}
+
+		{social.mastodonLink && (
+			<a rel="me" href={social.mastodonLink}>
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-mastodon fa-stack-1x"></i>
+				</span>
+			</a>
+		)}
+
+		{social.githubUsername && (
+			<a href={`https://github.com/${social.githubUsername}`}>
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-github fa-stack-1x"></i>
+				</span>
+			</a>
+		)}
+
+		{social.emailAddress && (
+			<a href={`mailto:${social.emailAddress}`}>
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fas fa-envelope fa-stack-1x"></i>
+				</span>
+			</a>
+		)}
+
+	</div>
+	<div class="footerLinks">
+		{footerLinks.map((page) => (
+			<a href={pageUrl(page)} target="_self">{page.data.title}</a>
+		))}
+		{app.pressKitDownloadLink && (
+			<a href={app.pressKitDownloadLink}>Press Kit</a>
+		)}
+	</div>
+</footer>

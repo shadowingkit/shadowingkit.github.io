@@ -3,3 +3,8 @@
 _site
 Gemfile.lock
 .claude/settings.local.json
+
+# Astro / Node
+node_modules/
+dist/
+.astro/

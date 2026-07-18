@@ -1,0 +1,26 @@
+---
+// Google tag (gtag.js) — port of _includes/analytics.html
+import { analytics } from '../config';
+const gaId = analytics.googleAnalyticsId;
+---
+{gaId && (
+  <>
+    <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>
+    <script is:inline define:vars={{ gaId }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', gaId);
+
+      document.addEventListener('click', function (e) {
+        var link = e.target.closest && e.target.closest('a[href*="apps.apple.com"]');
+        if (link) {
+          gtag('event', 'app_store_click', {
+            link_url: link.href,
+            page_path: window.location.pathname
+          });
+        }
+      });
+    </script>
+  </>
+)}
