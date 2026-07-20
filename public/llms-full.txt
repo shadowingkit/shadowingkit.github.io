@@ -458,8 +458,20 @@ Read more: https://shadowingkit.com/spanish-listening-practice-intermediate/
 
 ---
 
+## Free Tools
+
+### The 1000 Most Common Spanish Words
+
+A free frequency list built from the OpenSubtitles spoken-Spanish corpus. Each of the 1000 entries shows the English meaning, part of speech, IPA pronunciation, syllable breaks, and stressed syllable, following Latin American Spanish (seseo, yeismo). The top 1000 words cover about 75% of everyday spoken Spanish; the first 100 alone cover about 51%. The page has filters for search, part of speech, and syllable count, and the full list downloads as a free CSV, no email required. Word data is licensed CC BY-SA 4.0. Sources: Hermit Dave FrequencyWords (OpenSubtitles) for ranks, Wiktionary for meanings.
+
+Read more: https://shadowingkit.com/frequency/
+Methodology: https://shadowingkit.com/frequency/methodology/
+
+---
+
 ## Links
 
 - Landing page: https://shadowingkit.com
 - App Store: https://apps.apple.com/app/id6476920610
 - Cornerstone guide: https://shadowingkit.com/what-is-shadowing/
+- Free tool, 1000 most common Spanish words: https://shadowingkit.com/frequency/

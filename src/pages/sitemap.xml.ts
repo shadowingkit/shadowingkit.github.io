@@ -11,6 +11,8 @@ export const GET: APIRoute = async ({ site }) => {
   const pages = await getCollection('pages');
   const locs = [
     new URL('/', base).href,
+    new URL('/frequency/', base).href,
+    new URL('/frequency/methodology/', base).href,
     ...pages.map((p) => new URL(pageUrl(p), base).href),
   ].sort();
 

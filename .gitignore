@@ -8,3 +8,16 @@ Gemfile.lock
 node_modules/
 dist/
 .astro/
+
+# Python (frequency data pipeline)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Full corpus (14MB, fetchable) — see pipeline/coverage.py for the download URL.
+# es_50k.txt is kept in-repo; es_full.txt is only needed to recompute coverage.
+pipeline/es_full.txt
+
+# Gloss pipeline intermediates (regenerable from es_50k.txt)
+pipeline/_*.txt

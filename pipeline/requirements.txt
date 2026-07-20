@@ -1,0 +1,6 @@
+# Pipeline-only dependencies (NOT needed to build/serve the static site).
+# Setup (Python 3.12 recommended; spaCy has no 3.14 wheels yet):
+#   python3.12 -m venv .venv
+#   .venv/bin/pip install -r requirements.txt
+#   .venv/bin/python -m spacy download es_core_news_sm
+spacy>=3.8,<4

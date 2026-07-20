@@ -1,0 +1,298 @@
+---
+// The frequency tool hub: 1000 most common spoken-Spanish words with meaning,
+// POS, IPA, syllables, and stress. Rows are server-rendered (crawlable); the
+// search/POS/syllable filters and IPA toggle are progressive enhancement.
+import FrequencyBase from '../../layouts/FrequencyBase.astro';
+import words from '../../../pipeline/words.json';
+import coverage from '../../../pipeline/coverage.json';
+
+const pct = Math.round(coverage.coverage_pct['1000']);
+const pct100 = Math.round(coverage.coverage_pct['100']);
+const description =
+	`The 1000 most common Spanish words, ranked by real spoken frequency, ` +
+	`with English meaning, part of speech, IPA pronunciation, syllables, and stress.`;
+
+const syllableCount = (s: string) => s.split('-').length;
+
+// POS options, most frequent first.
+const posCounts = new Map<string, number>();
+for (const w of words) posCounts.set(w.pos, (posCounts.get(w.pos) ?? 0) + 1);
+const posOptions = [...posCounts.entries()].sort((a, b) => b[1] - a[1]).map(([p]) => p);
+
+const first100 = words.slice(0, 100);
+
+// Dataset JSON-LD: this page publishes a licensed, downloadable word-frequency
+// dataset. Encodes the CC BY-SA license and the CSV so Google can surface it as
+// a dataset rich result / in Dataset Search. Source list is inherited from the
+// OpenSubtitles-derived Hermit Dave FrequencyWords corpus.
+const dataset = {
+	'@context': 'https://schema.org',
+	'@type': 'Dataset',
+	name: 'The 1000 Most Common Spanish Words',
+	description,
+	url: 'https://shadowingkit.com/frequency/',
+	keywords: [
+		'Spanish',
+		'word frequency',
+		'most common Spanish words',
+		'Spanish vocabulary',
+		'IPA pronunciation',
+	],
+	inLanguage: 'es',
+	license: 'https://creativecommons.org/licenses/by-sa/4.0/',
+	isAccessibleForFree: true,
+	creator: { '@type': 'Organization', name: 'ShadowingKit', url: 'https://shadowingkit.com/' },
+	distribution: {
+		'@type': 'DataDownload',
+		encodingFormat: 'text/csv',
+		contentUrl: 'https://shadowingkit.com/frequency/spanish-1000-most-common-words.csv',
+	},
+};
+---
+
+<FrequencyBase title="The 1000 Most Common Spanish Words" description={description} jsonLd={dataset}>
+	<section class="hero">
+		<div class="hero-copy">
+			<h1>The 1000 Most Common Spanish Words</h1>
+			<p class="subhead">
+				Ranked by how often they actually appear in spoken Spanish, with
+				meaning, pronunciation (IPA), syllables, and stress.
+			</p>
+			<a class="download-btn" href="/frequency/spanish-1000-most-common-words.csv" target="_self" download>
+				Download the full list (CSV, free)
+			</a>
+		</div>
+		<div class="stat">
+			<span class="stat-num">{pct}%</span>
+			<span class="stat-label">
+				of everyday spoken Spanish.
+				<a href="/frequency/methodology/" target="_self">How we measured this</a>
+			</span>
+		</div>
+	</section>
+
+	<div class="controls" id="controls" hidden>
+		<input
+			type="search"
+			id="search"
+			placeholder="Search word or meaning…"
+			aria-label="Search word or meaning"
+			autocomplete="off"
+		/>
+		<label>
+			Part of speech
+			<select id="pos">
+				<option value="">All</option>
+				{posOptions.map((p) => <option value={p}>{p}</option>)}
+			</select>
+		</label>
+		<label>
+			Syllables
+			<select id="syllables">
+				<option value="">Any</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5+">5+</option>
+			</select>
+		</label>
+		<label class="toggle">
+			<input type="checkbox" id="showIpa" checked />
+			Show IPA
+		</label>
+		<span class="count" id="count" aria-live="polite"></span>
+	</div>
+
+	<div class="table-wrap">
+		<table id="table">
+			<thead>
+				<tr>
+					<th class="num">#</th>
+					<th>Word</th>
+					<th>English</th>
+					<th class="pos-col">Part of speech</th>
+					<th class="ipa-col">IPA</th>
+					<th class="syl-col">Syllables</th>
+				</tr>
+			</thead>
+			<tbody id="rows">
+				{words.map((w) => (
+					<tr
+						data-text={`${w.word} ${w.gloss}`.toLowerCase()}
+						data-pos={w.pos}
+						data-syl={syllableCount(w.syllables)}
+					>
+						<td class="num">{w.rank}</td>
+						<td class="word">{w.word}</td>
+						<td class="gloss" title={w.gloss}>{w.gloss}</td>
+						<td class="pos pos-col">{w.pos}</td>
+						<td class="ipa ipa-col">{w.ipa}</td>
+						<td class="syl syl-col">{w.syllables}</td>
+					</tr>
+				))}
+			</tbody>
+		</table>
+	</div>
+	<p class="empty" id="empty" hidden>No words match those filters.</p>
+
+	<section class="prose">
+		<h2>What is a Spanish word frequency list?</h2>
+		<p>
+			A frequency list ranks words by how often they are used in real
+			language. Learning them in order is efficient: the most common words
+			appear so often that a small set carries most of everyday conversation.
+			This list is built from spoken Spanish (film and television subtitles),
+			so it reflects how people actually talk rather than formal writing.
+		</p>
+		<p>
+			Each entry shows the English meaning, the part of speech, and the
+			pronunciation: IPA, syllable breaks, and which syllable takes the
+			stress. Pronunciation follows Latin American Spanish.
+		</p>
+	</section>
+
+	<section class="first100">
+		<h2>Start here: the first 100 words</h2>
+		<p>
+			The first 100 words alone cover about {pct100}% of everyday spoken
+			Spanish. If you are starting out, learn these first. Everything after
+			builds on them.
+		</p>
+		<ol class="chips">
+			{first100.map((w) => (
+				<li>
+					<span class="chip-word">{w.word}</span>
+					<span class="chip-gloss">{w.gloss}</span>
+				</li>
+			))}
+		</ol>
+	</section>
+</FrequencyBase>
+
+<script>
+	const controls = document.getElementById('controls') as HTMLDivElement;
+	const search = document.getElementById('search') as HTMLInputElement;
+	const posSel = document.getElementById('pos') as HTMLSelectElement;
+	const sylSel = document.getElementById('syllables') as HTMLSelectElement;
+	const showIpa = document.getElementById('showIpa') as HTMLInputElement;
+	const table = document.getElementById('table') as HTMLTableElement;
+	const countEl = document.getElementById('count') as HTMLElement;
+	const emptyEl = document.getElementById('empty') as HTMLElement;
+
+	const rows = [...document.querySelectorAll<HTMLTableRowElement>('#rows tr')].map((tr) => ({
+		tr,
+		text: tr.dataset.text ?? '',
+		pos: tr.dataset.pos ?? '',
+		syl: Number(tr.dataset.syl ?? 0),
+	}));
+	const total = rows.length;
+
+	function apply() {
+		const q = search.value.trim().toLowerCase();
+		const pos = posSel.value;
+		const syl = sylSel.value;
+		let shown = 0;
+		for (const r of rows) {
+			const ok =
+				(!q || r.text.includes(q)) &&
+				(!pos || r.pos === pos) &&
+				(!syl || (syl === '5+' ? r.syl >= 5 : r.syl === Number(syl)));
+			r.tr.hidden = !ok;
+			if (ok) shown++;
+		}
+		countEl.textContent = shown === total ? `${total} words` : `${shown} of ${total}`;
+		emptyEl.hidden = shown !== 0;
+	}
+
+	function applyIpa() {
+		table.classList.toggle('hide-ipa', !showIpa.checked);
+	}
+
+	search.addEventListener('input', apply);
+	posSel.addEventListener('change', apply);
+	sylSel.addEventListener('change', apply);
+	showIpa.addEventListener('change', applyIpa);
+
+	controls.hidden = false;
+	apply();
+	applyIpa();
+</script>
+
+<style>
+	h1 { font-size: 3.36rem; line-height: 1.12; margin: 0 0 0.8rem; letter-spacing: -0.01em; }
+
+	.hero {
+		display: flex; flex-wrap: wrap; gap: 2.4rem 4rem;
+		align-items: flex-end; justify-content: space-between;
+		margin-bottom: 3.2rem;
+	}
+	.hero-copy { flex: 1 1 35.2rem; }
+	.subhead { color: var(--muted); font-size: 1.68rem; margin: 0 0 1.6rem; max-width: 46ch; }
+	.download-btn {
+		display: inline-block; font-size: 1.44rem; font-weight: 600; text-decoration: none;
+		color: var(--accent); border: 1.5px solid var(--accent); border-radius: 8px;
+		padding: 0.8rem 1.6rem;
+	}
+	.download-btn:hover { background: var(--accent); color: #fff; }
+	.stat { flex: 0 0 auto; display: flex; align-items: center; gap: 1.2rem; max-width: 30rem; }
+	.stat-num { font-size: 4.8rem; font-weight: 800; color: var(--accent); line-height: 1; letter-spacing: -0.02em; }
+	.stat-label { flex: 1; font-size: 1.44rem; color: var(--muted); }
+
+	.controls {
+		display: flex; flex-wrap: wrap; align-items: center; gap: 1.2rem 1.6rem;
+		margin-bottom: 2rem; padding: 1.44rem 1.6rem;
+		background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+		position: sticky; top: 0; z-index: 2;
+	}
+	.controls input[type='search'] {
+		flex: 1 1 22.4rem; min-width: 16rem; padding: 0.8rem 1.12rem;
+		border: 1px solid var(--line); border-radius: 7px; font-size: 1.52rem;
+	}
+	.controls label { font-size: 1.36rem; color: var(--muted); display: inline-flex; align-items: center; gap: 0.64rem; }
+	.controls select { padding: 0.64rem 0.8rem; border: 1px solid var(--line); border-radius: 7px; font-size: 1.44rem; }
+	.controls .toggle { cursor: pointer; }
+	.count { margin-left: auto; font-size: 1.36rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+	.table-wrap { overflow-x: auto; }
+	table { width: 100%; border-collapse: collapse; font-size: 1.52rem; }
+	th, td { text-align: left; padding: 0.8rem 0.96rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+	th { font-size: 1.248rem; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); white-space: nowrap; }
+	.num { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; width: 4.8rem; }
+	.word { font-weight: 600; white-space: nowrap; }
+	.gloss { max-width: 41.6rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+	.pos { color: var(--muted); white-space: nowrap; }
+	.ipa { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; white-space: nowrap; }
+	.syl { color: var(--muted); white-space: nowrap; }
+	tr:hover td { background: var(--panel); }
+
+	.hide-ipa .ipa-col { display: none; }
+	.empty { color: var(--muted); padding: 2.4rem 0.96rem; }
+
+	.prose { margin-top: 4.8rem; }
+	.prose h2, .first100 h2 { font-size: 2.24rem; margin: 0 0 0.96rem; }
+	.prose p { max-width: 68ch; }
+
+	.first100 { margin-top: 4rem; }
+	.first100 > p { max-width: 68ch; }
+	.chips {
+		list-style: none; padding: 0; margin: 2rem 0 0;
+		display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.8rem;
+		counter-reset: chip;
+	}
+	.chips li {
+		display: flex; flex-direction: column; gap: 0.08rem;
+		padding: 0.72rem 0.96rem; border: 1px solid var(--line); border-radius: 7px;
+		background: var(--panel); position: relative;
+	}
+	.chip-word { font-weight: 650; }
+	.chip-word::before { counter-increment: chip; content: counter(chip) ". "; color: var(--muted); font-weight: 400; }
+	.chip-gloss { font-size: 1.312rem; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+	@media (max-width: 640px) {
+		.stat { max-width: none; }
+		.stat-num { font-size: 3.52rem; }
+		.gloss { max-width: 19.2rem; }
+		.pos-col, .syl-col { display: none; } /* keep word, meaning, IPA on small screens */
+	}
+</style>

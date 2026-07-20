@@ -1,0 +1,13 @@
+{
+  "corpus": "hermitdave FrequencyWords es_full (OpenSubtitles 2018)",
+  "total_tokens": 423290924,
+  "total_types": 1202520,
+  "coverage_pct": {
+    "100": 50.67,
+    "500": 68.6,
+    "1000": 74.92,
+    "2000": 80.65,
+    "5000": 87.38,
+    "10000": 91.58
+  }
+}

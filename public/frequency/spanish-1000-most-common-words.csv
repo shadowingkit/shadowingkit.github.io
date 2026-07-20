@@ -1,0 +1,1001 @@
+rank,word,gloss,pos,lemma,ipa,syllables,stress
+1,de,of; 's; used after the thing owned and before the owner,preposition,de,/ˈde/,de,de
+2,que,that,conjunction,que,/ˈke/,que,que
+3,no,not,adverb,no,/ˈno/,no,no
+4,a,to,preposition,a,/ˈa/,a,a
+5,la,feminine singular definite article; the,determiner,el,/ˈla/,la,la
+6,el,masculine singular definite article; the,determiner,el,/ˈel/,el,el
+7,y,and,conjunction,y,/ˈi/,y,y
+8,es,to be (essentially or identified as),verb,ser,/ˈes/,es,es
+9,en,"in, at, on",preposition,en,/ˈen/,en,en
+10,lo,"accusative of él and usted (when referring to a man), and a variant of ello in many constructions; him, you (formal), it, that",pronoun,él,/ˈlo/,lo,lo
+11,un,an; a,determiner,uno,/ˈun/,un,un
+12,por,for; by; through; because of,preposition,por,/ˈpoɾ/,por,por
+13,qué,what,pronoun,qué,/ˈke/,qué,qué
+14,me,accusative of yo: me,pronoun,yo,/ˈme/,me,me
+15,una,a; an (feminine),determiner,uno,/ˈuna/,u-na,u
+16,los,masculine singular definite article; the,determiner,el,/ˈlos/,los,los
+17,se,"A reflexive or reciprocal pronoun: oneself, himself, herself, itself, yourself; themselves; yourselves; each other; one another",pronoun,él,/ˈse/,se,se
+18,te,"dative of tú and vos: to you, for you",pronoun,tú,/ˈte/,te,te
+19,con,with,preposition,con,/ˈkon/,con,con
+20,para,"for, to (expressing a recipient)",preposition,para,/ˈpaɾa/,pa-ra,pa
+21,está,to be (have a temporary or permanent location in space),verb,estar,/esˈta/,es-tá,tá
+22,mi,my,determiner,mi,/ˈmi/,mi,mi
+23,pero,but,conjunction,pero,/ˈpeɾo/,pe-ro,pe
+24,sí,yes,interjection,sí,/ˈsi/,sí,sí
+25,si,"if, whether",conjunction,si,/ˈsi/,si,si
+26,bien,well; fine; okay (state of being satisfied with the status quo),adverb,bien,/ˈbien/,bien,bien
+27,eso,that,pronoun,ese,/ˈeso/,e-so,e
+28,su,his; her; its; their; your (formal),determiner,su,/ˈsu/,su,su
+29,las,feminine plural definite article; the,determiner,el,/ˈlas/,las,las
+30,yo,I,pronoun,yo,/ˈʝo/,yo,yo
+31,del,of the; from the (de + el),contraction,del,/ˈdel/,del,del
+32,como,as (introducing a basis of comparison or equality),conjunction,como,/ˈkomo/,co-mo,co
+33,aquí,here (in the speaker's location),adverb,aquí,/aˈki/,a-quí,quí
+34,tu,your,determiner,tu,/ˈtu/,tu,tu
+35,al,to the; at the (a + el),contraction,al,/ˈal/,al,al
+36,más,more; -er (used to make comparisons),adverb,más,/ˈmas/,más,más
+37,le,"to him, for him; dative of él",pronoun,él,/ˈle/,le,le
+38,esto,this,pronoun,este,/ˈesto/,es-to,es
+39,todo,everything,pronoun,todo,/ˈtodo/,to-do,to
+40,ya,"now (often as opposed to before), anymore, no longer",adverb,ya,/ˈʝa/,ya,ya
+41,estoy,to be (have a temporary or permanent location in space),verb,estar,/esˈtoi̯/,es-toy,toy
+42,ahora,now (at the present time),adverb,ahora,/aˈoɾa/,a-ho-ra,ho
+43,muy,very,adverb,mucho,/ˈmui̯/,muy,muy
+44,ha,have; forms the perfect aspect,verb,haber,/ˈa/,ha,ha
+45,esta,this,determiner,este,/ˈesta/,es-ta,es
+46,así,"like this; like that; as such; thus; so; thereby; this way, that way",adverb,así,/aˈsi/,a-sí,sí
+47,vamos,to go (away from speaker and listener),verb,ir,/ˈbamos/,va-mos,va
+48,algo,"something, anything",pronoun,algo,/ˈalɡo/,al-go,al
+49,hay,there is; there are,verb,haber,/ˈai̯/,hay,hay
+50,bueno,good,adjective,bueno,/ˈbueno/,bue-no,bue
+51,tengo,to have; to possess,verb,tener,/ˈtenɡo/,ten-go,ten
+52,él,"he, him, masculine personal third person subject and disjunctive pronoun (used as a subject and after prepositions)",pronoun,él,/ˈel/,él,él
+53,cuando,when,conjunction,cuando,/ˈkuando/,cuan-do,cuan
+54,estás,to be (have a temporary or permanent location in space),verb,estar,/esˈtas/,es-tás,tás
+55,sé,"to know, to understand (a fact)",verb,saber,/ˈse/,sé,sé
+56,tú,second person pronoun in singular tense; you,pronoun,tú,/ˈtu/,tú,tú
+57,nos,"dative of nosotros: to us, for us",pronoun,yo,/ˈnos/,nos,nos
+58,nada,"nothing, zero, zilch, not...anything",pronoun,nada,/ˈnada/,na-da,na
+59,cómo,how,pronoun,cómo,/ˈkomo/,có-mo,có
+60,este,this,determiner,este,/ˈeste/,es-te,es
+61,o,or,conjunction,o,/ˈo/,o,o
+62,he,have; forms the perfect aspect,verb,haber,/ˈe/,he,he
+63,ser,to be (essentially or identified as),verb,ser,/ˈseɾ/,ser,ser
+64,tiene,to have; to possess,verb,tener,/ˈtiene/,tie-ne,tie
+65,puedo,"to be able to, can",verb,poder,/ˈpuedo/,pue-do,pue
+66,ella,"she, her (used subjectively and after prepositions)",pronoun,él,/ˈeʝa/,e-lla,e
+67,quiero,to want,verb,querer,/ˈkieɾo/,quie-ro,quie
+68,hacer,to do,verb,hacer,/aˈseɾ/,ha-cer,cer
+69,fue,to be (essentially or identified as),verb,ser,/ˈfue/,fue,fue
+70,gracias,thanks,noun,gracias,/ˈɡɾasias/,gra-cias,gra
+71,vez,"time, instance",noun,vez,/ˈbes/,vez,vez
+72,era,to be (essentially or identified as),verb,ser,/ˈeɾa/,e-ra,e
+73,soy,to be (essentially or identified as),verb,ser,/ˈsoi̯/,soy,soy
+74,sólo,superseded spelling of solo,adverb,sólo,/ˈsolo/,só-lo,só
+75,todos,everyone; all,pronoun,todo,/ˈtodos/,to-dos,to
+76,porque,because,conjunction,porque,/ˈpoɾke/,por-que,por
+77,son,to be (essentially or identified as),verb,ser,/ˈson/,son,son
+78,tienes,to have; to possess,verb,tener,/ˈtienes/,tie-nes,tie
+79,creo,to believe,verb,creer,/ˈkɾeo/,cre-o,cre
+80,voy,to go (away from speaker and listener),verb,ir,/ˈboi̯/,voy,voy
+81,sabes,"to know, to understand (a fact)",verb,saber,/ˈsabes/,sa-bes,sa
+82,estaba,to be (have a temporary or permanent location in space),verb,estar,/esˈtaba/,es-ta-ba,ta
+83,puede,"to be able to, can",verb,poder,/ˈpuede/,pue-de,pue
+84,eres,to be (essentially or identified as),verb,ser,/ˈeɾes/,e-res,e
+85,ese,that,determiner,ese,/ˈese/,e-se,e
+86,usted,second person formal; you (singular),pronoun,usted,/usˈted/,us-ted,ted
+87,entonces,"then, next, thereupon, at that time, at that point",adverb,entonces,/enˈtonses/,en-ton-ces,ton
+88,hola,hello; hi,interjection,hola,/ˈola/,ho-la,ho
+89,solo,only; solely; just,adverb,solo,/ˈsolo/,so-lo,so
+90,verdad,truth,noun,verdad,/beɾˈdad/,ver-dad,dad
+91,casa,house,noun,casa,/ˈkasa/,ca-sa,ca
+92,tan,"so, as",adverb,tanto,/ˈtan/,tan,tan
+93,quién,"who?, whom?; (with “de”) whose?",pronoun,quién,/ˈkien/,quién,quién
+94,sus,your (with plural possessee),determiner,su,/ˈsus/,sus,sus
+95,tiempo,time,noun,tiempo,/ˈtiempo/,tiem-po,tiem
+96,dos,two,number,dos,/ˈdos/,dos,dos
+97,esa,that,determiner,ese,/ˈesa/,e-sa,e
+98,nunca,never,adverb,nunca,/ˈnunka/,nun-ca,nun
+99,dónde,where,pronoun,dónde,/ˈdonde/,dón-de,dón
+100,va,to go (away from speaker and listener),verb,ir,/ˈba/,va,va
+101,oh,"oh (expression of awe, surprise, pain or realization)",interjection,oh,/ˈo/,oh,oh
+102,favor,favor/favour,noun,favor,/faˈboɾ/,fa-vor,vor
+103,mucho,"much, a lot, far, way, many times",adverb,mucho,/ˈmutʃo/,mu-cho,mu
+104,mí,me (after prepositions),pronoun,yo,/ˈmi/,mí,mí
+105,quieres,to want,verb,quier,/ˈkieɾes/,quie-res,quie
+106,siento,to feel,verb,sentir,/ˈsiento/,sien-to,sien
+107,señor,"mister, sir, lord (title conferred on a married or older male)",noun,señor,/seˈɲoɾ/,se-ñor,ñor
+108,mejor,better,adjective,mejor,/meˈxoɾ/,me-jor,jor
+109,hace,to do; to make,verb,hacer,/ˈase/,ha-ce,ha
+110,has,have; forms the perfect aspect,verb,haber,/ˈas/,has,has
+111,decir,"to say, to tell",verb,decir,/deˈsiɾ/,de-cir,cir
+112,también,"also, too, as well",adverb,también,/tamˈbien/,tam-bién,bién
+113,sobre,"over, above, on, upon, atop",preposition,sobre,/ˈsobɾe/,so-bre,so
+114,dios,god,noun,dio,/ˈdios/,dios,dios
+115,sin,without,preposition,sin,/ˈsin/,sin,sin
+116,tenemos,to have; to possess,verb,tener,/teˈnemos/,te-ne-mos,ne
+117,están,to be (have a temporary or permanent location in space),verb,estar,/esˈtan/,es-tán,tán
+118,ti,prepositional of tú,pronoun,tú,/ˈti/,ti,ti
+119,puedes,"to be able to, can",verb,poder,/ˈpuedes/,pue-des,pue
+120,ver,"to see, to spot",verb,ver,/ˈbeɾ/,ver,ver
+121,hombre,"man, (adult male human)",noun,hombre,/ˈombɾe/,hom-bre,hom
+122,vida,life,noun,vida,/ˈbida/,vi-da,vi
+123,alguien,"someone, somebody",pronoun,alguien,/ˈalɡien/,al-guien,al
+124,cosas,"thing (object, concept)",noun,cosa,/ˈkosas/,co-sas,co
+125,siempre,always,adverb,siempre,/ˈsiempɾe/,siem-pre,siem
+126,hasta,until,preposition,hasta,/ˈasta/,has-ta,has
+127,ahí,there (away from the speaker),adverb,ahí,/aˈi/,a-hí,hí
+128,ir,to go (away from speaker and listener),verb,ir,/ˈiɾ/,ir,ir
+129,años,year,noun,año,/ˈaɲos/,a-ños,a
+130,antes,earlier; before; sooner; previously; formerly; beforehand (at an earlier time),adverb,antes,/ˈantes/,an-tes,an
+131,estar,to be (have a temporary or permanent location in space),verb,estar,/esˈtaɾ/,es-tar,tar
+132,ni,"Used when negating two or more elements, and not, not A or B, not A nor B, neither A nor B",conjunction,ni,/ˈni/,ni,ni
+133,poco,little (not much),adverb,poco,/ˈpoko/,po-co,po
+134,día,day (any period of 24 hours),noun,día,/ˈdia/,dí-a,dí
+135,uno,one,pronoun,uno,/ˈuno/,u-no,u
+136,noche,night (the period between sunset and sunrise),noun,noche,/ˈnotʃe/,no-che,no
+137,hecho,"done, completed",adjective,hecho,/ˈetʃo/,he-cho,he
+138,mis,my (plural),determiner,mi,/ˈmis/,mis,mis
+139,estamos,to be (have a temporary or permanent location in space),verb,estar,/esˈtamos/,es-ta-mos,ta
+140,otra,"other, another",determiner,otro,/ˈotɾa/,o-tra,o
+141,acuerdo,agreement,noun,acuerdo,/aˈkueɾdo/,a-cuer-do,cuer
+142,trabajo,"work, job",noun,trabajo,/tɾaˈbaxo/,tra-ba-jo,ba
+143,nosotros,we (masculine plural),pronoun,yo,/noˈsotɾos/,no-so-tros,so
+144,parece,"to seem, to see fit",verb,parecer,/paˈɾese/,pa-re-ce,re
+145,gente,people,noun,gente,/ˈxente/,gen-te,gen
+146,sea,to be (essentially or identified as),verb,ser,/ˈsea/,se-a,se
+147,padre,father,noun,padre,/ˈpadɾe/,pa-dre,pa
+148,mira,"to look at (to try to see, to pay attention to with one’s eyes)",verb,mirar,/ˈmiɾa/,mi-ra,mi
+149,mismo,same; (one)self,determiner,mismo,/ˈmismo/,mis-mo,mis
+150,dijo,"to say, to tell",verb,decir,/ˈdixo/,di-jo,di
+151,nadie,no one; nobody (anyone or anybody),pronoun,nadie,/ˈnadie/,na-die,na
+152,quiere,to want,verb,querer,/ˈkieɾe/,quie-re,quie
+153,podría,"to be able to, can",verb,poder,/poˈdɾia/,po-drí-a,drí
+154,hablar,to talk; to speak; to communicate using words,verb,hablar,/aˈblaɾ/,ha-blar,blar
+155,vas,to go,verb,va,/ˈbas/,vas,vas
+156,ellos,they; them (masculine),pronoun,él,/ˈeʝos/,e-llos,e
+157,sr.,Mr. (abbreviation of señor),abbreviation,señor,/ˈsr./,sr.,sr.
+158,tal,such,noun,tal,/ˈtal/,tal,tal
+159,pasa,"to pass, to hand, to slip",verb,pasar,/ˈpasa/,pa-sa,pa
+160,fuera,outside; out (also subjunctive of ser),verb,ser,/ˈfueɾa/,fue-ra,fue
+161,después,"later, afterwards, afterward, post",adverb,después,/desˈpues/,des-pués,pués
+162,han,have; forms the perfect aspect,verb,haber,/ˈan/,han,han
+163,desde,since (from a specified time in the past),preposition,desde,/ˈdesde/,des-de,des
+164,dinero,money,noun,dinero,/diˈneɾo/,di-ne-ro,ne
+165,mundo,"world, earth (human collective existence)",noun,mundo,/ˈmundo/,mun-do,mun
+166,claro,clear (easily understood),adjective,claro,/ˈklaɾo/,cla-ro,cla
+167,momento,"moment, instant",noun,momento,/moˈmento/,mo-men-to,men
+168,les,"dative of ellos and ellas; to them, for them",pronoun,él,/ˈles/,les,les
+169,tener,to have; to possess,verb,tener,/teˈneɾ/,te-ner,ner
+170,estado,past participle of estar,verb,estadir,/esˈtado/,es-ta-do,ta
+171,otro,"other, another",determiner,otro,/ˈotɾo/,o-tro,o
+172,había,there was; there were; had (auxiliary),verb,haber,/aˈbia/,ha-bí-a,bí
+173,mañana,tomorrow,adverb,mañana,/maˈɲana/,ma-ña-na,ña
+174,tenía,to have; to possess,verb,tener,/teˈnia/,te-ní-a,ní
+175,madre,mother,noun,madre,/ˈmadɾe/,ma-dre,ma
+176,vale,okay; alright,verb,valer,/ˈbale/,va-le,va
+177,lugar,place,noun,lugar,/luˈɡaɾ/,lu-gar,gar
+178,haciendo,gerund of hacer,verb,hacer,/aˈsiendo/,ha-cien-do,cien
+179,donde,"where, in what place",pronoun,donde,/ˈdonde/,don-de,don
+180,seguro,secure; safe (free from danger),adjective,seguro,/seˈɡuɾo/,se-gu-ro,gu
+181,sabe,"to know, to understand (a fact)",verb,saber,/ˈsabe/,sa-be,sa
+182,podemos,"to be able to, can",verb,poder,/poˈdemos/,po-de-mos,de
+183,tus,your (plural),determiner,tu,/ˈtus/,tus,tus
+184,espera,to wait; to hope,verb,esperar,/esˈpeɾa/,es-pe-ra,pe
+185,nuevo,new,adjective,nuevo,/ˈnuebo/,nue-vo,nue
+186,sido,past participle of ser,verb,ser,/ˈsido/,si-do,si
+187,cosa,"thing (object, concept)",noun,cosa,/ˈkosa/,co-sa,co
+188,hijo,son,noun,hijo,/ˈixo/,hi-jo,hi
+189,allí,there (away from the speaker and the listener),adverb,allí,/aˈʝi/,a-llí,llí
+190,menos,less,adverb,menos,/ˈmenos/,me-nos,me
+191,tipo,"kind, type, sort, manner",noun,tipo,/ˈtipo/,ti-po,ti
+192,amigo,friend,noun,amigo,/aˈmiɡo/,a-mi-go,mi
+193,gran,great; big,adjective,gran,/ˈɡɾan/,gran,gran
+194,nuestro,"our, ours, to us",determiner,nuestro,/ˈnuestɾo/,nues-tro,nues
+195,mujer,woman,noun,mujer,/muˈxeɾ/,mu-jer,jer
+196,mamá,"mum, mom",noun,mamá,/maˈma/,ma-má,má
+197,luego,then (afterward),adverb,luego,/ˈlueɡo/,lue-go,lue
+198,papá,dad,noun,papá,/paˈpa/,pa-pá,pá
+199,días,day (any period of 24 hours),noun,día,/ˈdias/,dí-as,dí
+200,dice,"to say, to tell",verb,decir,/ˈdise/,di-ce,di
+201,hoy,today,adverb,hoy,/ˈoi̯/,hoy,hoy
+202,tres,three,number,tres,/ˈtɾes/,tres,tres
+203,buena,good,adjective,buen,/ˈbuena/,bue-na,bue
+204,necesito,to need,verb,necesitar,/neseˈsito/,ne-ce-si-to,si
+205,dije,"to say, to tell",verb,decir,/ˈdixe/,di-je,di
+206,oye,hey; listen,verb,oir,/ˈoʝe/,o-ye,o
+207,gusta,to like; to be pleasing,verb,gustar,/ˈɡusta/,gus-ta,gus
+208,quería,to want,verb,querer,/keˈɾia/,que-rí-a,rí
+209,será,to be (essentially or identified as),verb,ser,/seˈɾa/,se-rá,rá
+210,haber,have; forms the perfect aspect,verb,haber,/aˈbeɾ/,ha-ber,ber
+211,parte,part; section; portion; share; piece; bit; cut; proportion,noun,parte,/ˈpaɾte/,par-te,par
+212,todas,all; every (feminine plural),pronoun,todo,/ˈtodas/,to-das,to
+213,crees,to believe; to think,verb,crees,/ˈkɾees/,cre-es,cre
+214,buen,good,adjective,buen,/ˈbuen/,buen,buen
+215,conmigo,with me,pronoun,conmigo,/konˈmiɡo/,con-mi-go,mi
+216,nombre,name,noun,nombre,/ˈnombɾe/,nom-bre,nom
+217,mierda,shit; crap,noun,mierdo,/ˈmieɾda/,mier-da,mier
+218,nuestra,"our, ours, to us",determiner,nuestro,/ˈnuestɾa/,nues-tra,nues
+219,mal,"badly, poorly, ill",adverb,mal,/ˈmal/,mal,mal
+220,debe,must; should,verb,deber,/ˈdebe/,de-be,de
+221,realmente,"really, actually, genuinely",adverb,realmente,/realˈmente/,re-al-men-te,men
+222,estas,these (feminine),determiner,este,/ˈestas/,es-tas,es
+223,aún,"still, yet",adverb,aún,/aˈun/,a-ún,ún
+224,mío,mine; of mine,pronoun,mío,/ˈmio/,mí-o,mí
+225,toda,all; every,determiner,todo,/ˈtoda/,to-da,to
+226,hacerlo,infinitive of hacer combined with lo,verb,hacer él,/aˈseɾlo/,ha-cer-lo,cer
+227,cada,each; every,determiner,cada,/ˈkada/,ca-da,ca
+228,visto,seen,adjective,visto,/ˈbisto/,vis-to,vis
+229,importa,to matter,verb,importar,/imˈpoɾta/,im-por-ta,por
+230,contigo,with you,pronoun,contiguir,/konˈtiɡo/,con-ti-go,ti
+231,tienen,to have; to possess,verb,tener,/ˈtienen/,tie-nen,tie
+232,hemos,have; forms the perfect aspect,verb,haber,/ˈemos/,he-mos,he
+233,razón,reason,noun,razón,/raˈson/,ra-zón,zón
+234,alguna,some; any,determiner,alguno,/alˈɡuna/,al-gu-na,gu
+235,tanto,"so much, long, hard, often, etc.",adverb,tanto,/ˈtanto/,tan-to,tan
+236,saber,"to know, to understand (a fact)",verb,saber,/saˈbeɾ/,sa-ber,ber
+237,hizo,to do; to make,verb,hacer,/ˈiso/,hi-zo,hi
+238,veces,"time, instance",noun,vez,/ˈbeses/,ve-ces,ve
+239,serio,"serious, earnest, sober, solemn (without humor)",adjective,serio,/ˈseɾio/,se-rio,se
+240,ven,come! (also: they see),verb,ver,/ˈben/,ven,ven
+241,idea,idea,noun,idea,/iˈdea/,i-de-a,de
+242,eh,hey; huh?,interjection,eh,/ˈe/,eh,eh
+243,tarde,late,adverb,tarde,/ˈtaɾde/,tar-de,tar
+244,problema,"problem, issue, challenge (a difficulty or obstacle that has to be dealt with)",noun,problema,/pɾoˈblema/,pro-ble-ma,ble
+245,hora,hour (a time period of sixty minutes),noun,hora,/ˈoɾa/,ho-ra,ho
+246,cierto,true,adjective,cierto,/ˈsieɾto/,cier-to,cier
+247,dicho,"mentioned, said, aforementioned",adjective,dicho,/ˈditʃo/,di-cho,di
+248,quien,who,pronoun,quien,/ˈkien/,quien,quien
+249,demasiado,"too much, excessively, far too much, overmuch (modifying a verb)",adverb,demasiado,/demaˈsiado/,de-ma-sia-do,sia
+250,amor,love,noun,amor,/aˈmoɾ/,a-mor,mor
+251,entre,between,preposition,entre,/ˈentɾe/,en-tre,en
+252,ve,"to see, to spot",verb,ver,/ˈbe/,ve,ve
+253,pasado,past,adjective,pasado,/paˈsado/,pa-sa-do,sa
+254,familia,family (group of people related to each other),noun,familia,/faˈmilia/,fa-mi-lia,mi
+255,estos,these,determiner,este,/ˈestos/,es-tos,es
+256,policía,police; police officer,noun,policía,/poliˈsia/,po-li-cí-a,cí
+257,debería,should; ought to,verb,deber,/debeˈɾia/,de-be-rí-a,rí
+258,ustedes,"you (plural), you guys, y'all, yous, yinz, ye",pronoun,tú,/usˈtedes/,us-te-des,te
+259,chica,girl,noun,chico,/ˈtʃika/,chi-ca,chi
+260,esos,those,determiner,ese,/ˈesos/,e-sos,e
+261,chicos,boy; kid,noun,chico,/ˈtʃikos/,chi-cos,chi
+262,cuenta,to count; to tally,verb,contar,/ˈkuenta/,cuen-ta,cuen
+263,haces,to do; to make,verb,haz,/ˈases/,ha-ces,ha
+264,todavía,"still, yet",adverb,todavía,/todaˈbia/,to-da-ví-a,ví
+265,salir,"to go out, to leave, to depart, to head out",verb,salir,/saˈliɾ/,sa-lir,lir
+266,algún,some; any,determiner,alguno,/alˈɡun/,al-gún,gún
+267,vaya,well!; come on!,verb,vaya,/ˈbaʝa/,va-ya,va
+268,unos,some; a few,determiner,uno,/ˈunos/,u-nos,u
+269,veo,to see,verb,veo,/ˈbeo/,ve-o,ve
+270,amigos,friend,noun,amigo,/aˈmiɡos/,a-mi-gos,mi
+271,hermano,brother,noun,hermano,/eɾˈmano/,her-ma-no,ma
+272,pensé,"to think, ponder",verb,pensar,/penˈse/,pen-sé,sé
+273,sabía,"to know, to understand (a fact)",verb,saber,/saˈbia/,sa-bí-a,bí
+274,cabeza,head,noun,cabeza,/kaˈbesa/,ca-be-za,be
+275,ah,ah; oh,interjection,ah,/ˈa/,ah,ah
+276,cariño,"affection, fondness",noun,cariño,/kaˈɾiɲo/,ca-ri-ño,ri
+277,digo,"to say, to tell",verb,decir,/ˈdiɡo/,di-go,di
+278,van,to go (away from speaker and listener),verb,ir,/ˈban/,van,van
+279,hombres,"man, (adult male human)",noun,hombre,/ˈombɾes/,hom-bres,hom
+280,buenas,good (also a greeting),adjective,buena,/ˈbuenas/,bue-nas,bue
+281,somos,to be (essentially or identified as),verb,ser,/ˈsomos/,so-mos,so
+282,cualquier,"any, whatever, whichever",determiner,cualquiera,/kualˈkieɾ/,cual-quier,quier
+283,forma,shape; form; figure,noun,forma,/ˈfoɾma/,for-ma,for
+284,mientras,"while, whilst, as (at the same time as)",conjunction,mientras,/ˈmientɾas/,mien-tras,mien
+285,lado,side,noun,lado,/ˈlado/,la-do,la
+286,debo,must; should,verb,deber,/ˈdebo/,de-bo,de
+287,sería,to be (essentially or identified as),verb,ser,/seˈɾia/,se-rí-a,rí
+288,caso,case (situation or fact),noun,caso,/ˈkaso/,ca-so,ca
+289,pueden,"to be able to, can",verb,poder,/ˈpueden/,pue-den,pue
+290,pasó,"to pass, to hand, to slip",verb,pasar,/paˈso/,pa-só,só
+291,primera,"first, first up",adjective,primero,/pɾiˈmeɾa/,pri-me-ra,me
+292,genial,great; awesome,adjective,genial,/xeˈnial/,ge-nial,nial
+293,chico,boy; kid (also: small),noun,chico,/ˈtʃiko/,chi-co,chi
+294,supuesto,"supposed, self-styled, alleged",adjective,supuesto,/suˈpuesto/,su-pues-to,pues
+295,hice,to do; to make,verb,hacer,/ˈise/,hi-ce,hi
+296,pues,"so, then; in that case",conjunction,pues,/ˈpues/,pues,pues
+297,adiós,"goodbye, farewell",interjection,adiós,/aˈdios/,a-diós,diós
+298,muchas,"much, a lot of",determiner,mucho,/ˈmutʃas/,mu-chas,mu
+299,personas,person (an individual; usually a human being),noun,persona,/peɾˈsonas/,per-so-nas,so
+300,señora,lady,noun,señora,/seˈɲoɾa/,se-ño-ra,ño
+301,volver,"to return, to revert, to get back",verb,volver,/bolˈbeɾ/,vol-ver,ver
+302,esas,that,determiner,ese,/ˈesas/,e-sas,e
+303,quizá,"perhaps, maybe",adverb,quizá,/kiˈsa/,qui-zá,zá
+304,contra,"against, versus",preposition,contra,/ˈkontɾa/,con-tra,con
+305,camino,"way, route",noun,camino,/kaˈmino/,ca-mi-no,mi
+306,durante,"during, in, over",preposition,durante,/duˈɾante/,du-ran-te,ran
+307,hablando,gerund of hablar,verb,hablar,/aˈblando/,ha-blan-do,blan
+308,manera,way; manner; method; style,noun,manera,/maˈneɾa/,ma-ne-ra,ne
+309,muerto,dead,adjective,muerto,/ˈmueɾto/,muer-to,muer
+310,persona,person (an individual; usually a human being),noun,persona,/peɾˈsona/,per-so-na,so
+311,rápido,"rapid, quick, fast",adjective,rápido,/ˈrapido/,rá-pi-do,rá
+312,cuál,"which one, what, which",pronoun,cuál,/ˈkual/,cuál,cuál
+313,ayuda,"help, aid",noun,ayuda,/aˈʝuda/,a-yu-da,yu
+314,historia,history (the aggregate of past events),noun,historia,/isˈtoɾia/,his-to-ria,to
+315,iba,to go (away from speaker and listener),verb,ir,/ˈiba/,i-ba,i
+316,supongo,first-person singular present indicative of suponer,verb,suponer,/suˈponɡo/,su-pon-go,pon
+317,nueva,new,adjective,nuevo,/ˈnueba/,nue-va,nue
+318,entiendo,"to understand, to fathom",verb,entender,/enˈtiendo/,en-tien-do,tien
+319,dentro,inside (for space),adverb,dentro,/ˈdentɾo/,den-tro,den
+320,casi,almost,adverb,casi,/ˈkasi/,ca-si,ca
+321,puerta,door (portal of entry into a building),noun,puerta,/ˈpueɾta/,puer-ta,puer
+322,ves,"to see, to spot",verb,ver,/ˈbes/,ves,ves
+323,pasar,"to pass, to hand, to slip",verb,pasar,/paˈsaɾ/,pa-sar,sar
+324,primero,first; first of all; firstly,adverb,primero,/pɾiˈmeɾo/,pri-me-ro,me
+325,significa,inflection of significar,verb,significar,/sixniˈfika/,sig-ni-fi-ca,fi
+326,semana,week (7 days),noun,semana,/seˈmana/,se-ma-na,ma
+327,hacia,"toward, towards",preposition,hacia,/ˈasia/,ha-cia,ha
+328,quizás,"maybe, perhaps",adverb,quizás,/kiˈsas/,qui-zás,zás
+329,espero,to hope,verb,esperar,/esˈpeɾo/,es-pe-ro,pe
+330,juntos,together,adjective,junto,/ˈxuntos/,jun-tos,jun
+331,año,year,noun,año,/ˈaɲo/,a-ño,a
+332,niños,"child, boy",noun,niño,/ˈniɲos/,ni-ños,ni
+333,pronto,"soon, promptly, any time soon",adverb,pronto,/ˈpɾonto/,pron-to,pron
+334,tío,"uncle (the brother, brother-in-law, or male cousin or cousin-in-law of either parent)",noun,tío,/ˈtio/,tí-o,tí
+335,suerte,"luck, fortune",noun,suerte,/ˈsueɾte/,suer-te,suer
+336,ciudad,city,noun,ciudad,/siuˈdad/,ciu-dad,dad
+337,siquiera,"at least, at the least",noun,siquiera,/siˈkieɾa/,si-quie-ra,quie
+338,feliz,"happy, merry (trait)",adjective,feliz,/feˈlis/,fe-liz,liz
+339,venir,Senses relating to literal movement.,verb,venir,/beˈniɾ/,ve-nir,nir
+340,hija,daughter; female equivalent of hijo,noun,hija,/ˈixa/,hi-ja,hi
+341,gustaría,first/third-person singular conditional of gustar,verb,gustar,/ɡustaˈɾia/,gus-ta-rí-a,rí
+342,minutos,minute (a unit of time equal to 60 seconds or ¹⁄₆₀ hour),noun,minuto,/miˈnutos/,mi-nu-tos,nu
+343,cuánto,how much; how many,determiner,cuánto,/ˈkuanto/,cuán-to,cuán
+344,os,"you, to you, for you; dative and accusative of vosotros",pronoun,tú,/ˈos/,os,os
+345,hey,hey!,interjection,hey,/ˈei̯/,hey,hey
+346,muerte,death (the cessation of life),noun,muerte,/ˈmueɾte/,muer-te,muer
+347,dejar,to leave (to place),verb,dejar,/deˈxaɾ/,de-jar,jar
+348,realidad,reality,noun,realidad,/realiˈdad/,re-a-li-dad,dad
+349,deja,to leave (to place),verb,dejar,/ˈdexa/,de-ja,de
+350,problemas,"problem, issue, challenge (a difficulty or obstacle that has to be dealt with)",noun,problema,/pɾoˈblemas/,pro-ble-mas,ble
+351,vi,"to see, to spot",verb,ver,/ˈbi/,vi,vi
+352,da,"to give, to give out",verb,dar,/ˈda/,da,da
+353,importante,"important, that cares, that matters.",adjective,importante,/impoɾˈtante/,im-por-tan-te,tan
+354,dijiste,second-person singular preterite indicative of decir,verb,dijistir,/diˈxiste/,di-jis-te,jis
+355,corazón,heart (organ of the body),noun,corazón,/koɾaˈson/,co-ra-zón,zón
+356,miedo,fear,noun,miedo,/ˈmiedo/,mie-do,mie
+357,jefe,"chief; president; head; leader of a business, political party, or other organization",noun,jefe,/ˈxefe/,je-fe,je
+358,agua,water,noun,agua,/ˈaɡua/,a-gua,a
+359,haré,to do,verb,hacer,/aˈɾe/,ha-ré,ré
+360,justo,just,adjective,justo,/ˈxusto/,jus-to,jus
+361,horas,hour (a time period of sixty minutes),noun,hora,/ˈoɾas/,ho-ras,ho
+362,poder,"to be able to, can",verb,poder,/poˈdeɾ/,po-der,der
+363,buenos,masculine plural of bueno,adjective,buen,/ˈbuenos/,bue-nos,bue
+364,esposa,wife,noun,esposa,/esˈposa/,es-po-sa,po
+365,manos,hand,noun,mano,/ˈmanos/,ma-nos,ma
+366,debes,second-person singular present indicative of deber,verb,deber,/ˈdebes/,de-bes,de
+367,viene,Senses relating to literal movement.,verb,venir,/ˈbiene/,vie-ne,vie
+368,venga,Senses relating to literal movement.,verb,venir,/ˈbenɡa/,ven-ga,ven
+369,nuestros,"our, ours, to us",determiner,nuestro,/ˈnuestɾos/,nues-tros,nues
+370,ojos,eye,noun,ojo,/ˈoxos/,o-jos,o
+371,adelante,forward (toward the front),adverb,adelante,/adeˈlante/,a-de-lan-te,lan
+372,encontrar,to meet,verb,encontrar,/enkonˈtɾaɾ/,en-con-trar,trar
+373,mano,hand,noun,mano,/ˈmano/,ma-no,ma
+374,cinco,five,number,cinco,/ˈsinko/,cin-co,cin
+375,niño,"child, boy",noun,niño,/ˈniɲo/,ni-ño,ni
+376,ninguna,no; none,determiner,ninguno,/ninˈɡuna/,nin-gu-na,gu
+377,otros,someone else; another person,pronoun,otro,/ˈotɾos/,o-tros,o
+378,cara,face (the front part of the head),noun,cara,/ˈkaɾa/,ca-ra,ca
+379,cuidado,answerable; accountable; responsible,adjective,cuidado,/kuiˈdado/,cui-da-do,da
+380,bajo,under (in both literal and figurative senses),preposition,bajo,/ˈbaxo/,ba-jo,ba
+381,cerca,"close, near, around, about, nearly, nigh (referring to quantity or time-related)",adverb,cerca,/ˈseɾka/,cer-ca,cer
+382,viejo,old (having existed for a long time),adjective,viejo,/ˈbiexo/,vie-jo,vie
+383,déjame,second-person singular imperative of dejar combined with me,noun,déjame,/ˈdexame/,dé-ja-me,dé
+384,noches,night (the period between sunset and sunrise),noun,noche,/ˈnotʃes/,no-ches,no
+385,bastante,"quite, rather, pretty, fairly",adverb,bastante,/basˈtante/,bas-tan-te,tan
+386,fin,end,noun,fin,/ˈfin/,fin,fin
+387,tomar,to take,verb,tomar,/toˈmaɾ/,to-mar,mar
+388,único,only; single; sole,adjective,único,/ˈuniko/,ú-ni-co,ú
+389,misma,same; identical; one and the same; indicates that the two compared noun clauses both represent the one thing,determiner,mismo,/ˈmisma/,mis-ma,mis
+390,escucha,listening,noun,escucha,/esˈkutʃa/,es-cu-cha,cu
+391,ningún,no; none,determiner,ninguno,/ninˈɡun/,nin-gún,gún
+392,suficiente,"sufficient, enough",adjective,suficiente,/sufiˈsiente/,su-fi-cien-te,cien
+393,punto,"point (specific spot, location, or place)",noun,punto,/ˈpunto/,pun-to,pun
+394,cuándo,when,pronoun,cuándo,/ˈkuando/,cuán-do,cuán
+395,sigue,to follow,verb,seguir,/ˈsiɡe/,si-gue,si
+396,haya,have; forms the perfect aspect,verb,haber,/ˈaʝa/,ha-ya,ha
+397,equipo,team,noun,equipo,/eˈkipo/,e-qui-po,qui
+398,grande,"big, large",adjective,grande,/ˈɡɾande/,gran-de,gran
+399,necesita,inflection of necesitar,verb,necesitar,/neseˈsita/,ne-ce-si-ta,si
+400,llegar,"to arrive, get (to)",verb,llegar,/ʝeˈɡaɾ/,lle-gar,gar
+401,incluso,even,adverb,incluso,/inˈkluso/,in-clu-so,clu
+402,algunos,masculine plural of alguno,pronoun,alguno,/alˈɡunos/,al-gu-nos,gu
+403,doctor,doctor (Ph.D.),noun,doctor,/dosˈtoɾ/,doc-tor,tor
+404,difícil,"difficult, hard, tough, challenging, rough, tricky, trying, arduous, testing",adjective,difícil,/diˈfisil/,di-fí-cil,fí
+405,aunque,"though, although, even though, albeit",conjunction,aunque,/ˈaunke/,aun-que,aun
+406,hubiera,have; forms the perfect aspect,verb,haber,/uˈbieɾa/,hu-bie-ra,bie
+407,primer,"first, first up",adjective,primero,/pɾiˈmeɾ/,pri-mer,mer
+408,coche,"car, automobile",noun,coche,/ˈkotʃe/,co-che,co
+409,hago,to do,verb,hacer,/ˈaɡo/,ha-go,ha
+410,clase,lecture,noun,clase,/ˈklase/,cla-se,cla
+411,cuatro,four,number,cuatro,/ˈkuatɾo/,cua-tro,cua
+412,mas,obsolete spelling of más,adverb,mas,/ˈmas/,mas,mas
+413,dices,second-person singular present indicative of decir,noun,diz,/ˈdises/,di-ces,di
+414,pequeño,small; little,adjective,pequeño,/peˈkeɲo/,pe-que-ño,que
+415,llama,"to summon, to call",verb,llamar,/ˈʝama/,lla-ma,lla
+416,toma,to take,verb,tomar,/ˈtoma/,to-ma,to
+417,hiciste,second-person singular preterite indicative of hacer,verb,hiciste,/iˈsiste/,hi-cis-te,cis
+418,allá,"there, over there, thither, yonder (in a direction away from the speaker and the listener)",adverb,allá,/aˈʝa/,a-llá,llá
+419,última,final; last,adjective,último,/ˈultima/,úl-ti-ma,úl
+420,arriba,"above, over",adverb,arriba,/aˈriba/,a-rri-ba,rri
+421,tierra,Earth (planet of the Solar System in which all of humanity resides),noun,tierra,/ˈtiera/,tie-rra,tie
+422,guerra,"war, warfare",noun,guerra,/ˈɡera/,gue-rra,gue
+423,pensar,"to think, ponder",verb,pensar,/penˈsaɾ/,pen-sar,sar
+424,pueda,"to be able to, can",verb,poder,/ˈpueda/,pue-da,pue
+425,igual,in the same way; just like,adverb,igual,/iˈɡual/,i-gual,gual
+426,loco,"crazy, insane, mad, nuts (asserting that something is out of place in the head)",adjective,loco,/ˈloko/,lo-co,lo
+427,sangre,blood,noun,sangre,/ˈsanɡɾe/,san-gre,san
+428,mujeres,woman,noun,mujer,/muˈxeɾes/,mu-je-res,je
+429,vuelta,turn,noun,vuelta,/ˈbuelta/,vuel-ta,vuel
+430,fui,to go (away from speaker and listener),verb,ir,/ˈfui/,fui,fui
+431,trabajar,to work,verb,trabajar,/tɾabaˈxaɾ/,tra-ba-jar,jar
+432,tenido,past participle of tener,verb,tener,/teˈnido/,te-ni-do,ni
+433,juego,play,noun,juego,/ˈxueɡo/,jue-go,jue
+434,deberías,second-person singular conditional of deber,noun,debería,/debeˈɾias/,de-be-rí-as,rí
+435,cuerpo,body (the physical structure of a human or animal),noun,cuerpo,/ˈkueɾpo/,cuer-po,cuer
+436,e,and,conjunction,e,/ˈe/,e,e
+437,algunas,feminine plural of alguno,determiner,alguno,/alˈɡunas/,al-gu-nas,gu
+438,entrar,to enter; to come in; to get in; to go in; to get inside; to come on in,verb,entrar,/enˈtɾaɾ/,en-trar,trar
+439,cree,to believe,verb,creer,/ˈkɾee/,cre-e,cre
+440,podía,"to be able to, can",verb,poder,/poˈdia/,po-dí-a,dí
+441,debemos,first-person plural present indicative of deber,verb,deber,/deˈbemos/,de-be-mos,be
+442,oportunidad,"opportunity, chance, shot, break, occasion, time (in both senses: “chance for advancement, progress or profit” and “favorable circumstance or occasion”)",noun,oportunidad,/opoɾtuniˈdad/,o-por-tu-ni-dad,dad
+443,teléfono,telephone (a telecommunication device used for two-way talking with another person),noun,teléfono,/teˈlefono/,te-lé-fo-no,lé
+444,necesitamos,first-person plural present/preterite indicative of necesitar,verb,necesitar,/nesesiˈtamos/,ne-ce-si-ta-mos,ta
+445,final,"final (last, ultimate)",adjective,final,/fiˈnal/,fi-nal,nal
+446,listo,"clever, smart (with ser)",adjective,listo,/ˈlisto/,lis-to,lis
+447,fiesta,party,noun,fiesta,/ˈfiesta/,fies-ta,fies
+448,muchos,"a lot, much",pronoun,mucho,/ˈmutʃos/,mu-chos,mu
+449,estabas,second-person singular imperfect indicative of estar,verb,estabas,/esˈtabas/,es-ta-bas,ta
+450,quieren,third-person plural present indicative of querer,verb,querer,/ˈkieɾen/,quie-ren,quie
+451,vete,second-person singular imperative of ir combined with te,verb,vetar,/ˈbete/,ve-te,ve
+452,auto,"car, automobile",noun,auto,/ˈauto/,au-to,au
+453,dar,"to give, to give out",verb,dar,/ˈdaɾ/,dar,dar
+454,vivir,to live; to be alive,verb,vivir,/biˈbiɾ/,vi-vir,vir
+455,posible,possible,adjective,posible,/poˈsible/,po-si-ble,si
+456,hermana,sister; female equivalent of hermano (“brother”),noun,hermana,/eɾˈmana/,her-ma-na,ma
+457,número,number (counting),noun,número,/ˈnumeɾo/,nú-me-ro,nú
+458,meses,month,noun,mes,/ˈmeses/,me-ses,me
+459,exactamente,exactly,adverb,exactamente,/eksastaˈmente/,e-xac-ta-men-te,men
+460,culpa,fault,noun,culpa,/ˈkulpa/,cul-pa,cul
+461,abajo,"down, downwards",adverb,abajo,/aˈbaxo/,a-ba-jo,ba
+462,escuela,school (an institution dedicated to teaching and learning),noun,escuela,/esˈkuela/,es-cue-la,cue
+463,ido,away with the fairies; absent-minded,adjective,ido,/ˈido/,i-do,i
+464,fuerte,strong,adjective,fuerte,/ˈfueɾte/,fuer-te,fuer
+465,diciendo,gerund of decir,verb,decir,/diˈsiendo/,di-cien-do,cien
+466,habla,to talk; to speak; to communicate using words,verb,hablar,/ˈabla/,ha-bla,ha
+467,esté,to be (have a temporary or permanent location in space),verb,estar,/esˈte/,es-té,té
+468,ello,"he, him, masculine personal third person subject and disjunctive pronoun (used as a subject and after prepositions)",pronoun,él,/ˈeʝo/,e-llo,e
+469,pregunta,question (sentence that asks for information),verb,preguntar,/pɾeˈɡunta/,pre-gun-ta,gun
+470,chicas,female equivalent of chico: girl,noun,chica,/ˈtʃikas/,chi-cas,chi
+471,eran,to be (essentially or identified as),verb,ser,/ˈeɾan/,e-ran,e
+472,unas,one,determiner,uno,/ˈunas/,u-nas,u
+473,pasando,gerund of pasar,verb,pasar,/paˈsando/,pa-san-do,san
+474,atrás,behind,adverb,atrás,/aˈtɾas/,a-trás,trás
+475,malo,bad (of bad quality),adjective,malo,/ˈmalo/,ma-lo,ma
+476,capitán,captain (leader),noun,capitán,/kapiˈtan/,ca-pi-tán,tán
+477,sra.,Mrs.; Ms. (abbreviation of señora),abbreviation,señora,/ˈsra./,sra.,sra.
+478,bebé,baby,noun,bebé,/beˈbe/,be-bé,bé
+479,segundo,second (after the first),adjective,segundo,/seˈɡundo/,se-gun-do,gun
+480,sabemos,"to know, to understand (a fact)",verb,saber,/saˈbemos/,sa-be-mos,be
+481,mayor,comparative degree of grande: bigger,adjective,mayor,/maˈʝoɾ/,ma-yor,yor
+482,comida,food,noun,comida,/koˈmida/,co-mi-da,mi
+483,morir,to die,verb,morir,/moˈɾiɾ/,mo-rir,rir
+484,conozco,"to know (a person or a place), to be familiar with, to be acquainted with",verb,conocer,/koˈnosko/,co-noz-co,noz
+485,dame,inflection of dar,noun,dame,/ˈdame/,da-me,da
+486,fácil,"easy, facile, simple (requiring little effort)",adjective,fácil,/ˈfasil/,fá-cil,fá
+487,comer,to eat,verb,comer,/koˈmeɾ/,co-mer,mer
+488,vino,Senses relating to literal movement.,verb,venir,/ˈbino/,vi-no,vi
+489,lista,"clever, smart (with ser)",adjective,listo,/ˈlista/,lis-ta,lis
+490,haga,to do,verb,hacer,/ˈaɡa/,ha-ga,ha
+491,necesitas,second-person singular present indicative of necesitar,noun,necesita,/neseˈsitas/,ne-ce-si-tas,si
+492,hijos,son,noun,hijo,/ˈixos/,hi-jos,hi
+493,probablemente,"probably, likely",adverb,probablemente,/pɾobableˈmente/,pro-ba-ble-men-te,men
+494,padres,father,noun,padre,/ˈpadɾes/,pa-dres,pa
+495,habitación,room (separate part of a building),noun,habitación,/abitaˈsion/,ha-bi-ta-ción,ción
+496,creer,to believe,verb,creer,/kɾeˈeɾ/,cre-er,er
+497,pensando,gerund of pensar,verb,pensar,/penˈsando/,pen-san-do,san
+498,fueron,to be (essentially or identified as),verb,ser,/ˈfueɾon/,fue-ron,fue
+499,dime,second-person singular imperative of decir combined with me,noun,dime,/ˈdime/,di-me,di
+500,trata,"to treat (to handle, behave toward in a specific way)",verb,tratar,/ˈtɾata/,tra-ta,tra
+501,buscando,gerund of buscar,verb,buscar,/busˈkando/,bus-can-do,can
+502,tuve,to have; to possess,verb,tener,/ˈtube/,tu-ve,tu
+503,tampoco,neither; nor; also not,adverb,tampoco,/tamˈpoko/,tam-po-co,po
+504,amo,master (man who owns a slave),verb,amar,/ˈamo/,a-mo,a
+505,joven,"youth, young person, youngster",noun,joven,/ˈxoben/,jo-ven,jo
+506,podrías,second-person singular conditional of poder,noun,podría,/poˈdɾias/,po-drí-as,drí
+507,sola,sole; one; only; single (unique),adjective,solo,/ˈsola/,so-la,so
+508,par,pair (two of the same or similar items that go together),noun,par,/ˈpaɾ/,par,par
+509,única,only; single; sole,adjective,único,/ˈunika/,ú-ni-ca,ú
+510,hacen,to do,verb,hacer,/ˈasen/,ha-cen,ha
+511,seguir,to follow,verb,seguir,/seˈɡiɾ/,se-guir,guir
+512,dr.,Dr. (abbreviation of doctor),abbreviation,doctor,/ˈdɾ./,dr.,dr.
+513,simplemente,simply,adverb,simplemente,/simpleˈmente/,sim-ple-men-te,men
+514,dicen,"to say, to tell",verb,decir,/ˈdisen/,di-cen,di
+515,medio,half (one of two equal parts of any whole),noun,medio,/ˈmedio/,me-dio,me
+516,puta,"whore, slut, prostitute",noun,puta,/ˈputa/,pu-ta,pu
+517,saben,"to know, to understand (a fact)",verb,saber,/ˈsaben/,sa-ben,sa
+518,sentido,sense (faculties of perception),noun,sentido,/senˈtido/,sen-ti-do,ti
+519,hagas,second-person singular present subjunctive of hacer,noun,haga,/ˈaɡas/,ha-gas,ha
+520,segura,secure; safe (free from danger),adjective,seguro,/seˈɡuɾa/,se-gu-ra,gu
+521,esperar,to hope,verb,esperar,/espeˈɾaɾ/,es-pe-rar,rar
+522,lejos,"far, far away",adverb,lejos,/ˈlexos/,le-jos,le
+523,arma,"weapon, arm",noun,arma,/ˈaɾma/,ar-ma,ar
+524,alto,tall,adjective,alto,/ˈalto/,al-to,al
+525,pequeña,small; little,adjective,pequeño,/peˈkeɲa/,pe-que-ña,que
+526,dólares,plural of dólar,noun,dólares,/ˈdolaɾes/,dó-la-res,dó
+527,seis,six,number,seis,/ˈseis/,seis,seis
+528,estaban,to be (have a temporary or permanent location in space),verb,estar,/esˈtaban/,es-ta-ban,ta
+529,seguridad,"safety, security",noun,seguridad,/seɡuɾiˈdad/,se-gu-ri-dad,dad
+530,maldita,cursed,adjective,maldito,/malˈdita/,mal-di-ta,di
+531,estuvo,to be (have a temporary or permanent location in space),verb,estar,/esˈtubo/,es-tu-vo,tu
+532,preocupes,second-person singular present subjunctive of preocupar,noun,preocup,/pɾeoˈkupes/,pre-o-cu-pes,cu
+533,palabra,word,noun,palabra,/paˈlabɾa/,pa-la-bra,la
+534,esperando,gerund of esperar,verb,esperar,/espeˈɾando/,es-pe-ran-do,ran
+535,queda,"to be (as a result of something), to end up",verb,quedar,/ˈkeda/,que-da,que
+536,oficina,office (a room used for non-manual work),noun,oficina,/ofiˈsina/,o-fi-ci-na,ci
+537,matar,"to kill, slay",verb,matar,/maˈtaɾ/,ma-tar,tar
+538,iré,to go (away from speaker and listener),verb,ir,/iˈɾe/,i-ré,ré
+539,cama,bed,noun,cama,/ˈkama/,ca-ma,ca
+540,además,"in addition, moreover, furthermore, further, also, additionally",adverb,además,/adeˈmas/,a-de-más,más
+541,último,final; last,adjective,último,/ˈultimo/,úl-ti-mo,úl
+542,oído,hearing,adjective,oído,/oˈido/,o-í-do,í
+543,habría,have; forms the perfect aspect,verb,haber,/aˈbɾia/,ha-brí-a,brí
+544,estará,to be (have a temporary or permanent location in space),verb,estar,/estaˈɾa/,es-ta-rá,rá
+545,dio,"to give, to give out",verb,dar,/ˈdio/,dio,dio
+546,recuerdo,memory (a specific thing that is remembered),verb,recordar,/reˈkueɾdo/,re-cuer-do,cuer
+547,siendo,gerund of ser,verb,ser,/ˈsiendo/,sien-do,sien
+548,acerca,adjacent,adverb,acerca,/aˈseɾka/,a-cer-ca,cer
+549,tenga,to have; to possess,verb,tener,/ˈtenɡa/,ten-ga,ten
+550,luz,light,noun,luz,/ˈlus/,luz,luz
+551,correcto,"correct, right",adjective,correcto,/koˈresto/,co-rrec-to,rrec
+552,ud.,you (formal); abbreviation of usted,abbreviation,usted,/ˈud./,ud.,ud.
+553,demonios,"the hell, on earth (for emphasis after a question word)",noun,demonio,/deˈmonios/,de-mo-nios,mo
+554,nuestras,"our, ours, to us",determiner,nuestro,/ˈnuestɾas/,nues-tras,nues
+555,verte,infinitive of ver combined with te,noun,verte,/ˈbeɾte/,ver-te,ver
+556,dormir,to sleep,verb,dormir,/doɾˈmiɾ/,dor-mir,mir
+557,sitio,"site, place",noun,sitio,/ˈsitio/,si-tio,si
+558,ayudar,to help,verb,ayudar,/aʝuˈdaɾ/,a-yu-dar,dar
+559,conseguir,"to achieve, succeed in, reach, accomplish, attain",verb,conseguir,/konseˈɡiɾ/,con-se-guir,guir
+560,di,obsolete spelling of dice,verb,dar,/ˈdi/,di,di
+561,marido,husband,noun,marido,/maˈɾido/,ma-ri-do,ri
+562,paz,peace (warlessness),noun,paz,/ˈpas/,paz,paz
+563,idiota,"idiot, moron, fool, dork, eejit",noun,idiota,/iˈdiota/,i-dio-ta,dio
+564,plan,plan,noun,plan,/ˈplan/,plan,plan
+565,dado,a die or dice,adjective,dado,/ˈdado/,da-do,da
+566,cuanto,quantum,noun,cuanto,/ˈkuanto/,cuan-to,cuan
+567,peor,comparative degree of malo: worse,adjective,peor,/peˈoɾ/,pe-or,or
+568,murió,to die,verb,morir,/muˈɾio/,mu-rió,rió
+569,pueblo,"town, village",noun,pueblo,/ˈpueblo/,pue-blo,pue
+570,vivo,"alive, living (having life)",adjective,vivo,/ˈbibo/,vi-vo,vi
+571,venido,past participle of venir,adjective,venido,/beˈnido/,ve-ni-do,ni
+572,basta,basting,verb,bastar,/ˈbasta/,bas-ta,bas
+573,paso,"step, footstep",noun,paso,/ˈpaso/,pa-so,pa
+574,deberíamos,first-person plural conditional of deber,verb,debeer,/debeˈɾiamos/,de-be-rí-a-mos,rí
+575,música,music,noun,música,/ˈmusika/,mú-si-ca,mú
+576,diga,"to say, to tell",verb,decir,/ˈdiɡa/,di-ga,di
+577,minuto,minute (a unit of time equal to 60 seconds or ¹⁄₆₀ hour),noun,minuto,/miˈnuto/,mi-nu-to,nu
+578,anoche,last night,adverb,anoche,/aˈnotʃe/,a-no-che,no
+579,llamar,"to summon, to call",verb,llamar,/ʝaˈmaɾ/,lla-mar,mar
+580,piensa,"to think, ponder",verb,pensar,/ˈpiensa/,pien-sa,pien
+581,país,country (the territory of a nation),noun,país,/paˈis/,pa-ís,ís
+582,digas,way to say hello on the telephone,noun,diga,/ˈdiɡas/,di-gas,di
+583,rey,king,noun,rey,/ˈrei̯/,rey,rey
+584,perdón,pardon,noun,perdón,/peɾˈdon/,per-dón,dón
+585,mucha,"much, a lot of",determiner,mucho,/ˈmutʃa/,mu-cha,mu
+586,falta,"lack, shortage",verb,faltar,/ˈfalta/,fal-ta,fal
+587,pienso,"to think, ponder",verb,pensar,/ˈpienso/,pien-so,pien
+588,diablos,devil,noun,diablo,/ˈdiablos/,dia-blos,dia
+589,perdido,lost,adjective,perdido,/peɾˈdido/,per-di-do,di
+590,niña,"girl, female equivalent of niño",noun,niña,/ˈniɲa/,ni-ña,ni
+591,señorita,young woman,verb,señoritar,/seɲoˈɾita/,se-ño-ri-ta,ri
+592,diez,ten,number,diez,/ˈdies/,diez,diez
+593,lleva,to take somewhere (most of the time away from the speaker),verb,llevar,/ˈʝeba/,lle-va,lle
+594,hospital,hospital,noun,hospital,/ospiˈtal/,hos-pi-tal,tal
+595,grandes,"big, large",adjective,grande,/ˈɡɾandes/,gran-des,gran
+596,maldito,cursed,adjective,maldito,/malˈdito/,mal-di-to,di
+597,otras,"other, another",determiner,otro,/ˈotɾas/,o-tras,o
+598,llamado,called,adjective,llamado,/ʝaˈmado/,lla-ma-do,ma
+599,hacemos,to do,verb,hacer,/aˈsemos/,ha-ce-mos,ce
+600,llevar,to take somewhere (most of the time away from the speaker),verb,llevar,/ʝeˈbaɾ/,lle-var,var
+601,fuego,fire,noun,fuego,/ˈfueɡo/,fue-go,fue
+602,aqui,misspelling of aquí,verb,aqui,/ˈaki/,a-qui,a
+603,tuvo,to have; to possess,verb,tener,/ˈtubo/,tu-vo,tu
+604,poner,"to put, to put up, to place, to lay",verb,poner,/poˈneɾ/,po-ner,ner
+605,calle,street,noun,calle,/ˈkaʝe/,ca-lle,ca
+606,acaba,inflection of acabar,verb,acabar,/aˈkaba/,a-ca-ba,ca
+607,prueba,proof; evidence (usually in the plural),noun,prueba,/ˈpɾueba/,prue-ba,prue
+608,increíble,"incredible, unbelievable",adjective,increíble,/inkɾeˈible/,in-cre-í-ble,í
+609,real,real,adjective,real,/reˈal/,re-al,al
+610,libro,book,noun,libro,/ˈlibɾo/,li-bro,li
+611,orden,order (command),noun,orden,/ˈoɾden/,or-den,or
+612,semanas,week (7 days),noun,semana,/seˈmanas/,se-ma-nas,ma
+613,especial,special (distinguished by a unique quality),adjective,especial,/espeˈsial/,es-pe-cial,cial
+614,mía,mine; of mine,pronoun,mío,/ˈmia/,mí-a,mí
+615,café,coffee,noun,café,/kaˈfe/,ca-fé,fé
+616,duro,hard (not soft),adjective,duro,/ˈduɾo/,du-ro,du
+617,empezar,"to start, begin, to get started",verb,empezar,/empeˈsaɾ/,em-pe-zar,zar
+618,afuera,"out, outside",adjective,afuero,/aˈfueɾa/,a-fue-ra,fue
+619,queremos,first-person plural present indicative of querer,verb,querer,/keˈɾemos/,que-re-mos,re
+620,perro,"dog (the species Canis familiaris (sometimes designated Canis lupus familiaris), domesticated for thousands of years and of highly variable appearance because of human breeding)",noun,perro,/ˈpero/,pe-rro,pe
+621,cielo,sky,noun,cielo,/ˈsielo/,cie-lo,cie
+622,puesto,standing,adjective,puesto,/ˈpuesto/,pues-to,pues
+623,viaje,voyage,noun,viaje,/ˈbiaxe/,via-je,via
+624,detrás,"behind, at the rear",adverb,detrás,/deˈtɾas/,de-trás,trás
+625,cuarto,fourth,adjective,cuarto,/ˈkuaɾto/,cuar-to,cuar
+626,querida,"dear (also used in letter introductions, etc.)",adjective,querido,/keˈɾida/,que-ri-da,ri
+627,haría,to do,verb,hacer,/aˈɾia/,ha-rí-a,rí
+628,preguntas,question (sentence that asks for information),noun,pregunta,/pɾeˈɡuntas/,pre-gun-tas,gun
+629,piensas,second-person singular present indicative of pensar,adjective,piensa,/ˈpiensas/,pien-sas,pien
+630,querido,"dear (also used in letter introductions, etc.)",adjective,querido,/keˈɾido/,que-ri-do,ri
+631,libre,free (not imprisoned or enslaved),adjective,libre,/ˈlibɾe/,li-bre,li
+632,buscar,"to seek, search for, look for, try to find, to scour",verb,buscar,/busˈkaɾ/,bus-car,car
+633,cual,"suchlike, like (which), such as",pronoun,cual,/ˈkual/,cual,cual
+634,diré,"to say, to tell",verb,decir,/diˈɾe/,di-ré,ré
+635,suena,inflection of sonar,verb,sonar,/ˈsuena/,sue-na,sue
+636,jugar,to play,verb,jugar,/xuˈɡaɾ/,ju-gar,gar
+637,cambio,"change, shift",noun,cambio,/ˈkambio/,cam-bio,cam
+638,película,film (layer),noun,película,/peˈlikula/,pe-lí-cu-la,lí
+639,millones,plural of millón,noun,millón,/miˈʝones/,mi-llo-nes,llo
+640,habrá,have; forms the perfect aspect,verb,haber,/aˈbɾa/,ha-brá,brá
+641,llamada,called,adjective,llamado,/ʝaˈmada/,lla-ma-da,ma
+642,resto,"rest, remainder",noun,resto,/ˈresto/,res-to,res
+643,vemos,"to see, to spot",verb,ver,/ˈbemos/,ve-mos,ve
+644,extraño,"strange, unusual, odd, weird, bizarre, uncanny, rare, peculiar, freaky, freakish, freak, curious",adjective,extraño,/eksˈtɾaɲo/,ex-tra-ño,tra
+645,mala,bad (of bad quality),adjective,malo,/ˈmala/,ma-la,ma
+646,presidente,president,noun,presidente,/pɾesiˈdente/,pre-si-den-te,den
+647,srta.,Miss (abbreviation of señorita),abbreviation,señorita,/ˈsrta./,srta.,srta.
+648,irme,infinitive of ir combined with me,verb,ir yo,/ˈiɾme/,ir-me,ir
+649,ropa,"garment, clothing, clothes, robes",noun,ropa,/ˈropa/,ro-pa,ro
+650,perder,to lose,verb,perder,/peɾˈdeɾ/,per-der,der
+651,vuelve,"to return, to revert, to get back",verb,volver,/ˈbuelbe/,vuel-ve,vuel
+652,agente,agent,noun,agente,/aˈxente/,a-gen-te,gen
+653,palabras,word,noun,palabra,/paˈlabɾas/,pa-la-bras,la
+654,información,"information, data",noun,información,/infoɾmaˈsion/,in-for-ma-ción,ción
+655,raro,rare,adjective,raro,/ˈraɾo/,ra-ro,ra
+656,hará,to do,verb,hacer,/aˈɾa/,ha-rá,rá
+657,entiendes,second-person singular present indicative of entender,noun,entiend,/enˈtiendes/,en-tien-des,tien
+658,éste,this one,pronoun,este,/ˈeste/,és-te,és
+659,trabajando,gerund of trabajar,verb,trabajar,/tɾabaˈxando/,tra-ba-jan-do,jan
+660,tratando,gerund of tratar,verb,tratar,/tɾaˈtando/,tra-tan-do,tan
+661,general,"general, overall",adjective,general,/xeneˈɾal/,ge-ne-ral,ral
+662,trato,"to treat (to handle, behave toward in a specific way)",verb,tratar,/ˈtɾato/,tra-to,tra
+663,usar,to use,verb,usar,/uˈsaɾ/,u-sar,sar
+664,perfecto,perfect,adjective,perfecto,/peɾˈfesto/,per-fec-to,fec
+665,derecho,straight (not crooked or bent; having a constant direction throughout its length),adjective,derecho,/deˈɾetʃo/,de-re-cho,re
+666,modo,"way, manner",noun,modo,/ˈmodo/,mo-do,mo
+667,ayer,yesterday,adverb,ayer,/aˈʝeɾ/,a-yer,yer
+668,conoces,second-person singular present indicative of conocer,noun,conoz,/koˈnoses/,co-no-ces,no
+669,demás,"others, other ones",pronoun,demá,/deˈmas/,de-más,más
+670,quieras,second-person singular present subjunctive of querer,verb,quieras,/ˈkieɾas/,quie-ras,quie
+671,podríamos,"to be able to, can",verb,poder,/poˈdɾiamos/,po-drí-a-mos,drí
+672,noticias,plural of noticia,noun,noticia,/noˈtisias/,no-ti-cias,ti
+673,asesino,"murderous, homicidal (intending, or likely to commit murder)",adjective,asesino,/aseˈsino/,a-se-si-no,si
+674,encontrado,found,adjective,encontrado,/enkonˈtɾado/,en-con-tra-do,tra
+675,control,"control, or running of a business",noun,control,/konˈtɾol/,con-trol,trol
+676,odio,"hate, hatred, loathing (strong aversion; intense dislike)",noun,odio,/ˈodio/,o-dio,o
+677,frente,"forehead, brow",noun,frente,/ˈfɾente/,fren-te,fren
+678,sexo,sex (the biological category),noun,sexo,/ˈsekso/,se-xo,se
+679,decirle,infinitive of decir combined with le,verb,decir él,/deˈsiɾle/,de-cir-le,cir
+680,estaré,to be (have a temporary or permanent location in space),verb,estar,/estaˈɾe/,es-ta-ré,ré
+681,divertido,"entertaining, amusing, funny",adjective,divertido,/dibeɾˈtido/,di-ver-ti-do,ti
+682,armas,"weapon, arm",noun,arma,/ˈaɾmas/,ar-mas,ar
+683,recuerdas,second-person singular present indicative of recordar,adjective,recuerda,/reˈkueɾdas/,re-cuer-das,cuer
+684,amiga,"female equivalent of amigo, friend",noun,amiga,/aˈmiɡa/,a-mi-ga,mi
+685,grupo,group,noun,grupo,/ˈɡɾupo/,gru-po,gru
+686,asunto,"matter, issue, business",noun,asunto,/aˈsunto/,a-sun-to,sun
+687,acabo,synonym of acabamiento,verb,acabar,/aˈkabo/,a-ca-bo,ca
+688,mensaje,message,noun,mensaje,/menˈsaxe/,men-sa-je,sa
+689,encima,on top of something,adverb,encima,/enˈsima/,en-ci-ma,ci
+690,atención,attention,noun,atención,/atenˈsion/,a-ten-ción,ción
+691,diferente,different,adjective,diferente,/difeˈɾente/,di-fe-ren-te,ren
+692,uh,used to express disappointment or disdain,interjection,uh,/ˈu/,uh,uh
+693,cállate,shut up!,verb,cállatir,/ˈkaʝate/,cá-lla-te,cá
+694,daño,damage,noun,daño,/ˈdaɲo/,da-ño,da
+695,sucede,inflection of suceder,verb,suceder,/suˈsede/,su-ce-de,ce
+696,cambiar,"to change, to shift, to switch, to alter",verb,cambiar,/kamˈbiaɾ/,cam-biar,biar
+697,siguiente,following,adjective,siguiente,/siˈɡiente/,si-guien-te,guien
+698,sino,but (rather) (after a negative clause),conjunction,sino,/ˈsino/,si-no,si
+699,seas,second-person singular present subjunctive of ser,noun,sea,/ˈseas/,se-as,se
+700,médico,medical,adjective,médico,/ˈmediko/,mé-di-co,mé
+701,boca,"mouth, oral cavity",noun,boca,/ˈboka/,bo-ca,bo
+702,dejó,to leave (to place),verb,dejar,/deˈxo/,de-jó,jó
+703,error,error,noun,error,/eˈroɾ/,e-rror,rror
+704,jamás,never,adverb,jamás,/xaˈmas/,ja-más,más
+705,largo,long (having much distance from one terminating point to another),adjective,largo,/ˈlaɾɡo/,lar-go,lar
+706,pena,punishment,noun,pena,/ˈpena/,pe-na,pe
+707,voz,voice,noun,voz,/ˈbos/,voz,voz
+708,futuro,future (the time ahead),noun,futuro,/fuˈtuɾo/,fu-tu-ro,tu
+709,siente,to feel,verb,sentir,/ˈsiente/,sien-te,sien
+710,secreto,a secret,noun,secreto,/seˈkɾeto/,se-cre-to,cre
+711,baño,bath (act of taking a bath),noun,baño,/ˈbaɲo/,ba-ño,ba
+712,mil,thousand,number,mil,/ˈmil/,mil,mil
+713,decirte,infinitive of decir combined with te,verb,decir tú,/deˈsiɾte/,de-cir-te,cir
+714,pensaba,"to think, ponder",verb,pensar,/penˈsaba/,pen-sa-ba,sa
+715,novia,"female equivalent of novio, girlfriend",noun,novia,/ˈnobia/,no-via,no
+716,propia,own (belonging to),adjective,propio,/ˈpɾopia/,pro-pia,pro
+717,sueño,"sleep, slumber",noun,sueño,/ˈsueɲo/,sue-ño,sue
+718,haz,do! (imperative of hacer),verb,haz,/ˈas/,haz,haz
+719,fuerza,force,noun,fuerza,/ˈfueɾsa/,fuer-za,fuer
+720,deben,third-person plural present indicative of deber,verb,deber,/ˈdeben/,de-ben,de
+721,supone,third-person singular present indicative of suponer,verb,suponer,/suˈpone/,su-po-ne,po
+722,estábamos,first-person plural imperfect indicative of estar,verb,estár,/esˈtabamos/,es-tá-ba-mos,tá
+723,ambos,both,number,ambos,/ˈambos/,am-bos,am
+724,ay,obsolete spelling of hay,verb,ay ,/ˈai̯/,ay,ay
+725,estuve,to be (have a temporary or permanent location in space),verb,estar,/esˈtube/,es-tu-ve,tu
+726,encontré,first-person singular preterite indicative of encontrar,adjective,encontré,/enkonˈtɾe/,en-con-tré,tré
+727,vuelto,past participle of volver,verb,volver,/ˈbuelto/,vuel-to,vuel
+728,dolor,"pain, ache, aching soreness, tenderness (physical)",noun,dolor,/doˈloɾ/,do-lor,lor
+729,dile,second-person singular imperative of decir combined with le,adjective,dile,/ˈdile/,di-le,di
+730,encanta,inflection of encantar,verb,encantar,/enˈkanta/,en-can-ta,can
+731,edad,age,noun,edad,/eˈdad/,e-dad,dad
+732,darle,infinitive of dar combined with le,verb,dar él,/ˈdaɾle/,dar-le,dar
+733,pie,foot (a part of the body),noun,pie,/ˈpie/,pie,pie
+734,negro,black (absorbing all light and reflecting none; dark and hueless),adjective,negro,/ˈneɡɾo/,ne-gro,ne
+735,ganar,to gain,verb,ganar,/ɡaˈnaɾ/,ga-nar,nar
+736,aire,air (the substance constituting earth's atmosphere),noun,aire,/ˈaiɾe/,ai-re,ai
+737,lamento,lament,noun,lamento,/laˈmento/,la-men-to,men
+738,verlo,infinitive of ver combined with lo,verb,ver él,/ˈbeɾlo/,ver-lo,ver
+739,asesinato,assassination,noun,asesinato,/asesiˈnato/,a-se-si-na-to,na
+740,vio,"to see, to spot",verb,ver,/ˈbio/,vio,vio
+741,adónde,"to where, whither, whereto",pronoun,adónde,/aˈdonde/,a-dón-de,dón
+742,llegado,past participle of llegar,verb,llegar,/ʝeˈɡado/,lle-ga-do,ga
+743,disculpe,excuse me; pardon me,verb,disculpar,/disˈkulpe/,dis-cul-pe,cul
+744,cita,date (romantic outing),noun,cita,/ˈsita/,ci-ta,ci
+745,estaría,to be (have a temporary or permanent location in space),verb,estar,/estaˈɾia/,es-ta-rí-a,rí
+746,fuiste,to go (away from speaker and listener),verb,ir,/ˈfuiste/,fuis-te,fuis
+747,sistema,system,noun,sistema,/sisˈtema/,sis-te-ma,te
+748,gusto,taste (sense),noun,gusto,/ˈɡusto/,gus-to,gus
+749,pobre,"poor (lacking money, resources, etc.)",adjective,pobre,/ˈpobɾe/,po-bre,po
+750,negocio,"business, enterprise (commercial enterprise or establishment)",noun,negocio,/neˈɡosio/,ne-go-cio,go
+751,mente,"mind, intellect",noun,mente,/ˈmente/,men-te,men
+752,tuyo,yours,verb,tuyo,/ˈtuʝo/,tu-yo,tu
+753,campo,"countryside, country",noun,campo,/ˈkampo/,cam-po,cam
+754,mire,inflection of mirar,noun,mire,/ˈmiɾe/,mi-re,mi
+755,situación,"situation, scenario, picture",noun,situación,/situaˈsion/,si-tua-ción,ción
+756,tras,"after, following, in the wake of; upon",preposition,tras,/ˈtɾas/,tras,tras
+757,hotel,hotel,noun,hotel,/oˈtel/,ho-tel,tel
+758,vosotros,"you, you guys; second person plural personal pronoun",noun,vosotro,/boˈsotɾos/,vo-so-tros,so
+759,funciona,inflection of funcionar,verb,funcionar,/funˈsiona/,fun-cio-na,cio
+760,foto,"photo, photograph",noun,foto,/ˈfoto/,fo-to,fo
+761,abogado,"lawyer, solicitor, counsel.",noun,abogado,/aboˈɡado/,a-bo-ga-do,ga
+762,loca,"a madwoman, female equivalent of loco",verb,locar,/ˈloka/,lo-ca,lo
+763,propio,own (belonging to),adjective,propio,/ˈpɾopio/,pro-pio,pro
+764,alrededor,around (from place to place),adverb,alrededor,/alredeˈdoɾ/,al-re-de-dor,dor
+765,próxima,near,adjective,próximo,/ˈpɾoksima/,pró-xi-ma,pró
+766,terminado,finished,adjective,terminado,/teɾmiˈnado/,ter-mi-na-do,na
+767,hablas,speech (faculty of speech),noun,habla,/ˈablas/,ha-blas,ha
+768,pagar,to pay,verb,pagar,/paˈɡaɾ/,pa-gar,gar
+769,mató,"to kill, slay",verb,matar,/maˈto/,ma-tó,tó
+770,llamo,"to summon, to call",verb,llamar,/ˈʝamo/,lla-mo,lla
+771,personal,personal,adjective,personal,/peɾsoˈnal/,per-so-nal,nal
+772,sientes,second-person singular present subjunctive of sentar,noun,sient,/ˈsientes/,sien-tes,sien
+773,ocurre,inflection of ocurrir,verb,ocurrir,/oˈkure/,o-cu-rre,cu
+774,ésta,alternative spelling of éste,pronoun,este,/ˈesta/,és-ta,és
+775,recuerda,inflection of recordar,verb,recordar,/reˈkueɾda/,re-cuer-da,cuer
+776,mitad,half,noun,mitad,/miˈtad/,mi-tad,tad
+777,quiera,inflection of querer,verb,querer,/ˈkieɾa/,quie-ra,quie
+778,pelo,hair (a single hair),noun,pelo,/ˈpelo/,pe-lo,pe
+779,tenías,second-person singular imperfect indicative of tener,noun,tenía,/teˈnias/,te-ní-as,ní
+780,viste,"you know; used as a space filler, usually in the middle of a sentence, or when telling a story",adjective,viste,/ˈbiste/,vis-te,vis
+781,oficial,official,adjective,oficial,/ofiˈsial/,o-fi-cial,cial
+782,llegó,"to arrive, get (to)",verb,llegar,/ʝeˈɡo/,lle-gó,gó
+783,compañía,company,noun,compañía,/kompaˈɲia/,com-pa-ñí-a,ñí
+784,relación,relation,noun,relación,/relaˈsion/,re-la-ción,ción
+785,conoce,"to know (a person or a place), to be familiar with, to be acquainted with",verb,conocer,/koˈnose/,co-no-ce,no
+786,pase,"to pass, to hand, to slip",verb,pasar,/ˈpase/,pa-se,pa
+787,montón,"heap, pile (collection of things laid in a body, or thrown together so as to form an elevation)",interjection,montón,/monˈton/,mon-tón,tón
+788,mejores,better,adjective,mejor,/meˈxoɾes/,me-jo-res,jo
+789,creí,to believe,verb,creer,/kɾeˈi/,cre-í,í
+790,cena,"supper, dinner",noun,cena,/ˈsena/,ce-na,ce
+791,sentir,to feel,verb,sentir,/senˈtiɾ/,sen-tir,tir
+792,través,"bend, turn",noun,través,/tɾaˈbes/,tra-vés,vés
+793,accidente,accident (unexpected event with negative consequences),noun,accidente,/assiˈdente/,ac-ci-den-te,den
+794,i,obsolete spelling of y,conjunction,i,/ˈi/,i,i
+795,ellas,"they, them (used subjectively and after prepositions; can refer to women and feminine nouns)",pronoun,él,/ˈeʝas/,e-llas,e
+796,caja,"box, case",verb,cajar,/ˈkaxa/,ca-ja,ca
+797,tranquilo,"calm, peaceful, tranquil, quiet",adjective,tranquilo,/tɾanˈkilo/,tran-qui-lo,qui
+798,bonito,"pretty, cute",adjective,bonito,/boˈnito/,bo-ni-to,ni
+799,eras,"era, age",noun,era,/ˈeɾas/,e-ras,e
+800,asi,obsolete spelling of así,adverb,asi,/ˈasi/,a-si,a
+801,pudo,"to be able to, can",verb,poder,/ˈpudo/,pu-do,pu
+802,vive,to live; to be alive,verb,vivir,/ˈbibe/,vi-ve,vi
+803,vista,seen,adjective,visto,/ˈbista/,vis-ta,vis
+804,estúpido,stupid,adjective,estúpido,/esˈtupido/,es-tú-pi-do,tú
+805,línea,line (a straight path through two or more points),noun,línea,/ˈlinea/,lí-ne-a,lí
+806,caballeros,plural of caballero,noun,caballero,/kabaˈʝeɾos/,ca-ba-lle-ros,lle
+807,haremos,to do,verb,hacer,/aˈɾemos/,ha-re-mos,re
+808,dan,"to give, to give out",verb,dar,/ˈdan/,dan,dan
+809,quédate,second-person singular imperative of quedar combined with te,verb,quédate,/ˈkedate/,qué-da-te,qué
+810,tienda,tent,noun,tienda,/ˈtienda/,tien-da,tien
+811,comprar,to buy (to obtain in exchange of money or goods),verb,comprar,/komˈpɾaɾ/,com-prar,prar
+812,entendido,expert,adjective,entendido,/entenˈdido/,en-ten-di-do,di
+813,centro,center,noun,centro,/ˈsentɾo/,cen-tro,cen
+814,salvo,safe,preposition,salvo,/ˈsalbo/,sal-vo,sal
+815,mes,month,noun,mes,/ˈmes/,mes,mes
+816,sol,sun,noun,sol,/ˈsol/,sol,sol
+817,tonto,"a fool, a stupid person",noun,tonto,/ˈtonto/,ton-to,ton
+818,hambre,hunger,noun,hambre,/ˈambɾe/,ham-bre,ham
+819,mesa,table,noun,mesa,/ˈmesa/,me-sa,me
+820,respuesta,"reply, response, answer",noun,respuesta,/resˈpuesta/,res-pues-ta,pues
+821,completamente,completely,adverb,completamente,/kompletaˈmente/,com-ple-ta-men-te,men
+822,carta,letter (document),noun,carta,/ˈkaɾta/,car-ta,car
+823,totalmente,totally,adverb,totalmente,/totalˈmente/,to-tal-men-te,men
+824,imposible,impossible,adjective,imposible,/impoˈsible/,im-po-si-ble,si
+825,pruebas,proof; evidence (usually in the plural),noun,prueba,/ˈpɾuebas/,prue-bas,prue
+826,novio,boyfriend (romantic partner),noun,novio,/ˈnobio/,no-vio,no
+827,normal,"normal, standard, regular, fine",adjective,normal,/noɾˈmal/,nor-mal,mal
+828,gustan,third-person plural present indicative of gustar,verb,gustar,/ˈɡustan/,gus-tan,gus
+829,pude,"to be able to, can",verb,poder,/ˈpude/,pu-de,pu
+830,traje,suit,noun,traje,/ˈtɾaxe/,tra-je,tra
+831,dirección,direction,noun,dirección,/diɾesˈsion/,di-rec-ción,ción
+832,siete,seven,number,siete,/ˈsiete/,sie-te,sie
+833,dijeron,"to say, to tell",verb,decir,/diˈxeɾon/,di-je-ron,je
+834,placer,pleasure; something done to please,noun,placer,/plaˈseɾ/,pla-cer,cer
+835,sean,to be (essentially or identified as),verb,ser,/ˈsean/,se-an,se
+836,tendrá,to have; to possess,verb,tener,/tenˈdɾa/,ten-drá,drá
+837,barco,boat (usually with a concave hull),noun,barco,/ˈbaɾko/,bar-co,bar
+838,blanco,white,adjective,blanco,/ˈblanko/,blan-co,blan
+839,profesor,professor (a faculty member),noun,profesor,/pɾofeˈsoɾ/,pro-fe-sor,sor
+840,servicio,service,noun,servicio,/seɾˈbisio/,ser-vi-cio,vi
+841,muchacho,boy,adjective,muchacho,/muˈtʃatʃo/,mu-cha-cho,cha
+842,reunión,"meeting, session, appointment",noun,reunión,/reuˈnion/,reu-nión,nión
+843,dejado,"sloppy, lax (person)",adjective,dejado,/deˈxado/,de-ja-do,ja
+844,ley,law (a well-established characteristic of nature),noun,ley,/ˈlei̯/,ley,ley
+845,quisiera,first/third-person singular imperfect subjunctive of querer,verb,querer,/kiˈsieɾa/,qui-sie-ra,sie
+846,hubo,have; forms the perfect aspect,verb,haber,/ˈubo/,hu-bo,hu
+847,programa,"programme, program",noun,programa,/pɾoˈɡɾama/,pro-gra-ma,gra
+848,carrera,race,noun,carrera,/kaˈreɾa/,ca-rre-ra,rre
+849,cumpleaños,birthday,noun,cumpleaños,/kumpleˈaɲos/,cum-ple-a-ños,a
+850,muchachos,boy,noun,muchacho,/muˈtʃatʃos/,mu-cha-chos,cha
+851,culo,"ass, arse, booty, rear, behind, butt, buttocks",noun,culo,/ˈkulo/,cu-lo,cu
+852,canción,song,noun,canción,/kanˈsion/,can-ción,ción
+853,hermosa,"gorgeous, beautiful, handsome, lovely",adjective,hermoso,/eɾˈmosa/,her-mo-sa,mo
+854,universidad,"university, (US) college",noun,universidad,/unibeɾsiˈdad/,u-ni-ver-si-dad,dad
+855,boda,wedding,noun,boda,/ˈboda/,bo-da,bo
+856,decirme,infinitive of decir combined with me,verb,decir yo,/deˈsiɾme/,de-cir-me,cir
+857,cualquiera,"anyone, whoever, whomever",pronoun,cualquiera,/kualˈkieɾa/,cual-quie-ra,quie
+858,tengas,second-person singular present subjunctive of tener,noun,tenga,/ˈtenɡas/,ten-gas,ten
+859,hacía,to do,verb,hacer,/aˈsia/,ha-cí-a,cí
+860,estés,inflection of estar,noun,estés,/esˈtes/,es-tés,tés
+861,sala,room (a separate part of a building),noun,sala,/ˈsala/,sa-la,sa
+862,llevo,to take somewhere (most of the time away from the speaker),verb,llevar,/ˈʝebo/,lle-vo,lle
+863,decisión,decision,noun,decisión,/desiˈsion/,de-ci-sión,sión
+864,espere,to hope,verb,esperar,/esˈpeɾe/,es-pe-re,pe
+865,don,"sir, master, lord",noun,don,/ˈdon/,don,don
+866,necesario,"necessary, requisite",adjective,necesario,/neseˈsaɾio/,ne-ce-sa-rio,sa
+867,sal,salt; table salt,verb,sal,/ˈsal/,sal,sal
+868,entra,to enter; to come in; to get in; to go in; to get inside; to come on in,verb,entrar,/ˈentɾa/,en-tra,en
+869,prisa,"hurry, rush, urgency",noun,prisa,/ˈpɾisa/,pri-sa,pri
+870,carajo,cock,adjective,carajo,/kaˈɾaxo/,ca-ra-jo,ra
+871,embargo,embargo,noun,embargo,/emˈbaɾɡo/,em-bar-go,bar
+872,interesante,interesting,adjective,interesante,/inteɾeˈsante/,in-te-re-san-te,san
+873,tendrás,second-person singular future indicative of tener,noun,tendrá,/tenˈdɾas/,ten-drás,drás
+874,escuchar,"to listen to, to hear out",verb,escuchar,/eskuˈtʃaɾ/,es-cu-char,char
+875,abuela,"grandmother, female equivalent of abuelo",noun,abuela,/aˈbuela/,a-bue-la,bue
+876,hicieron,to do,verb,hacer,/iˈsieɾon/,hi-cie-ron,cie
+877,detective,detective,verb,detectivar,/detesˈtibe/,de-tec-ti-ve,ti
+878,horrible,horrible,adjective,horrible,/oˈrible/,ho-rri-ble,rri
+879,suelo,"dirt, earth, ground, soil",noun,suelo,/ˈsuelo/,sue-lo,sue
+880,fotos,"photo, photograph",noun,foto,/ˈfotos/,fo-tos,fo
+881,cárcel,prison,noun,cárcel,/ˈkaɾsel/,cár-cel,cár
+882,acá,high quality,noun,acá,/aˈka/,a-cá,cá
+883,siéntate,second-person singular imperative of sentar combined with te,noun,siéntate,/ˈsientate/,sién-ta-te,sién
+884,decía,"to say, to tell",verb,decir,/deˈsia/,de-cí-a,cí
+885,intentando,gerund of intentar,verb,intentar,/intenˈtando/,in-ten-tan-do,tan
+886,vámonos,first-person plural imperative of ir combined with nos,noun,vámono,/ˈbamonos/,vá-mo-nos,vá
+887,maldición,curse,noun,maldición,/maldiˈsion/,mal-di-ción,ción
+888,silencio,silence,noun,silencio,/siˈlensio/,si-len-cio,len
+889,muerta,dead,adjective,muerto,/ˈmueɾta/,muer-ta,muer
+890,capaz,"able, capable",adjective,capaz,/kaˈpas/,ca-paz,paz
+891,salió,"to go out, to leave, to depart, to head out",verb,salir,/saˈlio/,sa-lió,lió
+892,club,"club (an association of members joining together for some common purpose, especially sports or recreation)",noun,club,/ˈklub/,club,club
+893,terminar,"to (cause to) finish, to (cause to) end, to (cause to) terminate, to (cause to) conclude",verb,terminar,/teɾmiˈnaɾ/,ter-mi-nar,nar
+894,temo,first-person singular present indicative of temar,verb,temer,/ˈtemo/,te-mo,te
+895,broma,"joke, prank, practical joke",noun,broma,/ˈbɾoma/,bro-ma,bro
+896,gobierno,government,noun,gobierno,/ɡoˈbieɾno/,go-bier-no,bier
+897,prometo,first-person singular present indicative of prometer,noun,prometo,/pɾoˈmeto/,pro-me-to,me
+898,cámara,room,noun,cámara,/ˈkamaɾa/,cá-ma-ra,cá
+899,media,half (one of two equal parts of any whole),number,medio,/ˈmedia/,me-dia,me
+900,terrible,"terrible, awful, horrible (very bad)",adjective,terrible,/teˈrible/,te-rri-ble,rri
+901,llamó,"to summon, to call",verb,llamar,/ʝaˈmo/,lla-mó,mó
+902,regalo,"present, gift",noun,regalo,/reˈɡalo/,re-ga-lo,ga
+903,amable,"kind, amiable, gracious",adjective,amable,/aˈmable/,a-ma-ble,ma
+904,dulce,"candy, sweet",verb,dulce,/ˈdulse/,dul-ce,dul
+905,muertos,"a dead person, deceased",noun,muerto,/ˈmueɾtos/,muer-tos,muer
+906,querías,second-person singular imperfect indicative of querer,noun,quería,/keˈɾias/,que-rí-as,rí
+907,ataque,attack (an attempt to damage an opponent or enemy),noun,ataque,/aˈtake/,a-ta-que,ta
+908,das,inflection of dar,noun,da,/ˈdas/,das,das
+909,navidad,Christmas present,noun,navidad,/nabiˈdad/,na-vi-dad,dad
+910,negocios,"business, enterprise (commercial enterprise or establishment)",noun,negocio,/neˈɡosios/,ne-go-cios,go
+911,pudiera,"to be able to, can",verb,poder,/puˈdieɾa/,pu-die-ra,die
+912,ocho,eight (8),number,ocho,/ˈotʃo/,o-cho,o
+913,avión,"aeroplane, airplane, plane",noun,avión,/aˈbion/,a-vión,vión
+914,investigación,investigation,noun,investigación,/inbestiɡaˈsion/,in-ves-ti-ga-ción,ción
+915,acabó,third-person singular preterite indicative of acabar,verb,acabar,/akaˈbo/,a-ca-bó,bó
+916,juro,ownership,noun,juro,/ˈxuɾo/,ju-ro,ju
+917,mantener,to keep,verb,mantener,/manteˈneɾ/,man-te-ner,ner
+918,ejército,army,noun,ejército,/eˈxeɾsito/,e-jér-ci-to,jér
+919,papel,paper,noun,papel,/paˈpel/,pa-pel,pel
+920,partes,genitalia,noun,parte,/ˈpaɾtes/,par-tes,par
+921,ten,second-person singular imperative of tener,verb,ten,/ˈten/,ten,ten
+922,gracioso,"funny, amusing",adjective,gracioso,/ɡɾaˈsioso/,gra-cio-so,cio
+923,diría,"to say, to tell",verb,decir,/diˈɾia/,di-rí-a,rí
+924,principio,principle,noun,principio,/pɾinˈsipio/,prin-ci-pio,ci
+925,delante,"in front of, before (spatially)",adverb,delante,/deˈlante/,de-lan-te,lan
+926,teniente,lieutenant,noun,teniente,/teˈniente/,te-nien-te,nien
+927,deseo,"desire, wish",verb,desear,/deˈseo/,de-se-o,se
+928,vayas,joke; taunt,noun,vaya,/ˈbaʝas/,va-yas,va
+929,nave,"ship, vessel (with a concave hull)",noun,nave,/ˈnabe/,na-ve,na
+930,sale,"to go out, to leave, to depart, to head out",verb,salir,/ˈsale/,sa-le,sa
+931,basura,"trash, waste, garbage, rubbish, nonsense",noun,basura,/baˈsuɾa/,ba-su-ra,su
+932,vine,Senses relating to literal movement.,verb,venir,/ˈbine/,vi-ne,vi
+933,contacto,contact,noun,contacto,/konˈtasto/,con-tac-to,tac
+934,esposo,husband,adjective,esposo,/esˈposo/,es-po-so,po
+935,tren,train,noun,tren,/ˈtɾen/,tren,tren
+936,encontramos,to meet,verb,encontrar,/enkonˈtɾamos/,en-con-tra-mos,tra
+937,dale,"OK, okey dokey, right",verb,dale,/ˈdale/,da-le,da
+938,verdadero,"true, real",adjective,verdadero,/beɾdaˈdeɾo/,ver-da-de-ro,de
+939,tuya,yours,pronoun,tuyo,/ˈtuʝa/,tu-ya,tu
+940,alma,soul,noun,alma,/ˈalma/,al-ma,al
+941,hazlo,second-person singular imperative of hacer combined with lo,verb,hazlo,/ˈaslo/,haz-lo,haz
+942,disculpa,excuse,noun,disculpa,/disˈkulpa/,dis-cul-pa,cul
+943,junto,together,adjective,junto,/ˈxunto/,jun-to,jun
+944,anda,"a bier or small platform, when carried by people (usually 4 or more individuals) to move a corpse or religious image",verb,andar,/ˈanda/,an-da,an
+945,tendré,first-person singular future indicative of tener,adjective,tendré,/tenˈdɾe/,ten-dré,dré
+946,matrimonio,matrimony (sacrament),noun,matrimonio,/matɾiˈmonio/,ma-tri-mo-nio,mo
+947,saberlo,infinitive of saber combined with lo,verb,saber él,/saˈbeɾlo/,sa-ber-lo,ber
+948,locura,"madness, craziness",noun,locura,/loˈkuɾa/,lo-cu-ra,cu
+949,oro,gold.,noun,oro,/ˈoɾo/,o-ro,o
+950,permiso,permission,noun,permiso,/peɾˈmiso/,per-mi-so,mi
+951,director,director,noun,director,/diɾesˈtoɾ/,di-rec-tor,tor
+952,peligro,"peril, danger",noun,peligro,/peˈliɡɾo/,pe-li-gro,li
+953,libertad,"liberty, freedom",noun,libertad,/libeɾˈtad/,li-ber-tad,tad
+954,alegro,first-person singular present indicative of alegrar,verb,alegrar,/aˈleɡɾo/,a-le-gro,le
+955,baja,short (of little height),adjective,bajo,/ˈbaxa/,ba-ja,ba
+956,tendremos,to have; to possess,verb,tener,/tenˈdɾemos/,ten-dre-mos,dre
+957,derecha,straight (not crooked or bent; having a constant direction throughout its length),adjective,derecho,/deˈɾetʃa/,de-re-cha,re
+958,encuentra,to meet,verb,encontrar,/enˈkuentɾa/,en-cuen-tra,cuen
+959,pies,foot (a part of the body),noun,pie,/ˈpies/,pies,pies
+960,segunda,second (after the first),adjective,segundo,/seˈɡunda/,se-gun-da,gun
+961,maravilloso,"wonderful, marvelous",adjective,maravilloso,/maɾabiˈʝoso/,ma-ra-vi-llo-so,llo
+962,espacio,space (distance between things),noun,espacio,/esˈpasio/,es-pa-cio,pa
+963,rato,"a while, bit (a short period of time)",adjective,rato,/ˈrato/,ra-to,ra
+964,abuelo,grandfather,noun,abuelo,/aˈbuelo/,a-bue-lo,bue
+965,esperaba,to hope,verb,esperar,/espeˈɾaba/,es-pe-ra-ba,ra
+966,mirando,gerund of mirar,verb,mirar,/miˈɾando/,mi-ran-do,ran
+967,salud,health,noun,salud,/saˈlud/,sa-lud,lud
+968,sorpresa,surprise (something not expected),noun,sorpresa,/soɾˈpɾesa/,sor-pre-sa,pre
+969,ninguno,nobody; no one,pronoun,ninguno,/ninˈɡuno/,nin-gu-no,gu
+970,miren,"to look at (to try to see, to pay attention to with one’s eyes)",verb,mirar,/ˈmiɾen/,mi-ren,mi
+971,triste,"sad, saddened, blue, gloomy, unhappy, joyless, triste",adjective,triste,/ˈtɾiste/,tris-te,tris
+972,aun,even (implying an extreme example in the case mentioned),adverb,aun,/ˈaun/,aun,aun
+973,pensado,past participle of pensar,adjective,pensado,/penˈsado/,pen-sa-do,sa
+974,maestro,master,noun,maestro,/maˈestɾo/,ma-es-tro,es
+975,según,according to,preposition,según,/seˈɡun/,se-gún,gún
+976,infierno,hell,noun,infierno,/inˈfieɾno/,in-fier-no,fier
+977,podrían,"to be able to, can",verb,poder,/poˈdɾian/,po-drí-an,drí
+978,tipos,"kind, type, sort, manner",noun,tipo,/ˈtipos/,ti-pos,ti
+979,tía,"female equivalent of tío: aunt; the sister, sister-in-law or female cousin or cousin-in-law of either parent",verb,tir,/ˈtia/,tí-a,tí
+980,crimen,crime,noun,crimen,/ˈkɾimen/,cri-men,cri
+981,conocido,known,adjective,conocido,/konoˈsido/,co-no-ci-do,ci
+982,consejo,"advice, counsel, piece of advice",noun,consejo,/konˈsexo/,con-se-jo,se
+983,ante,"in front of, before",preposition,ante,/ˈante/,an-te,an
+984,iglesia,church,noun,iglesia,/iˈɡlesia/,i-gle-sia,gle
+985,intento,attempt,noun,intento,/inˈtento/,in-ten-to,ten
+986,mayoría,majority,noun,mayoría,/maʝoˈɾia/,ma-yo-rí-a,rí
+987,doy,"to give, to give out",verb,dar,/ˈdoi̯/,doy,doy
+988,hicimos,to do,verb,hacer,/iˈsimos/,hi-ci-mos,ci
+989,escena,scene,noun,escena,/esˈsena/,es-ce-na,ce
+990,piso,"floor, ground (surface of the earth)",noun,piso,/ˈpiso/,pi-so,pi
+991,señal,sign,verb,señal,/seˈɲal/,se-ñal,ñal
+992,honor,honor,noun,honor,/oˈnoɾ/,ho-nor,nor
+993,llamas,flame,noun,llama,/ˈʝamas/,lla-mas,lla
+994,abre,"to open, open up",verb,abrir,/ˈabɾe/,a-bre,a
+995,cerebro,brain,noun,cerebro,/seˈɾebɾo/,ce-re-bro,re
+996,veras,truth; reality,noun,vera,/ˈbeɾas/,ve-ras,ve
+997,viendo,gerund of ver,verb,ver,/ˈbiendo/,vien-do,vien
+998,pone,"to put, to put up, to place, to lay",verb,poner,/ˈpone/,po-ne,po
+999,pregunto,first-person singular present indicative of preguntar,noun,pregunto,/pɾeˈɡunto/,pre-gun-to,gun
+1000,cocina,kitchen,noun,cocina,/koˈsina/,co-ci-na,ci

@@ -1,0 +1,51 @@
+---
+// Skeleton for the /frequency/ tool pages. Mirrors Page.astro (subpage chrome:
+// BaseHead + Header inside the grid container) but with a full-width main so the
+// word table gets the whole content column, and the app CTA pinned after the slot.
+import BaseHead from './BaseHead.astro';
+import Header from '../components/Header.astro';
+import FrequencyCta from '../components/FrequencyCta.astro';
+
+interface Props {
+	title: string;
+	description?: string;
+	jsonLd?: object | object[];
+}
+const { title, description, jsonLd } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<BaseHead title={title} description={description} jsonLd={jsonLd} />
+</head>
+<body class="subPageBody">
+	<div class="headerBackground subPageHeaderBackground">
+		<div class="container subPageContainer">
+			<Header />
+			<main class="freqMain">
+				<slot />
+				<FrequencyCta />
+			</main>
+		</div>
+	</div>
+</body>
+</html>
+
+<style>
+	/* Tool palette mapped onto the landing's greys + accent so the pages read as
+	   one site. CSS vars (not Sass) because the ported page styles consume them. */
+	.freqMain {
+		--ink: #24292f;
+		--muted: #57606a;
+		--line: #e1e4e8;
+		--accent: #1d63ea;
+		--panel: #f6f8fa;
+		grid-column: 1/-1;
+		margin: 30px 0 70px;
+		color: var(--ink);
+		/* Site root is 10px (html font-size 62.5%), so 1.6rem restores the 16px
+		   base this page's type scale was designed against. */
+		font-size: 1.6rem;
+		line-height: 1.55;
+	}
+</style>

@@ -9,9 +9,13 @@ interface Props {
   title?: string;
   description?: string;
   isHome?: boolean;
+  // Extra page-specific JSON-LD (one object or several), emitted after the
+  // sitewide SoftwareApplication block. Used by the frequency hub (Dataset).
+  jsonLd?: object | object[];
 }
 
-const { title, description, isHome = false } = Astro.props;
+const { title, description, isHome = false, jsonLd } = Astro.props;
+const extraJsonLd = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 
 const siteUrl = Astro.site!; // https://shadowingkit.com/
 let pathname = Astro.url.pathname;
@@ -98,6 +102,11 @@ const faqPage = {
 {isHome && (
   <script type="application/ld+json" set:html={JSON.stringify(faqPage)} />
 )}
+
+{/* JSON-LD: page-specific (e.g. Dataset on the frequency hub) */}
+{extraJsonLd.map((obj) => (
+  <script type="application/ld+json" set:html={JSON.stringify(obj)} />
+))}
 
 <!-- Smart App Banner -->
 {flags.enableSmartAppBanner && (

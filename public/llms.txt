@@ -32,3 +32,7 @@
 - [Learn Spanish from TikTok and Instagram](https://shadowingkit.com/learn-spanish-from-tiktok-and-instagram/): Convert social video into shadowing practice
 - [15-Minute Daily Spanish Speaking Routine](https://shadowingkit.com/spanish-speaking-routine/): Day 1 to Day 60 practice plan
 - [Spanish Listening Practice for Intermediate Learners](https://shadowingkit.com/spanish-listening-practice-intermediate/): B1-B2 material selection and the three-pass method
+
+## Free Tools
+- [The 1000 Most Common Spanish Words](https://shadowingkit.com/frequency/): Free frequency list with English meaning, IPA pronunciation, syllables, and stress, ranked by spoken usage. CSV download included.
+- [Frequency List Methodology](https://shadowingkit.com/frequency/methodology/): Corpus, coverage math, and CC BY-SA attribution
