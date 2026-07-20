@@ -1,0 +1,29 @@
+---
+// App CTA for the /frequency/ tool pages. Reuses the landing .pageCta pattern
+// (same card as the content pages) with the tool's bridge copy. UTM params make
+// installs from this tool attributable.
+import { app } from '../config';
+
+const appUrl = `${app.appStoreLink}?utm_source=frequency-tool&utm_medium=web&utm_campaign=word-list`;
+---
+<div class="pageCta">
+	<img class="pageCtaIcon" src={app.icon} alt="ShadowingKit app icon" width="64" height="64" />
+	<div class="pageCtaText">
+		<strong>Knowing the words is one thing. Saying them out loud is another.</strong>
+		<span>ShadowingKit trains your speaking reflexes with native audio, so the words you recognize become words you can actually say.</span>
+	</div>
+	<a class="appStoreLink" href={appUrl}><img class="pageCtaBadge" src="/assets/appstore.png" alt="Download on the App Store" /></a>
+</div>
+<p class="freqFine">
+	Word data licensed CC BY-SA 4.0. Source: Hermit Dave FrequencyWords
+	(OpenSubtitles). <a href="/frequency/methodology/" target="_self">Methodology and sources</a>.
+</p>
+
+<style>
+	.freqFine {
+		margin-top: 16px;
+		font-size: 1.28rem;
+		color: #57606a;
+		text-align: center;
+	}
+</style>
