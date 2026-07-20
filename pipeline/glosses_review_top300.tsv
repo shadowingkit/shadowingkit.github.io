@@ -1,0 +1,301 @@
+rank	word	spacy_pos	draft_gloss	final_gloss	needs_review	all_candidates
+1	de	preposition	of; 's; used after the thing owned and before the owner			[noun] The name of the Latin script letter D/d. || [prep] of; 's; used after the thing owned and before the owner | from (with the source or provenance of or at) | of (expressing composition, substance)
+2	que	conjunction	that			[conj] that | than | indicates reason; because, for || [pron] who; that | that; whom; which
+3	no	adverb	not			[adv] not || [intj] no | eh?, right?, isn't it? (used as a tag question, to emphasise what precedes, or to request that the listener express an opinion) || [noun] no | abbreviation of número; no.
+4	a	preposition	to			[noun] Name of the letter A. || [prep] to | by | at || [verb] misspelling of ha || [intj] alternative form of ah
+5	la	determiner	feminine singular definite article; the			[article] feminine singular definite article; the || [pron] accusative of ella, ello (when the antecedent's implied gender is feminine), and usted (when referring to a woman); her, it, you (formal) | impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this || [noun] la (sixth note of the scale) | A (the musical note or key)
+6	el	determiner	masculine singular definite article; the			[article] masculine singular definite article; the | feminine singular definite article used before nouns which start with a stressed /a/
+7	y	conjunction	and			[conj] and | plus, and | well
+8	es	verb	to be (essentially or identified as)		L	[verb] third-person singular present indicative of ser || [noun] plural of e
+9	en	preposition	in, at, on			[prep] in, at, on | in (a time) | in (a language)
+10	lo	pronoun	accusative of él and usted (when referring to a man), and a variant of ello in many constructions; him, you (formal), it, that			[pron] accusative of él and usted (when referring to a man), and a variant of ello in many constructions; him, you (formal), it, that || [article] neuter definite article used only before nominalized adjectives: the, that which is
+11	un	determiner	an; a			[article] an; a || [num] apocopic form of uno (“one”)
+12	por	preposition	by	for; by; through; because of		[prep] by | for (indicates something given in an exchange) | through, out, via (indicating movement) || [intj] why do you ask?, why are you asking?
+13	qué	pronoun	what			[det] what; which | what a; such || [adv] how | Substitutes an interrogative word like cómo, cuándo, etc. || [pron] what || [intj] what (expresses surprise or confusion)
+14	me	pronoun	accusative of yo: me			[pron] accusative of yo: me | dative of yo: to me, for me | reflexive of yo: myself
+15	una	determiner	one	a; an (feminine)	L	[noun] feminine of uno || [article] feminine singular of un || [det] feminine singular of uno || [pron] one (an indefinite plural pronoun using a singular feminine item, used for females) || [verb] inflection of unir:
+16	los	determiner	masculine singular definite article; the		L	[article] masculine plural of el (“the”) || [pron] accusative of ellos; them | accusative of ustedes (when referring to more than one man); you all (formal or (Latin America) informal) | plural masculine or neuter pronoun
+17	se	pronoun	A reflexive or reciprocal pronoun: oneself, himself, herself, itself, yourself; themselves; yourselves; each other; one another			[pron] A reflexive or reciprocal pronoun: oneself, himself, herself, itself, yourself; themselves; yourselves; each other; one another | A pronoun used with transitive verbs to create the passive voice | A pronoun used with a verb conjugated in the third-person singular to convey an impersonal meaning || [verb] misspelling of sé
+18	te	pronoun	dative of tú and vos: to you, for you			[noun] The name of the Latin script letter T/t. || [pron] dative of tú and vos: to you, for you | accusative of tú and vos: you | yourself
+19	con	preposition	with			[prep] with | Dependent preposition following certain verbs.
+20	para	preposition	for, to (expressing a recipient)			[prep] for, to (expressing a recipient) | to, in order to, so, for (expressing the intended purpose of an action) | by, due, due on, due by (expressing a deadline) || [verb] inflection of parar: | inflection of parir: || [noun] paramilitary
+21	está	verb	to be (have a temporary or permanent location in space)		L	[verb] inflection of estar:
+22	mi	determiner	mi	my	Y	[det] apocopic form of mío, my || [noun] mu; the Greek letter Μ, μ | mi
+23	pero	conjunction	but			[conj] but | well well; so; well (used for emphasis) | expresses surprise || [noun] but (instance of saying "but") | but (restriction) || [verb] first-person singular present indicative of perar
+24	sí	interjection	hello? (used when answering a phone call)	yes		[particle] yes, yeah, (used to respond affirmatively to a question, used both informally and formally) | Used to give positive emphasis to a verb, which is often replaced. Functions similarly to English do. || [intj] hello? (used when answering a phone call) || [noun] yes; aye, ay; approbation, acceptance || [pron] prepositional form of se
+25	si	conjunction	if, whether			[conj] if, whether | points out a contradiction (and often implies that it's obvious or that it's easy to find out about)
+26	bien	adverb	well; fine; okay (state of being satisfied with the status quo)			[adv] well (adverbial form of bueno) | well; fine; okay (state of being satisfied with the status quo) | properly || [adj] well-to-do; affluent; wealthy; upper-class | exclusive; upscale; high-class || [conj] either ... or; whether ... or (used to express alternatives, but with the same result) || [noun] good (as opposed to evil) | goodness | good; better (substantive)
+27	eso	pronoun	alternative spelling of ése	that	L	[pron] neuter singular of ése; that
+28	su	determiner	apocopic form of suyo his, her, its, one's, their, your (formal)	his; her; its; their; your (formal)	Y	[det] apocopic form of suyo his, her, its, one's, their, your (formal)
+29	las	determiner	feminine plural definite article; the			[article] feminine plural definite article; the || [pron] accusative of ellas; them | accusative of ustedes (when referring to more than one woman); you all (formal) | feminine plural pronoun || [noun] plural of la
+30	yo	pronoun	Freud's concept of the ego	I	Y	[pron] first-person singular pronoun in the nominative case; I || [noun] Freud's concept of the ego
+31	del	contraction	of the; from the (de + el)			of the; from the (de + el)
+32	como	conjunction	as (introducing a basis of comparison or equality)			[adv] as (to such an extent or degree) | like, about (approximately) || [conj] as (introducing a basis of comparison or equality) | as, since (being that) | how (in which way) || [prep] as (in the manner or role specified) | such as (for example) | like (similar to, reminiscent of) || [verb] first-person singular present indicative of comer
+33	aquí	adverb	here (in the speaker's location)			[adv] here (in the speaker's location)
+34	tu	determiner	apocopic form of tuyo, your	your	Y	[det] apocopic form of tuyo, your
+35	al	contraction	to the; at the (a + el)			to the; at the (a + el)
+36	más	adverb	more; -er (used to make comparisons)			[adv] more; -er (used to make comparisons) | most; -est (used to make superlatives) | furthermore || [det] more, any more | most || [conj] plus
+37	le	pronoun	to him, for him; dative of él			[pron] to him, for him; dative of él | to her, for her; dative of ella | to it, for it; dative of ello
+38	esto	pronoun	substitutes a noun one can't remember or can't remember the name of	this		[pron] neuter singular of este (“this”) | substitutes a noun one can't remember or can't remember the name of
+39	todo	pronoun	everything			[det] all; every | each; every || [pron] everything
+40	ya	adverb	now (often as opposed to before), anymore, no longer			[adv] now (often as opposed to before), anymore, no longer | indicates the completion of an action | yet (in questions) || [conj] first (something) then (something else); first (something), now (something else) | whether (something) or (something else) || [intj] come on!, let's go! | used to acknowledge or dismiss the previous statement; I know, that's true, (you're) right | enough! no more! stop!
+41	estoy	verb	to be (have a temporary or permanent location in space)		L	[verb] first-person singular present indicative of estar; am
+42	ahora	adverb	now (at the present time)			[adv] now (at the present time) | just now, just a moment ago (in the past) | very soon, in a moment (in the future) || [conj] now...now, whether...or...
+43	muy	adverb	much, a lot, far, way, many times	very	L	[adv] apocopic form of mucho; very
+44	ha	verb	have; forms the perfect aspect		L	[verb] third-person singular present indicative of haber
+45	esta	determiner	this		L	[det] feminine singular of este || [pron] alternative spelling of ésta (“this one”)
+46	así	adverb	like this; like that; as such; thus; so; thereby; this way, that way			[adv] like this; like that; as such; thus; so; thereby; this way, that way | used to express wishes of misfortune against someone, or to cast a spell || [verb] inflection of asir:
+47	vamos	verb	to go (away from speaker and listener)		L	[intj] let's go! | come on! (expression of encouragement) || [verb] inflection of ir:
+48	algo	pronoun	something, anything			[pron] something, anything || [adv] rather, somewhat, kind of
+49	hay	verb	have; forms the perfect aspect	there is; there are	L	[verb] third-person singular present indicative of haber || [adv] alternative form of ahí || [intj] alternative form of ay
+50	bueno	adjective	good			[adj] good | tasty, yummy, good (of food) | hot, sexy || [intj] okay; fine | well; a short pause in a sentence | expression used when answering the phone, often with the pronunciation /bweˈno/, rather than /ˈbweno/
+51	tengo	verb	to have; to possess		L	[verb] first-person singular present indicative of tener
+52	él	pronoun	he, him, masculine personal third person subject and disjunctive pronoun (used as a subject and after prepositions)			[pron] he, him, masculine personal third person subject and disjunctive pronoun (used as a subject and after prepositions) | it, masculine non-personal third-person subject and disjunctive pronoun (usually used after prepositions to refer to masculine nouns)
+53	cuando	conjunction	when			[adv] when || [conj] when
+54	estás	verb	to be (have a temporary or permanent location in space)		L	[verb] inflection of estar:
+55	sé	verb	to know, to understand (a fact)		L	[verb] first-person singular present indicative of saber | inflection of ser | inflection of ser: || [intj] yes
+56	tú	pronoun	second person pronoun in singular tense; you			[pron] second person pronoun in singular tense; you
+57	nos	pronoun	dative of nosotros: to us, for us			[pron] dative of nosotros: to us, for us | accusative of nosotros: us | reflexive of nosotros: ourselves; each other || [noun] plural of no
+58	nada	pronoun	nothing, zero, zilch, not...anything			[pron] nothing, zero, zilch, not...anything || [noun] nothingness, nothing | nowhere, the void || [adv] not at all || [intj] ellipsis of de nada || [verb] inflection of nadar:
+59	cómo	pronoun	how	how	Y	[adv] how? || [intj] sorry? what? (expressing surprise or asking to repeat) || [noun] how
+60	este	determiner	this			[det] this || [pron] alternative spelling of éste || [intj] uh, well (space filler in a conversation) || [noun] east
+61	o	conjunction	or			[noun] Name of the letter O || [conj] or | either … or || [adv] where
+62	he	verb	have; forms the perfect aspect		L	[adv] here is | behold (+ aquí) || [noun] he; the Hebrew letter ה || [verb] inflection of haber: || [intj] hey
+63	ser	verb	to be (essentially or identified as)			[verb] to be (essentially or identified as) | to be (in the passive voice sense) | to exist; to occur || [noun] a being, organism | nature, essence | value, worth
+64	tiene	verb	to have; to possess		L	[verb] third-person singular present indicative of tener
+65	puedo	verb	to be able to, can		L	[verb] first-person singular present indicative of poder
+66	ella	pronoun	she, her (used subjectively and after prepositions)			[pron] she, her (used subjectively and after prepositions) | it (used subjectively and after prepositions to refer to feminine nouns)
+67	quiero	verb	first-person singular present indicative of querer	to want	Y	[verb] first-person singular present indicative of querer
+68	hacer	verb	to do			[verb] to do | to make (something) | to make (e.g. someone do something or feel a certain way.) || [noun] task, action
+69	fue	verb	to be (essentially or identified as)		L	[verb] third-person singular preterite indicative of ir | third-person singular preterite indicative of ser
+70	gracias	noun	thanks			[intj] thank you, thanks || [noun] thanks | plural of gracia
+71	vez	noun	time, instance			[noun] time, instance | place (in a queue) | turn (a chance to use (something) shared in sequence with others)
+72	era	verb	to be (essentially or identified as)		L	[verb] first/third-person singular imperfect indicative of ser || [noun] era, age | era | threshing floor
+73	soy	verb	to be (essentially or identified as)		L	[verb] first-person singular present indicative of ser
+74	sólo	adverb	superseded spelling of solo			[adv] superseded spelling of solo
+75	todos	pronoun	everything	everyone; all	L	[det] masculine plural of todo
+76	porque	conjunction	because			[conj] because
+77	son	verb	to be (essentially or identified as)		L	[noun] tone (pleasant sound) | son (Afro-Cuban musical form) | musical composition in this form || [verb] third-person plural present indicative of ser
+78	tienes	verb	to have; to possess		L	[verb] second-person singular present indicative of tener
+79	creo	verb	to believe		L	[verb] first-person singular present indicative of crear | first-person singular present indicative of creer
+80	voy	verb	to go (away from speaker and listener)		L	[verb] first-person singular present indicative of ir
+81	sabes	verb	to know, to understand (a fact)		L	[intj] you know? (rhetorical question) || [verb] second-person singular present indicative of saber
+82	estaba	verb	to be (have a temporary or permanent location in space)		L	[verb] first/third-person singular imperfect indicative of estar
+83	puede	verb	to be able to, can		L	[intj] it's possible; could be || [verb] inflection of poder:
+84	eres	verb	to be (essentially or identified as)		L	[verb] second-person singular present indicative of ser; you are || [noun] plural of ere
+85	ese	determiner	that			[noun] The name of the Latin script letter S/s. || [det] that || [intj] hello || [pron] alternative spelling of ése
+86	usted	pronoun	second person formal; you (singular)			[pron] second person formal; you (singular) | second person informal; you (singular) | you
+87	entonces	adverb	then, next, thereupon, at that time, at that point			[adv] then, next, thereupon, at that time, at that point | then, therefore, so, thus; in that case
+88	hola	verb	hello, hi, hey	hello; hi	Y	[intj] hello, hi, hey
+89	solo	adverb	only; solely; just			[adj] sole; one; only; single (unique) | lonely, lonesome | alone, by oneself || [adv] only; solely; just
+90	verdad	noun	truth			[noun] truth | fact || [intj] right
+91	casa	noun	house			[noun] house || [verb] inflection of casar:
+92	tan	adverb	so, as			[adv] so, as | very || [det] such, such a
+93	quién	pronoun	who?, whom?; (with “de”) whose?			[pron] who?, whom?; (with “de”) whose? | if only; I wish
+94	sus	determiner	your (with plural possessee)			[det] plural of su; one's, his, her, its, their (with plural possessee) | your (with plural possessee) || [intj] c'mon; attaboy || [adj] sus
+95	tiempo	noun	time			[noun] time | a while, period of time, long time, length of time, indeterminate amount of time | tense
+96	dos	number	two			[num] two || [noun] dung, excrement | plural of do
+97	esa	determiner	that		L	[det] feminine singular of ese || [pron] alternative spelling of ésa
+98	nunca	adverb	never			[adv] never | ever
+99	dónde	pronoun	where	where	Y	[adv] where?; in what place? | from where? whence? || [noun] where
+100	va	verb	to go (away from speaker and listener)		L	[verb] third-person singular present indicative of ir || [intj] okay
+101	oh	interjection	oh (expression of awe, surprise, pain or realization)			[intj] oh (expression of awe, surprise, pain or realization)
+102	favor	noun	favor/favour			[noun] favor/favour
+103	mucho	adverb	much, a lot, far, way, many times			[det] much, a lot of | many, a lot of || [adv] much, a lot, far, way, many times | very | long (a long time) || [pron] a lot, much
+104	mí	pronoun	Freud's concept of the ego	me (after prepositions)	L	[pron] me; (declined form of yo used as the object of a preposition)
+105	quieres	noun	second-person singular present indicative of querer	to want	Y	[verb] second-person singular present indicative of querer
+106	siento	verb	to feel		L	[verb] first-person singular present indicative of sentar | first-person singular present indicative of sentir
+107	señor	noun	mister, sir, lord (title conferred on a married or older male)			[noun] mister, sir, lord (title conferred on a married or older male) | gentleman | master || [adj] great big; whopping | free
+108	mejor	adjective	better			[adj] better | better off | improved || [adv] better
+109	hace	verb	to do	to do; to make	L	[verb] third-person singular present indicative of hacer || [prep] ago (Note: unlike in English, hace precedes the number.) | in, it has been...since (a past period of time)
+110	has	verb	have; forms the perfect aspect		L	[verb] inflection of haber:
+111	decir	verb	to say, to tell			[verb] to say, to tell | to pronounce, sound out | to say, opine || [noun] saying | idle talk
+112	también	adverb	also, too, as well			[adv] also, too, as well | so
+113	sobre	preposition	over, above, on, upon, atop			[prep] over, above, on, upon, atop | about || [noun] envelope | small packet; sachet | bed || [verb] inflection of sobrar:
+114	dios	adjective	god	god	Y	[noun] god
+115	sin	preposition	without			[prep] without
+116	tenemos	verb	to have; to possess		L	[verb] first-person plural present indicative of tener
+117	están	verb	to be (have a temporary or permanent location in space)		L	[verb] third-person plural present indicative of estar
+118	ti	pronoun	prepositional of tú			[pron] prepositional of tú
+119	puedes	verb	to be able to, can		L	[verb] second-person singular present indicative of poder
+120	ver	verb	to see, to spot			[verb] to see, to spot | to see, to look at, to view (perceive) | to see, to tell, to observe
+121	hombre	noun	man, (adult male human)			[noun] man, (adult male human) | man, (all humans collectively); mankind, humankind | man, (individual of the species Homo sapiens, the genus Homo, or the subtribe Hominina) || [intj] man! | hey! | oh, come on!
+122	vida	noun	life			[noun] life | lifestyle | livelihood; living
+123	alguien	pronoun	someone, somebody			[pron] someone, somebody | anyone, anybody
+124	cosas	noun	thing (object, concept)		L	[noun] plural of cosa || [verb] second-person singular present subjunctive of coser
+125	siempre	adverb	always			[adv] always | in spite of it, still...at least | all the same, ultimately, in the end
+126	hasta	preposition	until			[adv] even || [prep] until | up to, to the point of, as much as
+127	ahí	adverb	there (away from the speaker)			[adv] there (away from the speaker) | that (in certain phrases)
+128	ir	verb	to go (away from speaker and listener)			[verb] to go (away from speaker and listener) | to be suitable or apt for its purpose, to match or suit well (of clothing) | to head towards or lead to a place away from the speaker
+129	años	noun	year		L	[noun] plural of año
+130	antes	adverb	earlier; before; sooner; previously; formerly; beforehand (at an earlier time)			[adv] earlier; before; sooner; previously; formerly; beforehand (at an earlier time) | soon (in certain phrases) | ahead (temporally), ahead of (when followed by de) || [prep] before (earlier than) (triggers the subjunctive in subordinate clauses) || [noun] plural of ante
+131	estar	verb	to be (have a temporary or permanent location in space)			[verb] to be (have a temporary or permanent location in space) | to be present | to be (denotes a copula, in a transient fashion)
+132	ni	conjunction	Used when negating two or more elements, and not, not A or B, not A nor B, neither A nor B			[conj] Used when negating two or more elements, and not, not A or B, not A nor B, neither A nor B || [adv] Used in emphatic negations, not even | Forms an emphatic negative imperative, don't even || [noun] nu; the Greek letter Ν, ν
+133	poco	adverb	little (not much)			[det] little, not much | few, not many | un-, not || [adv] little (not much) || [noun] little (a small amount) | a short time, a little while
+134	día	noun	day (any period of 24 hours)			[noun] day (any period of 24 hours) | day (a period from midnight to the following midnight) | day (rotational period of a planet)
+135	uno	pronoun	one			[num] one || [det] one || [pron] one || [verb] first-person singular present indicative of unir
+136	noche	noun	night (the period between sunset and sunrise)			[noun] night (the period between sunset and sunrise) | evening (after sunset) || [adv] after dark, (late) at night, nocturnally
+137	hecho	adjective	done, completed			[adj] done, completed | made || [verb] past participle of hacer | misspelling of echo || [noun] fact | act, deed | act of hatching a plan or an idea
+138	mis	determiner	mi	my (plural)	L	[det] plural of mi
+139	estamos	verb	to be (have a temporary or permanent location in space)		L	[verb] first-person plural present indicative of estar
+140	otra	determiner	other, another		L	[det] feminine singular of otro || [intj] feminine singular of otro || [pron] feminine singular of otro
+141	acuerdo	noun	agreement			[noun] agreement | compromise || [verb] first-person singular present indicative of acordar
+142	trabajo	noun	work, job			[noun] work, job | work | school assignment, often a presentation || [verb] first-person singular present indicative of trabajar
+143	nosotros	pronoun	we (masculine plural)			[pron] we (masculine plural) | ourselves
+144	parece	verb	to seem, to see fit		L	[verb] inflection of parecer:
+145	gente	noun	people			[noun] people | guys, lads (used to address a group of people)
+146	sea	verb	to be (essentially or identified as)		L	[verb] inflection of ser:
+147	padre	noun	father			[noun] father || [adj] cool, acceptable, easy | very big, enormous, huge
+148	mira	verb	to look at (to try to see, to pay attention to with one’s eyes)		L	[noun] target | purpose, object | sight (of a weapon) || [intj] look! || [verb] inflection of mirar:
+149	mismo	determiner	same; identical; one and the same; indicates that the two compared noun clauses both represent the one thing	same; (one)self	Y	[adj] same; identical; one and the same; indicates that the two compared noun clauses both represent the one thing | similar; alike; practically identical; indicates that the two compared noun clauses have one or more matching qualities | self; emphasizes the identity or singularity of the modified noun phrase || [adv] right, exactly, immediately
+150	dijo	verb	to say, to tell		L	[verb] third-person singular preterite indicative of decir
+151	nadie	pronoun	no one; nobody (anyone or anybody)			[pron] no one; nobody (anyone or anybody) || [noun] a nobody
+152	quiere	verb	inflection of querer	to want	Y	[verb] inflection of querer:
+153	podría	verb	to be able to, can		L	[verb] first/third-person singular conditional of poder
+154	hablar	verb	to talk; to speak; to communicate using words			[verb] to talk; to speak; to communicate using words | to speak (a language) | to talk or chat regularly with someone, especially on social media
+155	vas	noun	okay	to go	L	[verb] inflection of ir:
+156	ellos	pronoun	he, him, masculine personal third person subject and disjunctive pronoun (used as a subject and after prepositions)	they; them (masculine)	L	[pron] plural of él (“they, them”)
+157	sr.	abbreviation	Mr. (abbreviation of señor)			Mr. (abbreviation of señor)
+158	tal	noun	such	such	Y	[adj] such || [pron] such
+159	pasa	verb	to pass, to hand, to slip		L	[noun] raisin || [adj] feminine singular of paso || [verb] inflection of pasar:
+160	fuera	verb	to be (essentially or identified as)	outside; out (also subjunctive of ser)	L	[adv] outside || [intj] out!, get out! || [verb] first/third-person singular imperfect subjunctive of ser | first/third-person singular imperfect subjunctive of ir
+161	después	adverb	later, afterwards, afterward, post			[adv] later, afterwards, afterward, post | next | after
+162	han	verb	have; forms the perfect aspect		L	[verb] third-person plural present indicative of haber
+163	desde	preposition	since (from a specified time in the past)			[prep] since (from a specified time in the past) | from (a location) | starting at (a quantity, such as a price)
+164	dinero	noun	money			[noun] money | wealth
+165	mundo	noun	world, earth (human collective existence)			[noun] world, earth (human collective existence) | world, globe (the Earth) | world (planet, especially one which is inhabitable)
+166	claro	adjective	clear (easily understood)			[adj] clear (easily understood) | light, pale (not dark in hue) | bright (emitting much light) || [adv] certainly, naturally, of course || [noun] sunny spell | clearing | bald patch || [intj] of course; for sure; sure (indicates enthusiastic agreement)
+167	momento	noun	moment, instant			[noun] moment, instant | timing | momentum
+168	les	pronoun	dative of ellos and ellas; to them, for them			[pron] dative of ellos and ellas; to them, for them | dative of ustedes; to you all, for you all (formal) | accusative of ustedes; you all (formal) || [article] the (plural)
+169	tener	verb	to have; to possess			[verb] to have; to possess | to have; to possess; to be (a condition or quality) | to hold; to grasp
+170	estado	verb	past participle of estar			[noun] country, land (any broad area or territory) | alternative letter-case form of Estado (“state, a territory with a formally recognized sovereign government; administration, its government”) | state (a province, particularly a fairly autonomous one within a federation) || [verb] past participle of estar
+171	otro	determiner	other, another			[det] other, another || [intj] "Not again!" or "What, again?" (also Otra vez! or Otra vez?) || [pron] someone else; another person | something else; another one
+172	había	verb	makes pluperfect to verbs as part of the auxiliary verb haber.	there was; there were; had (auxiliary)		[verb] first/third-person singular imperfect indicative of haber | makes pluperfect to verbs as part of the auxiliary verb haber.
+173	mañana	adverb	tomorrow			[adv] tomorrow | soon, shortly || [noun] the morning | the near future; tomorrow
+174	tenía	verb	to have; to possess		L	[verb] first/third-person singular imperfect indicative of tener
+175	madre	noun	mother			[noun] mother | mother (source or origin) | mother (nun)
+176	vale	verb	a voucher; an IOU	okay; alright	Y	[noun] a voucher; an IOU || [intj] okay | goodbye, be well || [verb] inflection of valer:
+177	lugar	noun	place			[noun] place
+178	haciendo	verb	gerund of hacer			[verb] gerund of hacer | first-person singular present indicative of hacendar
+179	donde	pronoun	where, in what place			[adv] where, in what place | whence || [conj] because | if || [prep] by, near to | round (at the house of), chez || [pron] where, in what place
+180	seguro	adjective	secure; safe (free from danger)			[adj] secure; safe (free from danger) | certain; sure; positive; definite (of being correct) | secure; firm; stable; reliable; surefire; foolproof (not likely to fall) || [noun] insurance (indemnity against a future occurrence) | safety; safety catch; safety lock || [adv] for sure | surely; certainly | probably; maybe; possibly; perhaps || [verb] first-person singular present indicative of segurar
+181	sabe	verb	to know, to understand (a fact)		L	[verb] inflection of saber:
+182	podemos	verb	to be able to, can		L	[verb] inflection of podar: | first-person plural present indicative of poder
+183	tus	determiner	plural of tu	your (plural)	Y	[det] plural of tu
+184	espera	verb	to hope	to wait; to hope	L	[noun] wait || [verb] inflection of esperar:
+185	nuevo	adjective	new			[adj] new | brand new, all-new | fresh
+186	sido	verb	past participle of ser			[verb] past participle of ser
+187	cosa	noun	thing (object, concept)			[noun] thing (object, concept) | thing (living being) || [verb] inflection of coser:
+188	hijo	noun	son			[noun] son | child (of unknown gender)
+189	allí	adverb	there (away from the speaker and the listener)			[adv] there (away from the speaker and the listener)
+190	menos	adverb	less			[adv] less | least || [det] less, fewer | least, fewest || [prep] minus | except, besides || [conj] except, besides || [noun] minus sign
+191	tipo	noun	kind, type, sort, manner			[noun] kind, type, sort, manner | rate, interest rate | composure, cool || [adj] dolled up, smartened up, dressed for a special occasion || [particle] like || [verb] first-person singular present indicative of tipar
+192	amigo	noun	friend			[noun] friend | penis || [intj] Said when realizing something. || [verb] first-person singular present indicative of amigar
+193	gran	adjective	apocopic form of grande; great, grand	great; big	Y	[adj] apocopic form of grande; great, grand
+194	nuestro	determiner	our, ours, to us			[pron] ours || [det] our, ours, to us | our, ours, to us (as the royal we)
+195	mujer	noun	woman			[noun] woman | wife
+196	mamá	noun	mum, mom			[noun] mum, mom | a term of affection for a woman || [verb] second-person singular voseo imperative of mamar
+197	luego	adverb	then (afterward)			[adv] then (afterward) | later, later on (at some point in the future) | soon (within a short time) || [conj] therefore (consequently)
+198	papá	noun	dad			[noun] dad | parents || [verb] second-person singular voseo imperative of papar
+199	días	noun	day (any period of 24 hours)		L	[noun] plural of día
+200	dice	verb	to say, to tell		L	[verb] third-person singular present indicative of decir
+201	hoy	adverb	today			[adv] today
+202	tres	number	three			[num] three
+203	buena	adjective	inheritance	good	Y	[noun] inheritance || [adj] feminine singular of bueno
+204	necesito	verb	first-person singular present indicative of necesitar	to need	Y	[verb] first-person singular present indicative of necesitar
+205	dije	verb	to say, to tell		L	[noun] adorns, locket | amulet, charm || [adj] pleasant, nice, likable (of a person) || [verb] first-person singular preterite indicative of decir
+206	oye	verb	hey! listen! (call to attract attention of a single person)	hey; listen	Y	[intj] hey! listen! (call to attract attention of a single person) || [verb] inflection of oír:
+207	gusta	verb	inflection of gustar	to like; to be pleasing	Y	[verb] inflection of gustar:
+208	quería	verb	first/third-person singular imperfect indicative of querer	to want	Y	[verb] first/third-person singular imperfect indicative of querer
+209	será	verb	to be (essentially or identified as)		L	[verb] third-person singular future indicative of ser
+210	haber	verb	have; forms the perfect aspect			[verb] have; forms the perfect aspect | to hold, to possess | to exist; there be; “there is”, “there are” (hay); “there was”, “there were” (había) || [noun] asset | history | credit side
+211	parte	noun	part; section; portion; share; piece; bit; cut; proportion			[noun] part; section; portion; share; piece; bit; cut; proportion | place; somewhere | side || [verb] inflection of partir:
+212	todas	pronoun	everything	all; every (feminine plural)	L	[det] feminine plural of todo
+213	crees	verb	second-person singular present subjunctive of crear	to believe; to think	Y	[verb] second-person singular present subjunctive of crear | second-person singular present indicative of creer
+214	buen	adjective	apocopic form of bueno (“good, fine”)	good	Y	[adj] apocopic form of bueno (“good, fine”)
+215	conmigo	noun	with me	with me	Y	[adv] with me | with myself
+216	nombre	noun	name			[noun] name | noun || [verb] inflection of nombrar: || [intj] wow! | yikes, nope
+217	mierda	adjective	shit (solid excretory product evacuated from the bowels; feces.)	shit; crap	Y	[noun] shit (solid excretory product evacuated from the bowels; feces.) | shit (in expressions) | piece of shit; a bad thing; an object of poor quality. || [pron] nothing || [intj] shit! fuck! (expression of worry, failure, shock, only for negative situations)
+218	nuestra	determiner	our, ours, to us		L	[det] feminine singular of nuestro || [pron] feminine singular of nuestro
+219	mal	adverb	badly, poorly, ill			[adv] badly, poorly, ill | awry, amiss, wrong, wrongly | hard (functions as an adverb in Spanish but translates as an adjective in English) || [noun] evil, harm; a bad thing or situation | disease, illness, ailment | worse (substantive) || [adj] apocopic form of malo bad; evil | amiss, awry, off, wrong
+220	debe	verb	inflection of deber	must; should	Y	[verb] inflection of deber:
+221	realmente	adverb	really, actually, genuinely			[adv] really, actually, genuinely
+222	estas	determiner	this	these (feminine)	L	[det] feminine plural of este || [pron] alternative spelling of éstas (“these ones”)
+223	aún	adverb	still, yet			[adv] still, yet | even (implying an extreme example in the case mentioned)
+224	mío	pronoun	mine; of mine			[pron] mine; of mine || [det] mine, my; of mine
+225	toda	determiner	all; every		L	[det] feminine singular of todo
+226	hacerlo	verb	infinitive of hacer combined with lo			[verb] infinitive of hacer combined with lo
+227	cada	determiner	each; every			[det] each; every || [adv] every time
+228	visto	adjective	seen			[adj] seen | obvious, clear | exposed, bare || [verb] past participle of ver | first-person singular present indicative of vestir
+229	importa	verb	inflection of importar	to matter	Y	[verb] inflection of importar:
+230	contigo	verb	with you (singular)	with you	Y	[adv] with you (singular) | with yourself
+231	tienen	verb	to have; to possess		L	[verb] third-person plural present indicative of tener
+232	hemos	verb	have; forms the perfect aspect		L	[noun] plural of hemo || [verb] first-person plural present indicative of haber
+233	razón	noun	reason			[noun] reason | reasoning | correctness, rectitude, a point
+234	alguna	determiner	feminine singular of alguno	some; any	Y	[det] feminine singular of alguno || [pron] feminine singular of alguno
+235	tanto	adverb	so much, long, hard, often, etc.			[det] so much; as much; that much | so many, as many, that many || [adv] so much, long, hard, often, etc. || [conj] both ... and (introduces the first of two linked elements) || [noun] copy | poker chip; counter | point; goal (in a game) || [pron] so much; so many
+236	saber	verb	to know, to understand (a fact)			[verb] to know, to understand (a fact) | to know how to do something | to find out, to learn || [noun] knowledge
+237	hizo	verb	to do	to do; to make	L	[verb] third-person singular preterite indicative of hacer
+238	veces	noun	time, instance		L	[prep] by, times (multiplication) || [noun] plural of vez || [verb] second-person singular present subjunctive of vezar
+239	serio	adjective	serious, earnest, sober, solemn (without humor)			[adj] serious, earnest, sober, solemn (without humor) | serious, grave, deep (important, weighty) | serious (really intending what was said) || [verb] first-person singular present indicative of seriar
+240	ven	verb	to see, to spot	come! (also: they see)	L	[verb] second-person singular imperative of venir | third-person plural present indicative of ver
+241	idea	noun	idea			[noun] idea || [verb] inflection of idear:
+242	eh	pronoun	hey! (used to call, draw attention, warn or reprehend)	hey; huh?	Y	[intj] hey! (used to call, draw attention, warn or reprehend) | uh, um (space filler in a conversation, expression of hesitation or pause in speech) | huh?
+243	tarde	adverb	late			[adj] late || [adv] late || [noun] afternoon | evening (after sunset) || [verb] inflection of tardar:
+244	problema	noun	problem, issue, challenge (a difficulty or obstacle that has to be dealt with)			[noun] problem, issue, challenge (a difficulty or obstacle that has to be dealt with) | trouble (in the singular or in the plural) | question, dilemma, conundrum
+245	hora	noun	hour (a time period of sixty minutes)			[noun] hour (a time period of sixty minutes) | time (the moment, as indicated by a clock or similar device) | high time (usually with "ya")
+246	cierto	adjective	true			[adj] true || [det] a certain, a specific
+247	dicho	adjective	mentioned, said, aforementioned			[adj] mentioned, said, aforementioned || [det] said || [noun] saying, expression | remark | proverb || [verb] past participle of decir
+248	quien	pronoun	who			[pron] who | whom | whoever; whomever; anyone who
+249	demasiado	adverb	too much, excessively, far too much, overmuch (modifying a verb)			[adj] too much, too many, excessive || [adv] too much, excessively, far too much, overmuch (modifying a verb) | too, far too, way too, much too, overly, all too excessively (modifying an adjective or other adverb) | a lot, an awful lot, a whole lot, a great deal
+250	amor	noun	love			[noun] love | love affair
+251	entre	preposition	between			[prep] between | among, amongst, from | divided by || [verb] inflection of entrar:
+252	ve	verb	to see, to spot		L	[noun] The name of the Latin script letter V/v. || [verb] inflection of ver: | second-person singular imperative of ir
+253	pasado	adjective	past			[adj] past | former | last || [noun] past, bygones | past || [verb] past participle of pasar
+254	familia	noun	family (group of people related to each other)			[noun] family (group of people related to each other) | family (grouping of things possessing common characteristics) | relative, relation (member of one's family)
+255	estos	determiner	this	these	L	[det] masculine plural of este || [pron] alternative spelling of éstos (“these ones”)
+256	policía	noun	Civility, polity, public order, police, fineness, neatness, urbanity	police; police officer		[noun] Civility, polity, public order, police, fineness, neatness, urbanity | police, police department, police force, police service | police officer (a member of a police force)
+257	debería	verb	first/third-person singular conditional of deber	should; ought to	Y	[verb] first/third-person singular conditional of deber
+258	ustedes	pronoun	you (plural), you guys, y'all, yous, yinz, ye			[pron] you (plural), you guys, y'all, yous, yinz, ye
+259	chica	adjective	small	girl	L	[noun] female equivalent of chico: girl | gal, chick | A spice made from the Sobralia orchid. || [adj] feminine singular of chico
+260	esos	determiner	that	those	L	[det] plural of ese; those || [pron] alternative spelling of ésos; those ones
+261	chicos	noun	boy; kid		L	[adj] masculine plural of chico || [noun] plural of chico
+262	cuenta	verb	to count; to tally		L	[noun] count, tally | operation | bill || [verb] inflection of contar:
+263	haces	adjective	bundle	to do; to make	L	[noun] plural of haz || [verb] second-person singular present indicative of hacer
+264	todavía	adverb	still, yet			[adv] still, yet | even, still
+265	salir	verb	to go out, to leave, to depart, to head out			[verb] to go out, to leave, to depart, to head out | to go out, to come out (to leave one's abode to go to public places) | to come out (e.g. from hiding), to come off (e.g. off the bench in a sport; off of a high place like a roof or ladder)
+266	algún	determiner	apocopic form of alguno; some, any	some; any	Y	[det] apocopic form of alguno; some, any
+267	vaya	verb	joke; taunt	well!; come on!	Y	[intj] expresses surprise: wow!, why, oh!, whoa!, well!, man!, boy! | expresses dismay, worry, indignation or frustration: gee!, jeez!, gosh!, why, man!, oh dear! | what a ... || [verb] inflection of ir: || [noun] joke; taunt
+268	unos	determiner	about, approximately	some; a few		[article] masculine plural of un || [det] plural of uno: some, a few | about, approximately || [pron] plural of uno: some, a few
+269	veo	noun	first-person singular present indicative of ver	to see	Y	[verb] first-person singular present indicative of ver
+270	amigos	noun	friend		L	[noun] plural of amigo
+271	hermano	noun	brother			[noun] brother | sibling | bro, dude (friendly term of address for a male of similar age.) || [verb] first-person singular present indicative of hermanar
+272	pensé	verb	to think, ponder		L	[verb] first-person singular preterite indicative of pensar
+273	sabía	verb	to know, to understand (a fact)		L	[verb] first/third-person singular imperfect indicative of saber
+274	cabeza	noun	head			[noun] head | mind (in certain phrases) | guy, dude, man
+275	ah	pronoun	ah (expression of relief, realization, awe)	ah; oh	Y	[intj] ah (expression of relief, realization, awe) | ah (expression of woe, grief)
+276	cariño	noun	affection, fondness			[noun] affection, fondness | caress | dear, darling, honey, love
+277	digo	verb	to say, to tell		L	[intj] I mean; used to explain or correct a previous utterance || [verb] first-person singular present indicative of decir
+278	van	verb	to go (away from speaker and listener)		L	[noun] van (vehicle) || [verb] third-person plural present indicative of ir
+279	hombres	noun	man, (adult male human)		L	[noun] plural of hombre
+280	buenas	adjective	inheritance	good (also a greeting)	L	[intj] hello, good morning, good afternoon, good evening (greeting used irrespective of the time) || [adj] feminine plural of bueno || [noun] plural of buena
+281	somos	verb	to be (essentially or identified as)		L	[verb] first-person plural present indicative of ser || [noun] plural of somo
+282	cualquier	determiner	any, whatever, whichever		L	[det] apocopic form of cualquiera; any; whatever; whichever
+283	forma	noun	shape; form; figure			[noun] shape; form; figure | way; manner | basis; method || [verb] inflection of formar:
+284	mientras	conjunction	while, whilst, as (at the same time as)			[adv] meanwhile || [conj] while, whilst, as (at the same time as) | as long as, so long as (expressing a condition) | however much, however many, “the..., the...” (constructing parallel comparatives)
+285	lado	noun	side			[noun] side | face
+286	debo	verb	first-person singular present indicative of deber	must; should	Y	[verb] first-person singular present indicative of deber
+287	sería	verb	to be (essentially or identified as)		L	[verb] first/third-person singular conditional of ser
+288	caso	noun	case (situation or fact)			[noun] case (situation or fact) | case (instance of a medical condition) | case || [verb] first-person singular present indicative of casar
+289	pueden	verb	to be able to, can		L	[verb] third-person plural present indicative of poder
+290	pasó	verb	to pass, to hand, to slip		L	[verb] third-person singular preterite indicative of pasar
+291	primera	adjective	first, first up		L	[noun] first gear (lowest gear in a motor vehicle) | first class || [adj] feminine singular of primero
+292	genial	adjective	ingenious, genius	great; awesome		[adj] ingenious, genius | great, very good | genial, pleasant || [adv] very well
+293	chico	adjective	small	boy; kid (also: small)		[adj] small || [noun] boy; kid | guy, lad | white-nosed coati (Nasua Narica)
+294	supuesto	adjective	supposed, self-styled, alleged			[adj] supposed, self-styled, alleged || [noun] assumption, hypothesis || [verb] past participle of suponer
+295	hice	verb	to do	to do; to make	L	[verb] first-person singular preterite indicative of hacer
+296	pues	conjunction	so, then; in that case			[conj] so, then; in that case | because, since
+297	adiós	interjection	goodbye, farewell			[intj] goodbye, farewell || [noun] farewell; goodbye
+298	muchas	determiner	much, a lot of		L	[det] feminine plural of mucho || [pron] feminine plural of mucho
+299	personas	noun	person (an individual; usually a human being)		L	[noun] plural of persona || [verb] only used in te personas, second-person singular present indicative of personarse
+300	señora	noun	lady			[noun] Ms; a title or form of address for a woman; formerly for a married, divorced, or widowed woman and now commonly for any adult woman regardless of marital status, depending on the region | lady | wife || [adj] feminine singular of señor

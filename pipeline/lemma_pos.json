@@ -1,0 +1,5002 @@
+{
+  "de": {
+    "lemma": "de",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "que": {
+    "lemma": "que",
+    "pos": "SCONJ",
+    "pos_label": "conjunction"
+  },
+  "no": {
+    "lemma": "no",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "a": {
+    "lemma": "a",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "la": {
+    "lemma": "el",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "el": {
+    "lemma": "el",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "y": {
+    "lemma": "y",
+    "pos": "CCONJ",
+    "pos_label": "conjunction"
+  },
+  "es": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "en": {
+    "lemma": "en",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "lo": {
+    "lemma": "él",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "un": {
+    "lemma": "uno",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "por": {
+    "lemma": "por",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "qué": {
+    "lemma": "qué",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "me": {
+    "lemma": "yo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "una": {
+    "lemma": "uno",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "los": {
+    "lemma": "el",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "se": {
+    "lemma": "él",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "te": {
+    "lemma": "tú",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "con": {
+    "lemma": "con",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "para": {
+    "lemma": "para",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "está": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "mi": {
+    "lemma": "mi",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "pero": {
+    "lemma": "pero",
+    "pos": "CCONJ",
+    "pos_label": "conjunction"
+  },
+  "sí": {
+    "lemma": "sí",
+    "pos": "INTJ",
+    "pos_label": "interjection"
+  },
+  "si": {
+    "lemma": "si",
+    "pos": "SCONJ",
+    "pos_label": "conjunction"
+  },
+  "bien": {
+    "lemma": "bien",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "eso": {
+    "lemma": "ese",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "su": {
+    "lemma": "su",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "las": {
+    "lemma": "el",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "yo": {
+    "lemma": "yo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "del": {
+    "lemma": "del",
+    "pos": "CONTRACTION",
+    "pos_label": "contraction"
+  },
+  "como": {
+    "lemma": "como",
+    "pos": "SCONJ",
+    "pos_label": "conjunction"
+  },
+  "aquí": {
+    "lemma": "aquí",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "tu": {
+    "lemma": "tu",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "al": {
+    "lemma": "al",
+    "pos": "CONTRACTION",
+    "pos_label": "contraction"
+  },
+  "más": {
+    "lemma": "más",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "le": {
+    "lemma": "él",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "esto": {
+    "lemma": "este",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "todo": {
+    "lemma": "todo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "ya": {
+    "lemma": "ya",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "estoy": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "ahora": {
+    "lemma": "ahora",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "muy": {
+    "lemma": "mucho",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "ha": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "esta": {
+    "lemma": "este",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "así": {
+    "lemma": "así",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "vamos": {
+    "lemma": "ir",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "algo": {
+    "lemma": "algo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "hay": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "bueno": {
+    "lemma": "bueno",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "tengo": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "él": {
+    "lemma": "él",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "cuando": {
+    "lemma": "cuando",
+    "pos": "SCONJ",
+    "pos_label": "conjunction"
+  },
+  "estás": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "sé": {
+    "lemma": "saber",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "tú": {
+    "lemma": "tú",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "nos": {
+    "lemma": "yo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "nada": {
+    "lemma": "nada",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "cómo": {
+    "lemma": "cómo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "este": {
+    "lemma": "este",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "o": {
+    "lemma": "o",
+    "pos": "CCONJ",
+    "pos_label": "conjunction"
+  },
+  "he": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "ser": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "tiene": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "puedo": {
+    "lemma": "poder",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "ella": {
+    "lemma": "él",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "quiero": {
+    "lemma": "querer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hacer": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "fue": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "gracias": {
+    "lemma": "gracias",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "vez": {
+    "lemma": "vez",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "era": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "soy": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "sólo": {
+    "lemma": "sólo",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "todos": {
+    "lemma": "todo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "porque": {
+    "lemma": "porque",
+    "pos": "SCONJ",
+    "pos_label": "conjunction"
+  },
+  "son": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "tienes": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "creo": {
+    "lemma": "creer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "voy": {
+    "lemma": "ir",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "sabes": {
+    "lemma": "saber",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "estaba": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "puede": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "eres": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "ese": {
+    "lemma": "ese",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "usted": {
+    "lemma": "usted",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "entonces": {
+    "lemma": "entonces",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "hola": {
+    "lemma": "hola",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "solo": {
+    "lemma": "solo",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "verdad": {
+    "lemma": "verdad",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "casa": {
+    "lemma": "casa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "tan": {
+    "lemma": "tanto",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "quién": {
+    "lemma": "quién",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "sus": {
+    "lemma": "su",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "tiempo": {
+    "lemma": "tiempo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "dos": {
+    "lemma": "dos",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "esa": {
+    "lemma": "ese",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "nunca": {
+    "lemma": "nunca",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "dónde": {
+    "lemma": "dónde",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "va": {
+    "lemma": "ir",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "oh": {
+    "lemma": "oh",
+    "pos": "INTJ",
+    "pos_label": "interjection"
+  },
+  "favor": {
+    "lemma": "favor",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mucho": {
+    "lemma": "mucho",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "mí": {
+    "lemma": "yo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "quieres": {
+    "lemma": "quier",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "siento": {
+    "lemma": "sentir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "señor": {
+    "lemma": "señor",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mejor": {
+    "lemma": "mejor",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "hace": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "has": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "decir": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "también": {
+    "lemma": "también",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "sobre": {
+    "lemma": "sobre",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "dios": {
+    "lemma": "dio",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "sin": {
+    "lemma": "sin",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "tenemos": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "están": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "ti": {
+    "lemma": "tú",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "puedes": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "ver": {
+    "lemma": "ver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hombre": {
+    "lemma": "hombre",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "vida": {
+    "lemma": "vida",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "alguien": {
+    "lemma": "alguien",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "cosas": {
+    "lemma": "cosa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "siempre": {
+    "lemma": "siempre",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "hasta": {
+    "lemma": "hasta",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "ahí": {
+    "lemma": "ahí",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "ir": {
+    "lemma": "ir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "años": {
+    "lemma": "año",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "antes": {
+    "lemma": "antes",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "estar": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "ni": {
+    "lemma": "ni",
+    "pos": "CCONJ",
+    "pos_label": "conjunction"
+  },
+  "poco": {
+    "lemma": "poco",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "día": {
+    "lemma": "día",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "uno": {
+    "lemma": "uno",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "noche": {
+    "lemma": "noche",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hecho": {
+    "lemma": "hecho",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "mis": {
+    "lemma": "mi",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "estamos": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "otra": {
+    "lemma": "otro",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "acuerdo": {
+    "lemma": "acuerdo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "trabajo": {
+    "lemma": "trabajo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "nosotros": {
+    "lemma": "yo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "parece": {
+    "lemma": "parecer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "gente": {
+    "lemma": "gente",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sea": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "padre": {
+    "lemma": "padre",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mira": {
+    "lemma": "mirar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "mismo": {
+    "lemma": "mismo",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "dijo": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "nadie": {
+    "lemma": "nadie",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "quiere": {
+    "lemma": "querer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "podría": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "hablar": {
+    "lemma": "hablar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "vas": {
+    "lemma": "va",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ellos": {
+    "lemma": "él",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "sr.": {
+    "lemma": "señor",
+    "pos": "ABBREVIATION",
+    "pos_label": "abbreviation"
+  },
+  "tal": {
+    "lemma": "tal",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "pasa": {
+    "lemma": "pasar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "fuera": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "después": {
+    "lemma": "después",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "han": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "desde": {
+    "lemma": "desde",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "dinero": {
+    "lemma": "dinero",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mundo": {
+    "lemma": "mundo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "claro": {
+    "lemma": "claro",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "momento": {
+    "lemma": "momento",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "les": {
+    "lemma": "él",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "tener": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "estado": {
+    "lemma": "estadir",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "otro": {
+    "lemma": "otro",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "había": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "mañana": {
+    "lemma": "mañana",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "tenía": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "madre": {
+    "lemma": "madre",
+    "pos": "PROPN",
+    "pos_label": "noun"
+  },
+  "vale": {
+    "lemma": "valer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "lugar": {
+    "lemma": "lugar",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "haciendo": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "donde": {
+    "lemma": "donde",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "seguro": {
+    "lemma": "seguro",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "sabe": {
+    "lemma": "saber",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "podemos": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "tus": {
+    "lemma": "tu",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "espera": {
+    "lemma": "esperar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "nuevo": {
+    "lemma": "nuevo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "sido": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "cosa": {
+    "lemma": "cosa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hijo": {
+    "lemma": "hijo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "allí": {
+    "lemma": "allí",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "menos": {
+    "lemma": "menos",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "tipo": {
+    "lemma": "tipo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "amigo": {
+    "lemma": "amigo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "gran": {
+    "lemma": "gran",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "nuestro": {
+    "lemma": "nuestro",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "mujer": {
+    "lemma": "mujer",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mamá": {
+    "lemma": "mamá",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "luego": {
+    "lemma": "luego",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "papá": {
+    "lemma": "papá",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "días": {
+    "lemma": "día",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "dice": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hoy": {
+    "lemma": "hoy",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "tres": {
+    "lemma": "tres",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "buena": {
+    "lemma": "buen",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "necesito": {
+    "lemma": "necesitar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "dije": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "oye": {
+    "lemma": "oir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "gusta": {
+    "lemma": "gustar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "quería": {
+    "lemma": "querer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "será": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "haber": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "parte": {
+    "lemma": "parte",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "todas": {
+    "lemma": "todo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "crees": {
+    "lemma": "crees",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "buen": {
+    "lemma": "buen",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "conmigo": {
+    "lemma": "conmigo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "nombre": {
+    "lemma": "nombre",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mierda": {
+    "lemma": "mierdo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "nuestra": {
+    "lemma": "nuestro",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "mal": {
+    "lemma": "mal",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "debe": {
+    "lemma": "deber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "realmente": {
+    "lemma": "realmente",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "estas": {
+    "lemma": "este",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "aún": {
+    "lemma": "aún",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "mío": {
+    "lemma": "mío",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "toda": {
+    "lemma": "todo",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "hacerlo": {
+    "lemma": "hacer él",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "cada": {
+    "lemma": "cada",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "visto": {
+    "lemma": "visto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "importa": {
+    "lemma": "importar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "contigo": {
+    "lemma": "contiguir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "tienen": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hemos": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "razón": {
+    "lemma": "razón",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "alguna": {
+    "lemma": "alguno",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "tanto": {
+    "lemma": "tanto",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "saber": {
+    "lemma": "saber",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hizo": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "veces": {
+    "lemma": "vez",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "serio": {
+    "lemma": "serio",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "ven": {
+    "lemma": "ver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "idea": {
+    "lemma": "idea",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "eh": {
+    "lemma": "eh",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "tarde": {
+    "lemma": "tarde",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "problema": {
+    "lemma": "problema",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hora": {
+    "lemma": "hora",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cierto": {
+    "lemma": "cierto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "dicho": {
+    "lemma": "dicho",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "quien": {
+    "lemma": "quien",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "demasiado": {
+    "lemma": "demasiado",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "amor": {
+    "lemma": "amor",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "entre": {
+    "lemma": "entre",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "ve": {
+    "lemma": "ver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pasado": {
+    "lemma": "pasado",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "familia": {
+    "lemma": "familia",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "estos": {
+    "lemma": "este",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "policía": {
+    "lemma": "policía",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "debería": {
+    "lemma": "deber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "ustedes": {
+    "lemma": "tú",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "chica": {
+    "lemma": "chico",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "esos": {
+    "lemma": "ese",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "chicos": {
+    "lemma": "chico",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cuenta": {
+    "lemma": "contar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "haces": {
+    "lemma": "haz",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "todavía": {
+    "lemma": "todavía",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "salir": {
+    "lemma": "salir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "algún": {
+    "lemma": "alguno",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "vaya": {
+    "lemma": "vaya",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "unos": {
+    "lemma": "uno",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "veo": {
+    "lemma": "veo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "amigos": {
+    "lemma": "amigo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hermano": {
+    "lemma": "hermano",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "pensé": {
+    "lemma": "pensar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "sabía": {
+    "lemma": "saber",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "cabeza": {
+    "lemma": "cabeza",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ah": {
+    "lemma": "ah",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "cariño": {
+    "lemma": "cariño",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "digo": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "van": {
+    "lemma": "ir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hombres": {
+    "lemma": "hombre",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "buenas": {
+    "lemma": "buena",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "somos": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "cualquier": {
+    "lemma": "cualquiera",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "forma": {
+    "lemma": "forma",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mientras": {
+    "lemma": "mientras",
+    "pos": "SCONJ",
+    "pos_label": "conjunction"
+  },
+  "lado": {
+    "lemma": "lado",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "debo": {
+    "lemma": "deber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "sería": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "caso": {
+    "lemma": "caso",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "pueden": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "pasó": {
+    "lemma": "pasar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "primera": {
+    "lemma": "primero",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "genial": {
+    "lemma": "genial",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "chico": {
+    "lemma": "chico",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "supuesto": {
+    "lemma": "supuesto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "hice": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pues": {
+    "lemma": "pues",
+    "pos": "SCONJ",
+    "pos_label": "conjunction"
+  },
+  "adiós": {
+    "lemma": "adiós",
+    "pos": "INTJ",
+    "pos_label": "interjection"
+  },
+  "muchas": {
+    "lemma": "mucho",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "personas": {
+    "lemma": "persona",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "señora": {
+    "lemma": "señora",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "volver": {
+    "lemma": "volver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "esas": {
+    "lemma": "ese",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "quizá": {
+    "lemma": "quizá",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "contra": {
+    "lemma": "contra",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "camino": {
+    "lemma": "camino",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "durante": {
+    "lemma": "durante",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "hablando": {
+    "lemma": "hablar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "manera": {
+    "lemma": "manera",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "muerto": {
+    "lemma": "muerto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "persona": {
+    "lemma": "persona",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "rápido": {
+    "lemma": "rápido",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "cuál": {
+    "lemma": "cuál",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "ayuda": {
+    "lemma": "ayuda",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "historia": {
+    "lemma": "historia",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "iba": {
+    "lemma": "ir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "supongo": {
+    "lemma": "suponer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "nueva": {
+    "lemma": "nuevo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "entiendo": {
+    "lemma": "entender",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "dentro": {
+    "lemma": "dentro",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "casi": {
+    "lemma": "casi",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "puerta": {
+    "lemma": "puerta",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ves": {
+    "lemma": "ver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pasar": {
+    "lemma": "pasar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "primero": {
+    "lemma": "primero",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "significa": {
+    "lemma": "significar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "semana": {
+    "lemma": "semana",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hacia": {
+    "lemma": "hacia",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "quizás": {
+    "lemma": "quizás",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "espero": {
+    "lemma": "esperar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "juntos": {
+    "lemma": "junto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "año": {
+    "lemma": "año",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "niños": {
+    "lemma": "niño",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "pronto": {
+    "lemma": "pronto",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "tío": {
+    "lemma": "tío",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "suerte": {
+    "lemma": "suerte",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ciudad": {
+    "lemma": "ciudad",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "siquiera": {
+    "lemma": "siquiera",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "feliz": {
+    "lemma": "feliz",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "venir": {
+    "lemma": "venir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hija": {
+    "lemma": "hija",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "gustaría": {
+    "lemma": "gustar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "minutos": {
+    "lemma": "minuto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cuánto": {
+    "lemma": "cuánto",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "os": {
+    "lemma": "tú",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "hey": {
+    "lemma": "hey",
+    "pos": "INTJ",
+    "pos_label": "interjection"
+  },
+  "muerte": {
+    "lemma": "muerte",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "dejar": {
+    "lemma": "dejar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "realidad": {
+    "lemma": "realidad",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "deja": {
+    "lemma": "dejar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "problemas": {
+    "lemma": "problema",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "vi": {
+    "lemma": "ver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "da": {
+    "lemma": "dar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "importante": {
+    "lemma": "importante",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "dijiste": {
+    "lemma": "dijistir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "corazón": {
+    "lemma": "corazón",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "miedo": {
+    "lemma": "miedo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "jefe": {
+    "lemma": "jefe",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "agua": {
+    "lemma": "agua",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "haré": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "justo": {
+    "lemma": "justo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "horas": {
+    "lemma": "hora",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "poder": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "buenos": {
+    "lemma": "buen",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "esposa": {
+    "lemma": "esposa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "manos": {
+    "lemma": "mano",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "debes": {
+    "lemma": "deber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "viene": {
+    "lemma": "venir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "venga": {
+    "lemma": "venir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "nuestros": {
+    "lemma": "nuestro",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "ojos": {
+    "lemma": "ojo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "adelante": {
+    "lemma": "adelante",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "encontrar": {
+    "lemma": "encontrar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "mano": {
+    "lemma": "mano",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cinco": {
+    "lemma": "cinco",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "niño": {
+    "lemma": "niño",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ninguna": {
+    "lemma": "ninguno",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "otros": {
+    "lemma": "otro",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "cara": {
+    "lemma": "cara",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cuidado": {
+    "lemma": "cuidado",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "bajo": {
+    "lemma": "bajo",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "cerca": {
+    "lemma": "cerca",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "viejo": {
+    "lemma": "viejo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "déjame": {
+    "lemma": "déjame",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "noches": {
+    "lemma": "noche",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "bastante": {
+    "lemma": "bastante",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "fin": {
+    "lemma": "fin",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "tomar": {
+    "lemma": "tomar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "único": {
+    "lemma": "único",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "misma": {
+    "lemma": "mismo",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "escucha": {
+    "lemma": "escucha",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ningún": {
+    "lemma": "ninguno",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "suficiente": {
+    "lemma": "suficiente",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "punto": {
+    "lemma": "punto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cuándo": {
+    "lemma": "cuándo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "sigue": {
+    "lemma": "seguir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "haya": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "equipo": {
+    "lemma": "equipo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "grande": {
+    "lemma": "grande",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "necesita": {
+    "lemma": "necesitar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "llegar": {
+    "lemma": "llegar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "incluso": {
+    "lemma": "incluso",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "algunos": {
+    "lemma": "alguno",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "doctor": {
+    "lemma": "doctor",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "difícil": {
+    "lemma": "difícil",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "aunque": {
+    "lemma": "aunque",
+    "pos": "SCONJ",
+    "pos_label": "conjunction"
+  },
+  "hubiera": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "primer": {
+    "lemma": "primero",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "coche": {
+    "lemma": "coche",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hago": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "clase": {
+    "lemma": "clase",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cuatro": {
+    "lemma": "cuatro",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "mas": {
+    "lemma": "mas",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "dices": {
+    "lemma": "diz",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "pequeño": {
+    "lemma": "pequeño",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "llama": {
+    "lemma": "llamar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "toma": {
+    "lemma": "tomar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hiciste": {
+    "lemma": "hiciste",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "allá": {
+    "lemma": "allá",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "última": {
+    "lemma": "último",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "arriba": {
+    "lemma": "arriba",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "tierra": {
+    "lemma": "tierra",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "guerra": {
+    "lemma": "guerra",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "pensar": {
+    "lemma": "pensar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pueda": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "igual": {
+    "lemma": "igual",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "loco": {
+    "lemma": "loco",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "sangre": {
+    "lemma": "sangre",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mujeres": {
+    "lemma": "mujer",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "vuelta": {
+    "lemma": "vuelta",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "fui": {
+    "lemma": "ir",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "trabajar": {
+    "lemma": "trabajar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "tenido": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "juego": {
+    "lemma": "juego",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "deberías": {
+    "lemma": "debería",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cuerpo": {
+    "lemma": "cuerpo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "e": {
+    "lemma": "e",
+    "pos": "CCONJ",
+    "pos_label": "conjunction"
+  },
+  "algunas": {
+    "lemma": "alguno",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "entrar": {
+    "lemma": "entrar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "cree": {
+    "lemma": "creer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "podía": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "debemos": {
+    "lemma": "deber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "oportunidad": {
+    "lemma": "oportunidad",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "teléfono": {
+    "lemma": "teléfono",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "necesitamos": {
+    "lemma": "necesitar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "final": {
+    "lemma": "final",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "listo": {
+    "lemma": "listo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "fiesta": {
+    "lemma": "fiesta",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "muchos": {
+    "lemma": "mucho",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "estabas": {
+    "lemma": "estabas",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "quieren": {
+    "lemma": "querer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "vete": {
+    "lemma": "vetar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "auto": {
+    "lemma": "auto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "dar": {
+    "lemma": "dar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "vivir": {
+    "lemma": "vivir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "posible": {
+    "lemma": "posible",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "hermana": {
+    "lemma": "hermana",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "número": {
+    "lemma": "número",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "meses": {
+    "lemma": "mes",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "exactamente": {
+    "lemma": "exactamente",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "culpa": {
+    "lemma": "culpa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "abajo": {
+    "lemma": "abajo",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "escuela": {
+    "lemma": "escuela",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ido": {
+    "lemma": "ido",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "fuerte": {
+    "lemma": "fuerte",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "diciendo": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "habla": {
+    "lemma": "hablar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "esté": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "ello": {
+    "lemma": "él",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "pregunta": {
+    "lemma": "preguntar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "chicas": {
+    "lemma": "chica",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "eran": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "unas": {
+    "lemma": "uno",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "pasando": {
+    "lemma": "pasar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "atrás": {
+    "lemma": "atrás",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "malo": {
+    "lemma": "malo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "capitán": {
+    "lemma": "capitán",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sra.": {
+    "lemma": "señora",
+    "pos": "ABBREVIATION",
+    "pos_label": "abbreviation"
+  },
+  "bebé": {
+    "lemma": "bebé",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "segundo": {
+    "lemma": "segundo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "sabemos": {
+    "lemma": "saber",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "mayor": {
+    "lemma": "mayor",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "comida": {
+    "lemma": "comida",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "morir": {
+    "lemma": "morir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "conozco": {
+    "lemma": "conocer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "dame": {
+    "lemma": "dame",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "fácil": {
+    "lemma": "fácil",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "comer": {
+    "lemma": "comer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "vino": {
+    "lemma": "venir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "lista": {
+    "lemma": "listo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "haga": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "necesitas": {
+    "lemma": "necesita",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hijos": {
+    "lemma": "hijo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "probablemente": {
+    "lemma": "probablemente",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "padres": {
+    "lemma": "padre",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "habitación": {
+    "lemma": "habitación",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "creer": {
+    "lemma": "creer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pensando": {
+    "lemma": "pensar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "fueron": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "dime": {
+    "lemma": "dime",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "trata": {
+    "lemma": "tratar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "buscando": {
+    "lemma": "buscar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "tuve": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "tampoco": {
+    "lemma": "tampoco",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "amo": {
+    "lemma": "amar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "joven": {
+    "lemma": "joven",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "podrías": {
+    "lemma": "podría",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sola": {
+    "lemma": "solo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "par": {
+    "lemma": "par",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "única": {
+    "lemma": "único",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "hacen": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "seguir": {
+    "lemma": "seguir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "dr.": {
+    "lemma": "doctor",
+    "pos": "ABBREVIATION",
+    "pos_label": "abbreviation"
+  },
+  "simplemente": {
+    "lemma": "simplemente",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "dicen": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "medio": {
+    "lemma": "medio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "puta": {
+    "lemma": "puta",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "saben": {
+    "lemma": "saber",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "sentido": {
+    "lemma": "sentido",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hagas": {
+    "lemma": "haga",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "segura": {
+    "lemma": "seguro",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "esperar": {
+    "lemma": "esperar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "lejos": {
+    "lemma": "lejos",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "arma": {
+    "lemma": "arma",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "alto": {
+    "lemma": "alto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "pequeña": {
+    "lemma": "pequeño",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "dólares": {
+    "lemma": "dólares",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "seis": {
+    "lemma": "seis",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "estaban": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "seguridad": {
+    "lemma": "seguridad",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "maldita": {
+    "lemma": "maldito",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "estuvo": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "preocupes": {
+    "lemma": "preocup",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "palabra": {
+    "lemma": "palabra",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "esperando": {
+    "lemma": "esperar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "queda": {
+    "lemma": "quedar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "oficina": {
+    "lemma": "oficina",
+    "pos": "PROPN",
+    "pos_label": "noun"
+  },
+  "matar": {
+    "lemma": "matar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "iré": {
+    "lemma": "ir",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "cama": {
+    "lemma": "cama",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "además": {
+    "lemma": "además",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "último": {
+    "lemma": "último",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "oído": {
+    "lemma": "oído",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "habría": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "estará": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "dio": {
+    "lemma": "dar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "recuerdo": {
+    "lemma": "recordar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "siendo": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "acerca": {
+    "lemma": "acerca",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "tenga": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "luz": {
+    "lemma": "luz",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "correcto": {
+    "lemma": "correcto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "ud.": {
+    "lemma": "usted",
+    "pos": "ABBREVIATION",
+    "pos_label": "abbreviation"
+  },
+  "demonios": {
+    "lemma": "demonio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "nuestras": {
+    "lemma": "nuestro",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "verte": {
+    "lemma": "verte",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "dormir": {
+    "lemma": "dormir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "sitio": {
+    "lemma": "sitio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ayudar": {
+    "lemma": "ayudar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "conseguir": {
+    "lemma": "conseguir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "di": {
+    "lemma": "dar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "marido": {
+    "lemma": "marido",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "paz": {
+    "lemma": "paz",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "idiota": {
+    "lemma": "idiota",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "plan": {
+    "lemma": "plan",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "dado": {
+    "lemma": "dado",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "cuanto": {
+    "lemma": "cuanto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "peor": {
+    "lemma": "peor",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "murió": {
+    "lemma": "morir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pueblo": {
+    "lemma": "pueblo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "vivo": {
+    "lemma": "vivo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "venido": {
+    "lemma": "venido",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "basta": {
+    "lemma": "bastar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "paso": {
+    "lemma": "paso",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "deberíamos": {
+    "lemma": "debeer",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "música": {
+    "lemma": "música",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "diga": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "minuto": {
+    "lemma": "minuto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "anoche": {
+    "lemma": "anoche",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "llamar": {
+    "lemma": "llamar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "piensa": {
+    "lemma": "pensar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "país": {
+    "lemma": "país",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "digas": {
+    "lemma": "diga",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "rey": {
+    "lemma": "rey",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "perdón": {
+    "lemma": "perdón",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mucha": {
+    "lemma": "mucho",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "falta": {
+    "lemma": "faltar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pienso": {
+    "lemma": "pensar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "diablos": {
+    "lemma": "diablo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "perdido": {
+    "lemma": "perdido",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "niña": {
+    "lemma": "niña",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "señorita": {
+    "lemma": "señoritar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "diez": {
+    "lemma": "diez",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "lleva": {
+    "lemma": "llevar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hospital": {
+    "lemma": "hospital",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "grandes": {
+    "lemma": "grande",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "maldito": {
+    "lemma": "maldito",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "otras": {
+    "lemma": "otro",
+    "pos": "DET",
+    "pos_label": "determiner"
+  },
+  "llamado": {
+    "lemma": "llamado",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "hacemos": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "llevar": {
+    "lemma": "llevar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "fuego": {
+    "lemma": "fuego",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "aqui": {
+    "lemma": "aqui",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "tuvo": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "poner": {
+    "lemma": "poner",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "calle": {
+    "lemma": "calle",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "acaba": {
+    "lemma": "acabar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "prueba": {
+    "lemma": "prueba",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "increíble": {
+    "lemma": "increíble",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "real": {
+    "lemma": "real",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "libro": {
+    "lemma": "libro",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "orden": {
+    "lemma": "orden",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "semanas": {
+    "lemma": "semana",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "especial": {
+    "lemma": "especial",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "mía": {
+    "lemma": "mío",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "café": {
+    "lemma": "café",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "duro": {
+    "lemma": "duro",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "empezar": {
+    "lemma": "empezar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "afuera": {
+    "lemma": "afuero",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "queremos": {
+    "lemma": "querer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "perro": {
+    "lemma": "perro",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cielo": {
+    "lemma": "cielo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "puesto": {
+    "lemma": "puesto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "viaje": {
+    "lemma": "viaje",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "detrás": {
+    "lemma": "detrás",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "cuarto": {
+    "lemma": "cuarto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "querida": {
+    "lemma": "querido",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "haría": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "preguntas": {
+    "lemma": "pregunta",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "piensas": {
+    "lemma": "piensa",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "querido": {
+    "lemma": "querido",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "libre": {
+    "lemma": "libre",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "buscar": {
+    "lemma": "buscar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "cual": {
+    "lemma": "cual",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "diré": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "suena": {
+    "lemma": "sonar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "jugar": {
+    "lemma": "jugar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "cambio": {
+    "lemma": "cambio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "película": {
+    "lemma": "película",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "millones": {
+    "lemma": "millón",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "habrá": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "llamada": {
+    "lemma": "llamado",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "resto": {
+    "lemma": "resto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "vemos": {
+    "lemma": "ver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "extraño": {
+    "lemma": "extraño",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "mala": {
+    "lemma": "malo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "presidente": {
+    "lemma": "presidente",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "srta.": {
+    "lemma": "señorita",
+    "pos": "ABBREVIATION",
+    "pos_label": "abbreviation"
+  },
+  "irme": {
+    "lemma": "ir yo",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "ropa": {
+    "lemma": "ropa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "perder": {
+    "lemma": "perder",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "vuelve": {
+    "lemma": "volver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "agente": {
+    "lemma": "agente",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "palabras": {
+    "lemma": "palabra",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "información": {
+    "lemma": "información",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "raro": {
+    "lemma": "raro",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "hará": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "entiendes": {
+    "lemma": "entiend",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "éste": {
+    "lemma": "este",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "trabajando": {
+    "lemma": "trabajar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "tratando": {
+    "lemma": "tratar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "general": {
+    "lemma": "general",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "trato": {
+    "lemma": "tratar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "usar": {
+    "lemma": "usar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "perfecto": {
+    "lemma": "perfecto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "derecho": {
+    "lemma": "derecho",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "modo": {
+    "lemma": "modo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ayer": {
+    "lemma": "ayer",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "conoces": {
+    "lemma": "conoz",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "demás": {
+    "lemma": "demá",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "quieras": {
+    "lemma": "quieras",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "podríamos": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "noticias": {
+    "lemma": "noticia",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "asesino": {
+    "lemma": "asesino",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "encontrado": {
+    "lemma": "encontrado",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "control": {
+    "lemma": "control",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "odio": {
+    "lemma": "odio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "frente": {
+    "lemma": "frente",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sexo": {
+    "lemma": "sexo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "decirle": {
+    "lemma": "decir él",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "estaré": {
+    "lemma": "estar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "divertido": {
+    "lemma": "divertido",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "armas": {
+    "lemma": "arma",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "recuerdas": {
+    "lemma": "recuerda",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "amiga": {
+    "lemma": "amiga",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "grupo": {
+    "lemma": "grupo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "asunto": {
+    "lemma": "asunto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "acabo": {
+    "lemma": "acabar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "mensaje": {
+    "lemma": "mensaje",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "encima": {
+    "lemma": "encima",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "atención": {
+    "lemma": "atención",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "diferente": {
+    "lemma": "diferente",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "uh": {
+    "lemma": "uh",
+    "pos": "INTJ",
+    "pos_label": "interjection"
+  },
+  "cállate": {
+    "lemma": "cállatir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "daño": {
+    "lemma": "daño",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sucede": {
+    "lemma": "suceder",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "cambiar": {
+    "lemma": "cambiar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "siguiente": {
+    "lemma": "siguiente",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "sino": {
+    "lemma": "sino",
+    "pos": "CCONJ",
+    "pos_label": "conjunction"
+  },
+  "seas": {
+    "lemma": "sea",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "médico": {
+    "lemma": "médico",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "boca": {
+    "lemma": "boca",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "dejó": {
+    "lemma": "dejar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "error": {
+    "lemma": "error",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "jamás": {
+    "lemma": "jamás",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "largo": {
+    "lemma": "largo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "pena": {
+    "lemma": "pena",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "voz": {
+    "lemma": "voz",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "futuro": {
+    "lemma": "futuro",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "siente": {
+    "lemma": "sentir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "secreto": {
+    "lemma": "secreto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "baño": {
+    "lemma": "baño",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mil": {
+    "lemma": "mil",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "decirte": {
+    "lemma": "decir tú",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pensaba": {
+    "lemma": "pensar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "novia": {
+    "lemma": "novia",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "propia": {
+    "lemma": "propio",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "sueño": {
+    "lemma": "sueño",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "haz": {
+    "lemma": "haz",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "fuerza": {
+    "lemma": "fuerza",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "deben": {
+    "lemma": "deber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "supone": {
+    "lemma": "suponer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "estábamos": {
+    "lemma": "estár",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "ambos": {
+    "lemma": "ambos",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "ay": {
+    "lemma": "ay ",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "estuve": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "encontré": {
+    "lemma": "encontré",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "vuelto": {
+    "lemma": "volver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "dolor": {
+    "lemma": "dolor",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "dile": {
+    "lemma": "dile",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "encanta": {
+    "lemma": "encantar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "edad": {
+    "lemma": "edad",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "darle": {
+    "lemma": "dar él",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pie": {
+    "lemma": "pie",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "negro": {
+    "lemma": "negro",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "ganar": {
+    "lemma": "ganar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "aire": {
+    "lemma": "aire",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "lamento": {
+    "lemma": "lamento",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "verlo": {
+    "lemma": "ver él",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "asesinato": {
+    "lemma": "asesinato",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "vio": {
+    "lemma": "ver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "adónde": {
+    "lemma": "adónde",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "llegado": {
+    "lemma": "llegar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "disculpe": {
+    "lemma": "disculpar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "cita": {
+    "lemma": "cita",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "estaría": {
+    "lemma": "estar",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "fuiste": {
+    "lemma": "ir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "sistema": {
+    "lemma": "sistema",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "gusto": {
+    "lemma": "gusto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "pobre": {
+    "lemma": "pobre",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "negocio": {
+    "lemma": "negocio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mente": {
+    "lemma": "mente",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "tuyo": {
+    "lemma": "tuyo",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "campo": {
+    "lemma": "campo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mire": {
+    "lemma": "mire",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "situación": {
+    "lemma": "situación",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "tras": {
+    "lemma": "tras",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "hotel": {
+    "lemma": "hotel",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "vosotros": {
+    "lemma": "vosotro",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "funciona": {
+    "lemma": "funcionar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "foto": {
+    "lemma": "foto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "abogado": {
+    "lemma": "abogado",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "loca": {
+    "lemma": "locar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "propio": {
+    "lemma": "propio",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "alrededor": {
+    "lemma": "alrededor",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "próxima": {
+    "lemma": "próximo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "terminado": {
+    "lemma": "terminado",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "hablas": {
+    "lemma": "habla",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "pagar": {
+    "lemma": "pagar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "mató": {
+    "lemma": "matar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "llamo": {
+    "lemma": "llamar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "personal": {
+    "lemma": "personal",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "sientes": {
+    "lemma": "sient",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ocurre": {
+    "lemma": "ocurrir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "ésta": {
+    "lemma": "este",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "recuerda": {
+    "lemma": "recordar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "mitad": {
+    "lemma": "mitad",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "quiera": {
+    "lemma": "querer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pelo": {
+    "lemma": "pelo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "tenías": {
+    "lemma": "tenía",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "viste": {
+    "lemma": "viste",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "oficial": {
+    "lemma": "oficial",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "llegó": {
+    "lemma": "llegar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "compañía": {
+    "lemma": "compañía",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "relación": {
+    "lemma": "relación",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "conoce": {
+    "lemma": "conocer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pase": {
+    "lemma": "pasar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "montón": {
+    "lemma": "montón",
+    "pos": "INTJ",
+    "pos_label": "interjection"
+  },
+  "mejores": {
+    "lemma": "mejor",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "creí": {
+    "lemma": "creer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "cena": {
+    "lemma": "cena",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sentir": {
+    "lemma": "sentir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "través": {
+    "lemma": "través",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "accidente": {
+    "lemma": "accidente",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "i": {
+    "lemma": "i",
+    "pos": "CCONJ",
+    "pos_label": "conjunction"
+  },
+  "ellas": {
+    "lemma": "él",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "caja": {
+    "lemma": "cajar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "tranquilo": {
+    "lemma": "tranquilo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "bonito": {
+    "lemma": "bonito",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "eras": {
+    "lemma": "era",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "asi": {
+    "lemma": "asi",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "pudo": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "vive": {
+    "lemma": "vivir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "vista": {
+    "lemma": "visto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "estúpido": {
+    "lemma": "estúpido",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "línea": {
+    "lemma": "línea",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "caballeros": {
+    "lemma": "caballero",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "haremos": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "dan": {
+    "lemma": "dar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "quédate": {
+    "lemma": "quédate",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "tienda": {
+    "lemma": "tienda",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "comprar": {
+    "lemma": "comprar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "entendido": {
+    "lemma": "entendido",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "centro": {
+    "lemma": "centro",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "salvo": {
+    "lemma": "salvo",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "mes": {
+    "lemma": "mes",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sol": {
+    "lemma": "sol",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "tonto": {
+    "lemma": "tonto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hambre": {
+    "lemma": "hambre",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mesa": {
+    "lemma": "mesa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "respuesta": {
+    "lemma": "respuesta",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "completamente": {
+    "lemma": "completamente",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "carta": {
+    "lemma": "carta",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "totalmente": {
+    "lemma": "totalmente",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "imposible": {
+    "lemma": "imposible",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "pruebas": {
+    "lemma": "prueba",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "novio": {
+    "lemma": "novio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "normal": {
+    "lemma": "normal",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "gustan": {
+    "lemma": "gustar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pude": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "traje": {
+    "lemma": "traje",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "dirección": {
+    "lemma": "dirección",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "siete": {
+    "lemma": "siete",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "dijeron": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "placer": {
+    "lemma": "placer",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sean": {
+    "lemma": "ser",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "tendrá": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "barco": {
+    "lemma": "barco",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "blanco": {
+    "lemma": "blanco",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "profesor": {
+    "lemma": "profesor",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "servicio": {
+    "lemma": "servicio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "muchacho": {
+    "lemma": "muchacho",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "reunión": {
+    "lemma": "reunión",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "dejado": {
+    "lemma": "dejado",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "ley": {
+    "lemma": "ley",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "quisiera": {
+    "lemma": "querer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hubo": {
+    "lemma": "haber",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "programa": {
+    "lemma": "programa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "carrera": {
+    "lemma": "carrera",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cumpleaños": {
+    "lemma": "cumpleaños",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "muchachos": {
+    "lemma": "muchacho",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "culo": {
+    "lemma": "culo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "canción": {
+    "lemma": "canción",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hermosa": {
+    "lemma": "hermoso",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "universidad": {
+    "lemma": "universidad",
+    "pos": "PROPN",
+    "pos_label": "noun"
+  },
+  "boda": {
+    "lemma": "boda",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "decirme": {
+    "lemma": "decir yo",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "cualquiera": {
+    "lemma": "cualquiera",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "tengas": {
+    "lemma": "tenga",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hacía": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "estés": {
+    "lemma": "estés",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sala": {
+    "lemma": "sala",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "llevo": {
+    "lemma": "llevar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "decisión": {
+    "lemma": "decisión",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "espere": {
+    "lemma": "esperar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "don": {
+    "lemma": "don",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "necesario": {
+    "lemma": "necesario",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "sal": {
+    "lemma": "sal",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "entra": {
+    "lemma": "entrar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "prisa": {
+    "lemma": "prisa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "carajo": {
+    "lemma": "carajo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "embargo": {
+    "lemma": "embargo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "interesante": {
+    "lemma": "interesante",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "tendrás": {
+    "lemma": "tendrá",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "escuchar": {
+    "lemma": "escuchar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "abuela": {
+    "lemma": "abuela",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hicieron": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "detective": {
+    "lemma": "detectivar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "horrible": {
+    "lemma": "horrible",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "suelo": {
+    "lemma": "suelo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "fotos": {
+    "lemma": "foto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cárcel": {
+    "lemma": "cárcel",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "acá": {
+    "lemma": "acá",
+    "pos": "PROPN",
+    "pos_label": "noun"
+  },
+  "siéntate": {
+    "lemma": "siéntate",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "decía": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "intentando": {
+    "lemma": "intentar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "vámonos": {
+    "lemma": "vámono",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "maldición": {
+    "lemma": "maldición",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "silencio": {
+    "lemma": "silencio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "muerta": {
+    "lemma": "muerto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "capaz": {
+    "lemma": "capaz",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "salió": {
+    "lemma": "salir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "club": {
+    "lemma": "club",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "terminar": {
+    "lemma": "terminar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "temo": {
+    "lemma": "temer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "broma": {
+    "lemma": "broma",
+    "pos": "PROPN",
+    "pos_label": "noun"
+  },
+  "gobierno": {
+    "lemma": "gobierno",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "prometo": {
+    "lemma": "prometo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cámara": {
+    "lemma": "cámara",
+    "pos": "PROPN",
+    "pos_label": "noun"
+  },
+  "media": {
+    "lemma": "medio",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "terrible": {
+    "lemma": "terrible",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "llamó": {
+    "lemma": "llamar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "regalo": {
+    "lemma": "regalo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "amable": {
+    "lemma": "amable",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "dulce": {
+    "lemma": "dulce",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "muertos": {
+    "lemma": "muerto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "querías": {
+    "lemma": "quería",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ataque": {
+    "lemma": "ataque",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "das": {
+    "lemma": "da",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "navidad": {
+    "lemma": "navidad",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "negocios": {
+    "lemma": "negocio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "pudiera": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "ocho": {
+    "lemma": "ocho",
+    "pos": "NUM",
+    "pos_label": "number"
+  },
+  "avión": {
+    "lemma": "avión",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "investigación": {
+    "lemma": "investigación",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "acabó": {
+    "lemma": "acabar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "juro": {
+    "lemma": "juro",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mantener": {
+    "lemma": "mantener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "ejército": {
+    "lemma": "ejército",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "papel": {
+    "lemma": "papel",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "partes": {
+    "lemma": "parte",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ten": {
+    "lemma": "ten",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "gracioso": {
+    "lemma": "gracioso",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "diría": {
+    "lemma": "decir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "principio": {
+    "lemma": "principio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "delante": {
+    "lemma": "delante",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "teniente": {
+    "lemma": "teniente",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "deseo": {
+    "lemma": "desear",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "vayas": {
+    "lemma": "vaya",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "nave": {
+    "lemma": "nave",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sale": {
+    "lemma": "salir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "basura": {
+    "lemma": "basura",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "vine": {
+    "lemma": "venir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "contacto": {
+    "lemma": "contacto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "esposo": {
+    "lemma": "esposo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "tren": {
+    "lemma": "tren",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "encontramos": {
+    "lemma": "encontrar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "dale": {
+    "lemma": "dale",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "verdadero": {
+    "lemma": "verdadero",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "tuya": {
+    "lemma": "tuyo",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "alma": {
+    "lemma": "alma",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "hazlo": {
+    "lemma": "hazlo",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "disculpa": {
+    "lemma": "disculpa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "junto": {
+    "lemma": "junto",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "anda": {
+    "lemma": "andar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "tendré": {
+    "lemma": "tendré",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "matrimonio": {
+    "lemma": "matrimonio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "saberlo": {
+    "lemma": "saber él",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "locura": {
+    "lemma": "locura",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "oro": {
+    "lemma": "oro",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "permiso": {
+    "lemma": "permiso",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "director": {
+    "lemma": "director",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "peligro": {
+    "lemma": "peligro",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "libertad": {
+    "lemma": "libertad",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "alegro": {
+    "lemma": "alegrar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "baja": {
+    "lemma": "bajo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "tendremos": {
+    "lemma": "tener",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "derecha": {
+    "lemma": "derecho",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "encuentra": {
+    "lemma": "encontrar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pies": {
+    "lemma": "pie",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "segunda": {
+    "lemma": "segundo",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "maravilloso": {
+    "lemma": "maravilloso",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "espacio": {
+    "lemma": "espacio",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "rato": {
+    "lemma": "rato",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "abuelo": {
+    "lemma": "abuelo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "esperaba": {
+    "lemma": "esperar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "mirando": {
+    "lemma": "mirar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "salud": {
+    "lemma": "salud",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "sorpresa": {
+    "lemma": "sorpresa",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ninguno": {
+    "lemma": "ninguno",
+    "pos": "PRON",
+    "pos_label": "pronoun"
+  },
+  "miren": {
+    "lemma": "mirar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "triste": {
+    "lemma": "triste",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "aun": {
+    "lemma": "aun",
+    "pos": "ADV",
+    "pos_label": "adverb"
+  },
+  "pensado": {
+    "lemma": "pensado",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "maestro": {
+    "lemma": "maestro",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "según": {
+    "lemma": "según",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "infierno": {
+    "lemma": "infierno",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "podrían": {
+    "lemma": "poder",
+    "pos": "AUX",
+    "pos_label": "verb"
+  },
+  "tipos": {
+    "lemma": "tipo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "tía": {
+    "lemma": "tir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "crimen": {
+    "lemma": "crimen",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "conocido": {
+    "lemma": "conocido",
+    "pos": "ADJ",
+    "pos_label": "adjective"
+  },
+  "consejo": {
+    "lemma": "consejo",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "ante": {
+    "lemma": "ante",
+    "pos": "ADP",
+    "pos_label": "preposition"
+  },
+  "iglesia": {
+    "lemma": "iglesia",
+    "pos": "PROPN",
+    "pos_label": "noun"
+  },
+  "intento": {
+    "lemma": "intento",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "mayoría": {
+    "lemma": "mayoría",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "doy": {
+    "lemma": "dar",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "hicimos": {
+    "lemma": "hacer",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "escena": {
+    "lemma": "escena",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "piso": {
+    "lemma": "piso",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "señal": {
+    "lemma": "señal",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "honor": {
+    "lemma": "honor",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "llamas": {
+    "lemma": "llama",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "abre": {
+    "lemma": "abrir",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "cerebro": {
+    "lemma": "cerebro",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "veras": {
+    "lemma": "vera",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "viendo": {
+    "lemma": "ver",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pone": {
+    "lemma": "poner",
+    "pos": "VERB",
+    "pos_label": "verb"
+  },
+  "pregunto": {
+    "lemma": "pregunto",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  },
+  "cocina": {
+    "lemma": "cocina",
+    "pos": "NOUN",
+    "pos_label": "noun"
+  }
+}
