@@ -70,6 +70,7 @@ const footerLinks = await pagesWithFlag('include_in_footer');
 		{footerLinks.map((page) => (
 			<a href={pageUrl(page)} target="_self">{page.data.title}</a>
 		))}
+		<a href="/frequency/" target="_self">Free Word Tool</a>
 		{app.pressKitDownloadLink && (
 			<a href={app.pressKitDownloadLink}>Press Kit</a>
 		)}

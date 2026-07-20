@@ -24,6 +24,7 @@
 .sectionScience,
 .sectionFaq,
 .sectionLearnMore,
+.sectionFrequencyPromo,
 .sectionFinalCta {
     grid-column: 1 / -1;
     width: 100%;
@@ -449,6 +450,74 @@
 }
 
 // ==============================
+// Frequency tool promo (homepage)
+// ==============================
+
+.sectionFrequencyPromo {
+    background-color: #fff;
+}
+
+.freqPromoCard {
+    text-align: center;
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 44px 32px;
+    border: 1px solid rgba($feature-icons-foreground-color, 0.2);
+    border-radius: 16px;
+    background: rgba($feature-icons-foreground-color, 0.04);
+}
+
+.freqPromoEyebrow {
+    display: inline-block;
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $feature-icons-foreground-color;
+    margin-bottom: 12px;
+}
+
+.freqPromoCard h2 {
+    font-size: 2.2rem;
+    color: $feature-title-color;
+    line-height: 1.2;
+    margin: 0 0 14px;
+}
+
+.freqPromoCard p {
+    font-size: 1.6rem;
+    color: $feature-text-color;
+    line-height: 1.6;
+    margin: 0 auto 28px;
+    max-width: 560px;
+}
+
+.freqPromoButton {
+    display: inline-block;
+    background-color: $feature-icons-foreground-color;
+    font-size: 1.6rem;
+    font-weight: 700;
+    padding: 14px 32px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: opacity 0.15s ease;
+}
+
+// Override the global `a:link/:visited` accent color (base.scss) so the label
+// stays white on the blue pill.
+.freqPromoButton:link,
+.freqPromoButton:visited,
+.freqPromoButton:hover,
+.freqPromoButton:active {
+    color: #fff;
+}
+
+.freqPromoButton:hover {
+    opacity: 0.9;
+    text-decoration: none;
+}
+
+// ==============================
 // Responsive adjustments
 // ==============================
 
@@ -461,6 +530,7 @@
     .sectionScience,
     .sectionFaq,
     .sectionLearnMore,
+    .sectionFrequencyPromo,
     .sectionFinalCta {
         padding: 56px 15px;
     }
