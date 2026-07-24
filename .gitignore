@@ -1,7 +1,3 @@
-.bundle
-.sass-cache
-_site
-Gemfile.lock
 .claude/settings.local.json
 
 # Astro / Node
