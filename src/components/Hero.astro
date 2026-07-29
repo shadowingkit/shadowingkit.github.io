@@ -1,0 +1,22 @@
+---
+// Homepage hero: split 7/5, production-freeze headline, App Store badge, real
+// bezel-framed screenshot (see docs/simulator-screenshots.md for the asset pipeline).
+import { app } from '../config';
+---
+<header class="section hero">
+  <div>
+    <h1>You understand Spanish. You just can't <span class="hl">get the words out</span>.</h1>
+    <p class="hero__lede">
+      ShadowingKit trains your speech reflexes with the same technique used by
+      professional interpreters. 10-15 minutes a day, and you'll speak with
+      confidence instead of hesitation.
+    </p>
+    <div class="hero__actions">
+      <a class="badge" href={app.appStoreLink} aria-label="Download on the App Store"><img src="/assets/appstore.png" alt="Download on the App Store" width="156" height="52"></a>
+    </div>
+  </div>
+  <figure class="hero__figure">
+    <img src="/assets/screenshot/player-framed.png" alt="ShadowingKit player on an iPhone: a Spanish transcript highlighted sentence by sentence and word by word in sync with the audio" width="846" height="1729" fetchpriority="high">
+    <figcaption>Real episode · text follows the audio</figcaption>
+  </figure>
+</header>

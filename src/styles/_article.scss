@@ -1,0 +1,104 @@
+// Article pages (Page.astro) + frequency tool chrome. The markdown-body class
+// name is kept from the old github-markdown port so layouts keep working; the
+// styling is the Hum system. Markdown content itself is untouched.
+
+.pageMain {
+  max-width: min(72ch, 100%);
+  margin-inline: auto;
+  padding: calc(var(--space-3xl) + var(--space-xl)) var(--page-gutter) var(--space-2xl);
+}
+
+.markdown-body {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--color-ink-body);
+
+  h1, h2, h3, h4 {
+    color: var(--color-ink);
+    line-height: 1.2;
+    overflow-wrap: anywhere;
+    min-width: 0;
+  }
+  h1 {
+    font-size: var(--text-2xl);
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    margin: 0 0 var(--space-lg);
+  }
+  h2 {
+    font-size: var(--text-xl);
+    margin: var(--space-2xl) 0 var(--space-md);
+  }
+  h3 {
+    font-size: var(--text-md);
+    margin: var(--space-xl) 0 var(--space-sm);
+  }
+  h4 {
+    font-size: var(--text-base);
+    margin: var(--space-lg) 0 var(--space-sm);
+  }
+  p { margin: 0 0 var(--space-md); }
+  a { color: var(--color-accent-2-deep); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+  a:hover { color: var(--color-ink); }
+  ul, ol { margin: 0 0 var(--space-md); padding-left: 1.4em; }
+  li { margin-bottom: var(--space-2xs); }
+  li > ul, li > ol { margin-top: var(--space-2xs); margin-bottom: 0; }
+  strong { color: var(--color-ink); }
+  blockquote {
+    margin: 0 0 var(--space-md);
+    padding: var(--space-sm) var(--space-lg);
+    border-left: 3px solid var(--color-accent);
+    background: var(--color-paper-2);
+    border-radius: 0 var(--radius-input) var(--radius-input) 0;
+  }
+  blockquote p:last-child { margin-bottom: 0; }
+  code {
+    font-family: var(--font-label);
+    font-size: 0.9em;
+    background: var(--color-paper-2);
+    border-radius: 6px;
+    padding: 0.1em 0.35em;
+  }
+  pre {
+    background: var(--color-paper-2);
+    border-radius: var(--radius-input);
+    padding: var(--space-md);
+    overflow-x: auto;
+    margin: 0 0 var(--space-md);
+  }
+  pre code { background: none; padding: 0; }
+  hr {
+    border: 0;
+    border-top: var(--rule-hair) solid var(--color-rule);
+    margin: var(--space-xl) 0;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 0 var(--space-md);
+    font-size: var(--text-sm);
+  }
+  th, td {
+    text-align: left;
+    padding: var(--space-xs) var(--space-sm);
+    border-bottom: var(--rule-hair) solid var(--color-rule);
+    vertical-align: top;
+  }
+  th { color: var(--color-ink-2); font-weight: 600; }
+  img { border-radius: var(--radius-input); }
+}
+
+/* Frequency tool chrome (internals keep their own scoped styles) */
+.freqMain {
+  --ink: #24292f;
+  --muted: #57606a;
+  --line: #e1e4e8;
+  --accent: #1d63ea;
+  --panel: #f6f8fa;
+  max-width: var(--shell);
+  margin-inline: auto;
+  padding: calc(var(--space-3xl) + var(--space-xl)) var(--page-gutter) var(--space-2xl);
+  color: var(--ink);
+  font-size: 1rem;
+  line-height: 1.55;
+}

@@ -85,25 +85,19 @@ export const analytics = {
   googleAnalyticsId: 'G-QJK3ED0N0G',
 } as const;
 
-// Theme values (mirror of _theme.scss). Kept for reference and future use by components.
+// Theme values (mirror of the Hum token block in src/styles/_tokens.scss, which is
+// the canonical copy consumed by all CSS). Kept for reference and future use by
+// components. Full token set (tints, shadows, spacing) lives in _tokens.scss.
 export const theme = {
-  topbarColor: '#000000',
-  topbarTransparency: 0.1,
-  topbarTitleColor: '#ffffff',
-  coverImage: 'assets/headerimage.jpg',
-  coverOverlayColor: '#363b3d',
-  coverOverlayTransparency: 0.8,
-  deviceColor: 'black',
-  bodyBackgroundColor: '#ffffff',
-  linkColor: '#1d63ea',
-  appTitleColor: '#ffffff',
-  appPriceColor: '#ffffff',
-  appDescriptionColor: '#ffffff',
-  featureTitleColor: '#000000',
-  featureTextColor: '#666666',
-  featureIconsForegroundColor: '#1d63ea',
-  featureIconsBackgroundColor: '#e6e6e6',
-  socialIconsForegroundColor: '#666666',
-  socialIconsBackgroundColor: '#e6e6e6',
-  footerTextColor: '#666666',
+  paper: 'oklch(97% 0.012 95)',
+  paper2: 'oklch(94% 0.016 95)',
+  ink: 'oklch(20% 0.012 250)',
+  ink2: 'oklch(42% 0.018 250)',
+  accentPear: 'oklch(86% 0.18 95)',
+  accentCyan: 'oklch(66% 0.18 235)',
+  accentCyanDeep: 'oklch(44% 0.13 235)',
+  accentCoral: 'oklch(68% 0.24 18)',
+  fontDisplay: '"Plus Jakarta Sans", "Geist", ui-rounded, system-ui, sans-serif',
+  fontBody: '"Plus Jakarta Sans", "Geist", ui-rounded, system-ui, sans-serif',
+  fontLabel: '"JetBrains Mono", ui-monospace, monospace',
 } as const;

@@ -1,0 +1,142 @@
+// Shared chrome: N5 floating pill nav, Ft8 marquee footer, app CTA card.
+// Rendered by Header.astro / Footer.astro / Page.astro / FrequencyCta.astro
+// on every page of the site.
+
+/* ---------- N5 floating pill nav ---------- */
+.nav-pill {
+  position: fixed;
+  top: var(--space-md);
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(var(--shell), calc(100% - 2 * var(--page-gutter)));
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-xs) var(--space-xs) var(--space-xs) var(--space-sm);
+  background: color-mix(in oklch, var(--color-paper) 80%, transparent);
+  backdrop-filter: blur(14px) saturate(120%);
+  border: var(--rule-hair) solid var(--color-rule);
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-pill);
+  z-index: var(--z-sticky);
+  white-space: nowrap;
+}
+.nav-pill .wordmark {
+  justify-self: start;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--color-ink);
+  text-decoration: none;
+}
+.nav-pill .wordmark img { width: 22px; height: 22px; border-radius: 6px; }
+.nav-pill__links {
+  display: flex;
+  gap: var(--space-md);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nav-pill__links a {
+  color: var(--color-ink-2);
+  text-decoration: none;
+  font-size: var(--text-sm);
+  font-weight: 500;
+  white-space: nowrap;
+}
+.nav-pill__links a:hover { color: var(--color-ink); }
+.nav-pill__right {
+  justify-self: end;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+.nav-pill__tool {
+  color: var(--color-ink-2);
+  text-decoration: none;
+  font-size: var(--text-sm);
+  font-weight: 500;
+  white-space: nowrap;
+}
+.nav-pill__tool:hover { color: var(--color-ink); }
+@media (max-width: 60rem) {
+  .nav-pill__links { display: none; }
+}
+@media (max-width: 40rem) {
+  .nav-pill__tool { display: none; }
+}
+
+/* ---------- Ft8 marquee footer ---------- */
+.foot-marquee {
+  overflow: hidden;
+  border-top: 2px solid var(--color-ink);
+  margin-top: var(--space-2xl);
+}
+.foot-marquee__track {
+  display: flex;
+  gap: var(--space-2xl);
+  white-space: nowrap;
+  padding-block: var(--space-md);
+  animation: foot-marquee 32s linear infinite;
+}
+.foot-marquee__track span {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  font-size: clamp(1rem, 2.5vw, 1.5rem);
+}
+@keyframes foot-marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.foot-marquee:hover .foot-marquee__track,
+.foot-marquee:focus-within .foot-marquee__track { animation-play-state: paused; }
+.foot-meta {
+  max-width: var(--shell);
+  margin-inline: auto;
+  padding: var(--space-lg) var(--page-gutter) var(--space-2xl);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md) var(--space-lg);
+  align-items: center;
+  font-size: var(--text-sm);
+  color: var(--color-ink-2);
+}
+.foot-meta a { color: var(--color-ink-2); white-space: nowrap; }
+.foot-meta a:hover { color: var(--color-ink); }
+
+/* ---------- App CTA card (article pages + frequency tool) ---------- */
+.pageCta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+  flex-wrap: wrap;
+  margin-top: var(--space-2xl);
+  padding: var(--space-xl);
+  background: var(--tint-pear);
+  border-radius: var(--radius-card);
+}
+.pageCta .pageCtaIcon {
+  width: 64px;
+  height: 64px;
+  border-radius: 14px;
+  flex-shrink: 0;
+}
+.pageCta .pageCtaText {
+  flex: 1 1 18rem;
+  min-width: 0;
+}
+.pageCta .pageCtaText strong {
+  display: block;
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-bottom: var(--space-2xs);
+  color: var(--color-ink);
+}
+.pageCta .pageCtaText span {
+  font-size: var(--text-sm);
+  color: var(--color-ink-body);
+}
+.pageCta .appStoreLink { display: inline-flex; flex-shrink: 0; }
+.pageCta .pageCtaBadge { display: block; height: 52px; width: auto; }

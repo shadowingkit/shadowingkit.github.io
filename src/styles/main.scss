@@ -1,8 +1,9 @@
-// Sass entry point. Theme vars first (they are consumed by the partials), then the
-// partials in the same order the Jekyll main.scss used.
+// Sass entry point — Hum design system (release rollout 2026-07-29).
+// Tokens first, then base primitives, shared chrome, homepage sections
+// (scoped under body.home), and the article/tool layer.
 @import
-    "theme",
+    "tokens",
     "base",
-    "layout",
-    "sections",
-    "github-markdown";
+    "chrome",
+    "home",
+    "article";

@@ -1,14 +1,22 @@
 ---
+// Final CTA: the coral moment. App Store badge + QR hint. (Hum redesign 2026-07.)
 import { app } from '../config';
 ---
-<section class="sectionFinalCta">
-    <div class="sectionInner">
-        <h2>Stop waiting to feel ready. Fluency is built, not found.</h2>
-        <p>
-            You won't feel confident before you start practicing. Confidence comes after.
-            ShadowingKit gives you a private, pressure-free place to build the speaking
-            reflexes that make you sound natural, one sentence at a time.
-        </p>
-        <a class="finalCtaButton" href={app.appStoreLink}>Start practicing free</a>
+<section class="section section--band cta-band" aria-labelledby="cta-title">
+  <div class="band-inner">
+    <h2 id="cta-title">Stop waiting to feel ready.</h2>
+    <p>
+      You won't feel confident before you start practicing. Confidence comes
+      after. ShadowingKit gives you a private, pressure-free place to build the
+      speaking reflexes that make you sound natural, one sentence at a time.
+    </p>
+    <div class="cta-band__row">
+      <a class="badge" href={app.appStoreLink} aria-label="Download on the App Store"><img src="/assets/appstore.png" alt="Download on the App Store" width="156" height="52"></a>
+      <div class="qr-hint">
+        <img src="/assets/qr-appstore.svg" alt="QR code for ShadowingKit on the App Store" width="112" height="112">
+        <span>On your computer?<br>Scan with your iPhone.</span>
+      </div>
     </div>
+    <p class="cta-band__aside">FREE TIER FOREVER · CANCEL ANYTIME</p>
+  </div>
 </section>

@@ -1,21 +1,15 @@
 ---
-// Homepage-only promo for the free /frequency/ tool. Placed after LearnMore and
-// before FinalCta: a quiet, tool-shaped band (not a blog card, not the blue CTA)
-// that signals "the team built a real free tool" for credibility, without competing
-// with the primary download CTA above the fold. Landing -> tool direction, so it is
-// its own component (FrequencyCta is the opposite, tool -> app).
+// Isolated frequency-tool band after the FAQ (pear tile design, whole card is the
+// link). Landing -> tool direction; FrequencyCta is the opposite (tool -> app).
+// (Hum redesign 2026-07.)
 ---
-<section class="sectionFrequencyPromo">
-    <div class="sectionInner">
-        <div class="freqPromoCard">
-            <span class="freqPromoEyebrow">Free tool</span>
-            <h2>The 1000 Most Common Spanish Words</h2>
-            <p>
-                Every word with meaning, IPA pronunciation, syllables, and stress,
-                ranked by how often it appears in spoken Spanish. Built by the
-                ShadowingKit team. Free, no signup, download the full list as CSV.
-            </p>
-            <a class="freqPromoButton" href="/frequency/" target="_self">Open the free tool →</a>
-        </div>
+<section class="section freq-band" aria-labelledby="freq-title">
+  <a class="cell cell--pear cell--link freq-card" href="/frequency/" target="_self">
+    <div>
+      <span class="mono-label">Free tool</span>
+      <h3 id="freq-title">The 1000 most common Spanish words</h3>
+      <p>Meaning, IPA, syllables, and stress for every word, ranked by spoken frequency. No signup, free CSV download.</p>
     </div>
+    <span class="go">Open the free tool →</span>
+  </a>
 </section>

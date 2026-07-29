@@ -220,79 +220,79 @@ const dataset = {
 </script>
 
 <style>
-	h1 { font-size: 3.36rem; line-height: 1.12; margin: 0 0 0.8rem; letter-spacing: -0.01em; }
+	h1 { font-size: 2.1rem; line-height: 1.12; margin: 0 0 0.5rem; letter-spacing: -0.01em; }
 
 	.hero {
-		display: flex; flex-wrap: wrap; gap: 2.4rem 4rem;
+		display: flex; flex-wrap: wrap; gap: 1.5rem 2.5rem;
 		align-items: flex-end; justify-content: space-between;
-		margin-bottom: 3.2rem;
+		margin-bottom: 2rem;
 	}
-	.hero-copy { flex: 1 1 35.2rem; }
-	.subhead { color: var(--muted); font-size: 1.68rem; margin: 0 0 1.6rem; max-width: 46ch; }
+	.hero-copy { flex: 1 1 22rem; }
+	.subhead { color: var(--muted); font-size: 1.05rem; margin: 0 0 1rem; max-width: 46ch; }
 	.download-btn {
-		display: inline-block; font-size: 1.44rem; font-weight: 600; text-decoration: none;
+		display: inline-block; font-size: 0.9rem; font-weight: 600; text-decoration: none;
 		color: var(--accent); border: 1.5px solid var(--accent); border-radius: 8px;
-		padding: 0.8rem 1.6rem;
+		padding: 0.5rem 1rem;
 	}
 	.download-btn:hover { background: var(--accent); color: #fff; }
-	.stat { flex: 0 0 auto; display: flex; align-items: center; gap: 1.2rem; max-width: 30rem; }
-	.stat-num { font-size: 4.8rem; font-weight: 800; color: var(--accent); line-height: 1; letter-spacing: -0.02em; }
-	.stat-label { flex: 1; font-size: 1.44rem; color: var(--muted); }
+	.stat { flex: 0 0 auto; display: flex; align-items: center; gap: 0.75rem; max-width: 18.75rem; }
+	.stat-num { font-size: 3rem; font-weight: 800; color: var(--accent); line-height: 1; letter-spacing: -0.02em; }
+	.stat-label { flex: 1; font-size: 0.9rem; color: var(--muted); }
 
 	.controls {
-		display: flex; flex-wrap: wrap; align-items: center; gap: 1.2rem 1.6rem;
-		margin-bottom: 2rem; padding: 1.44rem 1.6rem;
+		display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1rem;
+		margin-bottom: 1.25rem; padding: 0.9rem 1rem;
 		background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
 		position: sticky; top: 0; z-index: 2;
 	}
 	.controls input[type='search'] {
-		flex: 1 1 22.4rem; min-width: 16rem; padding: 0.8rem 1.12rem;
-		border: 1px solid var(--line); border-radius: 7px; font-size: 1.52rem;
+		flex: 1 1 14rem; min-width: 10rem; padding: 0.5rem 0.7rem;
+		border: 1px solid var(--line); border-radius: 7px; font-size: 0.95rem;
 	}
-	.controls label { font-size: 1.36rem; color: var(--muted); display: inline-flex; align-items: center; gap: 0.64rem; }
-	.controls select { padding: 0.64rem 0.8rem; border: 1px solid var(--line); border-radius: 7px; font-size: 1.44rem; }
+	.controls label { font-size: 0.85rem; color: var(--muted); display: inline-flex; align-items: center; gap: 0.4rem; }
+	.controls select { padding: 0.4rem 0.5rem; border: 1px solid var(--line); border-radius: 7px; font-size: 0.9rem; }
 	.controls .toggle { cursor: pointer; }
-	.count { margin-left: auto; font-size: 1.36rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+	.count { margin-left: auto; font-size: 0.85rem; color: var(--muted); font-variant-numeric: tabular-nums; }
 
 	.table-wrap { overflow-x: auto; }
-	table { width: 100%; border-collapse: collapse; font-size: 1.52rem; }
-	th, td { text-align: left; padding: 0.8rem 0.96rem; border-bottom: 1px solid var(--line); vertical-align: top; }
-	th { font-size: 1.248rem; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); white-space: nowrap; }
-	.num { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; width: 4.8rem; }
+	table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+	th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+	th { font-size: 0.78rem; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); white-space: nowrap; }
+	.num { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; width: 3rem; }
 	.word { font-weight: 600; white-space: nowrap; }
-	.gloss { max-width: 41.6rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+	.gloss { max-width: 26rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 	.pos { color: var(--muted); white-space: nowrap; }
 	.ipa { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; white-space: nowrap; }
 	.syl { color: var(--muted); white-space: nowrap; }
 	tr:hover td { background: var(--panel); }
 
 	.hide-ipa .ipa-col { display: none; }
-	.empty { color: var(--muted); padding: 2.4rem 0.96rem; }
+	.empty { color: var(--muted); padding: 1.5rem 0.6rem; }
 
-	.prose { margin-top: 4.8rem; }
-	.prose h2, .first100 h2 { font-size: 2.24rem; margin: 0 0 0.96rem; }
+	.prose { margin-top: 3rem; }
+	.prose h2, .first100 h2 { font-size: 1.4rem; margin: 0 0 0.6rem; }
 	.prose p { max-width: 68ch; }
 
-	.first100 { margin-top: 4rem; }
+	.first100 { margin-top: 2.5rem; }
 	.first100 > p { max-width: 68ch; }
 	.chips {
-		list-style: none; padding: 0; margin: 2rem 0 0;
-		display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.8rem;
+		list-style: none; padding: 0; margin: 1.25rem 0 0;
+		display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.5rem;
 		counter-reset: chip;
 	}
 	.chips li {
-		display: flex; flex-direction: column; gap: 0.08rem;
-		padding: 0.72rem 0.96rem; border: 1px solid var(--line); border-radius: 7px;
+		display: flex; flex-direction: column; gap: 0.05rem;
+		padding: 0.45rem 0.6rem; border: 1px solid var(--line); border-radius: 7px;
 		background: var(--panel); position: relative;
 	}
 	.chip-word { font-weight: 650; }
 	.chip-word::before { counter-increment: chip; content: counter(chip) ". "; color: var(--muted); font-weight: 400; }
-	.chip-gloss { font-size: 1.312rem; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+	.chip-gloss { font-size: 0.82rem; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 	@media (max-width: 640px) {
 		.stat { max-width: none; }
-		.stat-num { font-size: 3.52rem; }
-		.gloss { max-width: 19.2rem; }
+		.stat-num { font-size: 2.2rem; }
+		.gloss { max-width: 12rem; }
 		.pos-col, .syl-col { display: none; } /* keep word, meaning, IPA on small screens */
 	}
 </style>

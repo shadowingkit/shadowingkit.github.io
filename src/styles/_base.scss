@@ -1,0 +1,142 @@
+// Base reset, typography, shared primitives (buttons, section shell, labels).
+// Root font-size is the browser default 16px — the token scale is designed
+// against it (the old Jekyll base set 62.5%/10px; frequency-page rem values
+// were converted ×0.625 to keep identical rendering).
+
+*, *::before, *::after { box-sizing: border-box; }
+html { overflow-x: clip; scroll-behavior: smooth; }
+body {
+  margin: 0;
+  overflow-x: clip;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  line-height: 1.55;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+img { max-width: 100%; height: auto; }
+h1, h2, h3 {
+  font-family: var(--font-display);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.12;
+  overflow-wrap: anywhere;
+  min-width: 0;
+  margin: 0 0 var(--space-md);
+}
+p { margin: 0 0 var(--space-md); color: var(--color-ink-body); }
+a { color: var(--color-accent-2-deep); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:active { opacity: 0.8; }
+a:focus-visible, summary:focus-visible {
+  outline: 3px solid var(--color-focus);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.section {
+  max-width: var(--shell);
+  margin-inline: auto;
+  padding: var(--space-3xl) var(--page-gutter);
+  scroll-margin-top: var(--space-2xl);
+}
+.section--band { max-width: none; padding-inline: 0; }
+.section--band > .band-inner {
+  max-width: var(--shell);
+  margin-inline: auto;
+  padding-inline: var(--page-gutter);
+}
+.mono-label {
+  font-family: var(--font-label);
+  font-size: 11px;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: var(--color-ink-2);
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* ---------- Hum push button ---------- */
+.btn {
+  --btn-face: var(--color-accent);
+  --btn-ink: var(--color-ink);
+  --btn-edge: var(--color-accent-deep);
+  --btn-cast: var(--color-accent-cast);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  padding: 0.8rem 1.4rem;
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  font-weight: 600;
+  border: 0;
+  border-radius: var(--radius-pill);
+  color: var(--btn-ink);
+  background: var(--btn-face);
+  cursor: pointer;
+  position: relative;
+  isolation: isolate;
+  text-decoration: none;
+  white-space: nowrap;
+  box-shadow: 0 4px 0 0 var(--btn-edge), 0 6px 12px -3px var(--btn-cast);
+  transform: translateY(0);
+  transition: transform 140ms var(--ease-press), box-shadow 140ms var(--ease-press), background-color 160ms;
+}
+.btn:hover { transform: translateY(-2px); box-shadow: 0 6px 0 0 var(--btn-edge), 0 12px 22px -4px var(--btn-cast); }
+.btn:active { transform: translateY(3px); box-shadow: 0 1px 0 0 var(--btn-edge), 0 2px 6px -2px var(--btn-cast); transition-duration: 70ms; }
+.btn:focus-visible { outline: 3px solid color-mix(in oklch, var(--btn-edge) 70%, var(--color-focus)); outline-offset: 3px; }
+.btn[disabled] { opacity: 0.55; cursor: not-allowed; pointer-events: none; transform: none; box-shadow: 0 4px 0 0 var(--btn-edge); }
+.btn--coral {
+  --btn-face: var(--color-accent-3);
+  --btn-edge: var(--color-accent-3-deep);
+  --btn-cast: var(--color-coral-cast);
+  --btn-ink: var(--color-ink);
+}
+.btn--ink {
+  --btn-face: var(--color-ink);
+  --btn-edge: var(--color-ink-deep);
+  --btn-cast: var(--color-ink-cast);
+  --btn-ink: var(--color-paper);
+}
+.star-burst {
+  position: absolute;
+  width: 24px; height: 24px;
+  background:
+    linear-gradient(90deg, transparent 47%, var(--color-accent-3) 47% 53%, transparent 53%),
+    linear-gradient(0deg,  transparent 47%, var(--color-accent-3) 47% 53%, transparent 53%);
+  animation: star-burst 420ms ease-out forwards;
+  pointer-events: none;
+}
+@keyframes star-burst {
+  0%   { transform: scale(0) rotate(0deg);    opacity: 1; }
+  60%  { transform: scale(1.2) rotate(35deg); opacity: 0.9; }
+  100% { transform: scale(1.4) rotate(45deg); opacity: 0; }
+}
+
+/* QR hint (final CTA + reusable) */
+.qr-hint {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+.qr-hint img { width: 72px; height: 72px; border-radius: var(--radius-input); border: var(--rule-hair) solid var(--color-rule); background: var(--color-paper); }
+.qr-hint span { font-size: var(--text-sm); color: var(--color-ink-2); line-height: 1.4; max-width: 18ch; }
+
+/* ---------- Reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 150ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 150ms !important;
+  }
+  .foot-marquee__track { animation: none; }
+  .btn:hover, .btn:active, .cell:hover { transform: none; }
+  .star-burst { display: none; }
+}
