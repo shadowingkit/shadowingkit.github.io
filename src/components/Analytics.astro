@@ -1,7 +1,7 @@
 ---
 // Google tag (gtag.js) — port of _includes/analytics.html
 import { analytics } from '../config';
-const gaId = analytics.googleAnalyticsId;
+const gaId = import.meta.env.DEV ? undefined : analytics.googleAnalyticsId;
 ---
 {gaId && (
   <>
