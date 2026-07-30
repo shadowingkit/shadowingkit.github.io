@@ -63,10 +63,18 @@
 }
 .nav-pill__tool:hover { color: var(--color-ink); }
 @media (max-width: 60rem) {
+  /* hidden links leave the grid, so drop to 2 columns or the right group
+     auto-places into the centered middle track and overlaps the wordmark */
+  .nav-pill { grid-template-columns: auto 1fr; }
   .nav-pill__links { display: none; }
+  /* the track can squeeze the wordmark below its nowrap text, which then
+     paints under the button — pin it to its content width */
+  .nav-pill .wordmark { min-width: max-content; }
 }
 @media (max-width: 40rem) {
+  .nav-pill { gap: var(--space-xs); }
   .nav-pill__tool { display: none; }
+  .nav-pill .btn { font-size: var(--text-sm); padding: 0.9rem 1rem; }
 }
 
 /* ---------- Ft8 marquee footer ---------- */
