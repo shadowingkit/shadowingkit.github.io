@@ -1,0 +1,112 @@
+---
+// Journey timeline — "The Climb": four learner stages drawn as ascending steps
+// with a literal gap between Listening and Speaking; ShadowingKit is the bridge.
+// Hover (desktop) / tap (mobile) feeds the detail bar below the graphic. The
+// gap message renders server-side as the default, so the story reads with no JS.
+// Design locked 2026-07-30; spec in docs/intent/journey-timeline.md (private).
+const stages = [
+  {
+    key: 's1', state: 'done', name: '1 · Comprehension',
+    say: '“I follow the plot of my shows.”',
+    detail: 'You read Spanish and understand most of it. Vocabulary and grammar stopped being the wall.',
+  },
+  {
+    key: 's2', state: 'done', name: '2 · Listening',
+    say: '“I understand my Latino friends.”',
+    detail: 'Native speed no longer loses you. Podcasts, sitcoms, and group chats make sense.',
+  },
+  {
+    key: 's3', state: 'todo', name: '3 · Speaking',
+    say: '“Words come out before I translate.”',
+    detail: 'Your mouth keeps up with your thoughts. Conversations stop feeling like exams.',
+  },
+  {
+    key: 's4', state: 'todo', name: '4 · Mastery',
+    say: '“Spanish is part of my day.”',
+    detail: 'You think, joke, and argue in Spanish without noticing the switch.',
+  },
+];
+const gap = {
+  say: '“But when I speak, nothing comes out.”',
+  detail: 'You’re halfway. Understanding is built. Speaking gets trained here, 10 minutes a day.',
+};
+const [comprehension, listening, speaking, mastery] = stages;
+---
+<section class="section section--band journey" aria-labelledby="journey-title">
+  <div class="band-inner">
+  <p class="mono-label">The journey</p>
+  <h2 id="journey-title">You&rsquo;re closer than you think</h2>
+  <p class="journey__lede">
+    Understanding builds first. Speaking is a separate skill. Every learner
+    hits this gap.
+  </p>
+
+  <div class="journey__climb">
+    {[comprehension, listening].map((s) => (
+      <button
+        type="button"
+        class={`journey__stage journey__stage--${s.state} journey__stage--${s.key}`}
+        data-journey-stage
+        data-q={s.say}
+        data-d={s.detail}
+        aria-pressed="false"
+      >
+        <span class="journey__name">{s.name}</span>
+        <span class="journey__say">{s.say}</span>
+      </button>
+    ))}
+    <button
+      type="button"
+      class="journey__gap is-active"
+      data-journey-stage
+      data-q={gap.say}
+      data-d={gap.detail}
+      aria-pressed="true"
+    >
+      <span class="journey__pin">You are here</span>
+      <span class="journey__bridge">ShadowingKit</span>
+      <span class="journey__floor">Most apps leave you at stage two.</span>
+    </button>
+    {[speaking, mastery].map((s) => (
+      <button
+        type="button"
+        class={`journey__stage journey__stage--${s.state} journey__stage--${s.key}`}
+        data-journey-stage
+        data-q={s.say}
+        data-d={s.detail}
+        aria-pressed="false"
+      >
+        <span class="journey__name">{s.name}</span>
+        <span class="journey__say">{s.say}</span>
+      </button>
+    ))}
+  </div>
+
+  <div class="journey__detail" aria-live="polite">
+    <p class="journey__detail-q">{gap.say}</p>
+    <p class="journey__detail-d">{gap.detail}</p>
+  </div>
+  <p class="journey__hint" aria-hidden="true">Hover or tap any stage.</p>
+  </div>
+</section>
+
+<script>
+  document.querySelectorAll('.journey').forEach((root) => {
+    const q = root.querySelector('.journey__detail-q');
+    const d = root.querySelector('.journey__detail-d');
+    const stages = root.querySelectorAll('[data-journey-stage]');
+    const activate = (btn) => {
+      stages.forEach((s) => {
+        s.classList.toggle('is-active', s === btn);
+        s.setAttribute('aria-pressed', String(s === btn));
+      });
+      q.textContent = btn.dataset.q;
+      d.textContent = btn.dataset.d;
+    };
+    stages.forEach((btn) => {
+      ['mouseenter', 'focus', 'click'].forEach((ev) => {
+        btn.addEventListener(ev, () => activate(btn));
+      });
+    });
+  });
+</script>

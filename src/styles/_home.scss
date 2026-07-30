@@ -63,6 +63,169 @@
     .hero__figure img { width: min(70%, 280px); transform: none; }
   }
 
+  /* ---------- Journey — "The Climb" stage timeline (cyan band) ---------- */
+  .journey { background: var(--tint-cyan); }
+  .journey h2 { font-size: var(--text-xl); max-width: 38rem; }
+  .journey__lede { max-width: 38rem; margin-bottom: var(--space-xl); }
+  .journey__climb {
+    display: flex;
+    align-items: flex-end;
+    gap: var(--space-sm);
+    padding-top: var(--space-2xl); /* headroom for the pin above stage 2 */
+  }
+  .journey__stage {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: left;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+    padding: var(--space-sm) var(--space-md);
+    border: 0;
+    border-radius: 14px 14px 6px 6px;
+    transition:
+      transform var(--dur-short) var(--ease-out),
+      background-color var(--dur-short) var(--ease-out),
+      border-color var(--dur-short) var(--ease-out);
+  }
+  .journey__stage:focus-visible,
+  .journey__gap:focus-visible { outline: 3px solid var(--color-focus); outline-offset: 3px; }
+  .journey__name {
+    font-family: var(--font-label);
+    font-size: 11px;
+    letter-spacing: 0.10em;
+    text-transform: uppercase;
+    color: var(--color-ink-2);
+  }
+  .journey__say { font-weight: 600; font-size: var(--text-sm); line-height: 1.35; margin-top: var(--space-2xs); }
+  .journey__stage--done { background: var(--tint-pear); }
+  .journey__stage--todo { background: var(--color-paper); border: 2px dashed var(--color-rule); }
+  .journey__stage--done.is-active { background: var(--tint-pear-2); }
+  .journey__stage--todo.is-active { border-color: var(--color-accent-deep); }
+  .journey__stage--s1 { min-height: 6.5rem; }
+  .journey__stage--s2 { min-height: 9.5rem; }
+  .journey__stage--s3 { min-height: 12.5rem; }
+  .journey__stage--s4 { min-height: 15.5rem; }
+  .journey__gap {
+    flex: 0 0 clamp(7rem, 12vw, 9.5rem);
+    align-self: stretch;
+    position: relative;
+    background: none;
+    border: 0;
+    border-radius: 14px;
+    padding: 0;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+  }
+  .journey__pin {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: grid;
+    justify-items: center;
+    gap: var(--space-2xs);
+    font-family: var(--font-label);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.10em;
+    text-transform: uppercase;
+    color: var(--color-accent-3-deep);
+    white-space: nowrap;
+  }
+  .journey__pin::before {
+    content: "";
+    width: 12px;
+    height: 12px;
+    border-radius: var(--radius-pill);
+    background: var(--color-accent-3);
+    border: 3px solid var(--color-paper);
+    box-shadow: 0 0 0 2px var(--color-accent-3);
+  }
+  .journey__bridge {
+    position: absolute;
+    top: 46%;
+    left: calc(-1 * var(--space-md));
+    right: calc(-1 * var(--space-md));
+    transform: rotate(-10deg);
+    background: var(--color-accent);
+    border-radius: var(--radius-pill);
+    padding: var(--space-2xs) var(--space-xs);
+    text-align: center;
+    font-weight: 700;
+    font-size: var(--text-sm);
+    box-shadow: 0 3px 0 0 var(--color-accent-deep), var(--shadow-contact);
+    transition: transform var(--dur-short) var(--ease-out);
+  }
+  .journey__floor {
+    position: absolute;
+    bottom: var(--space-xs);
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    padding-inline: var(--space-2xs);
+    font-size: var(--text-sm);
+    font-style: italic;
+    line-height: 1.35;
+    color: var(--color-ink-2);
+    text-align: center;
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .journey__stage--done:hover { background: var(--tint-pear-2); transform: translateY(-4px); }
+    .journey__stage--todo:hover { border-color: var(--color-accent-deep); transform: translateY(-4px); }
+    .journey__gap:hover .journey__bridge { transform: rotate(-10deg) translateY(-3px); }
+  }
+  .journey__detail {
+    margin-top: var(--space-lg);
+    display: grid;
+    gap: var(--space-2xs);
+    min-height: 4.6rem;
+    padding: var(--space-md) var(--space-lg);
+    background: var(--color-paper);
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-card);
+  }
+  .journey__detail p { margin: 0; }
+  .journey__detail-q { font-weight: 700; color: var(--color-ink); }
+  .journey__detail-d { color: var(--color-ink-2); font-size: var(--text-sm); }
+  .journey__hint {
+    margin: var(--space-sm) 0 0;
+    font-family: var(--font-label);
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--color-ink-2);
+  }
+  @media (max-width: 48rem) {
+    .journey__climb { flex-direction: column; align-items: stretch; gap: var(--space-xs); padding-top: 0; }
+    .journey__stage { flex: none; border-radius: 14px; justify-content: flex-start; }
+    .journey__stage--s1, .journey__stage--s2, .journey__stage--s3, .journey__stage--s4 { min-height: 0; }
+    /* staircase indent: cards widen toward mastery */
+    .journey__stage--s1 { margin-inline-end: 4.5rem; }
+    .journey__stage--s2 { margin-inline-end: 3rem; }
+    .journey__stage--s3 { margin-inline-end: 1.5rem; }
+    .journey__stage--s4 { margin-inline-end: 0; }
+    .journey__gap {
+      flex: none;
+      margin-inline-end: 2.25rem;
+      display: grid;
+      justify-items: center;
+      gap: var(--space-xs);
+      padding: var(--space-md);
+      background: var(--tint-coral);
+    }
+    .journey__pin, .journey__floor { position: static; transform: none; }
+    .journey__floor { width: auto; }
+    .journey__bridge { position: static; width: min(14rem, 90%); transform: rotate(-4deg); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .journey__stage:hover { transform: none; }
+    .journey__gap:hover .journey__bridge { transform: rotate(-10deg); }
+  }
+
   /* ---------- Bento ---------- */
   .bento-head { margin-bottom: var(--space-xl); max-width: 38rem; }
   .bento-head h2 { font-size: var(--text-xl); }
